@@ -1,0 +1,3090 @@
+[
+  {
+    "id": "candidate-1",
+    "name": "Sample Candidate 1",
+    "race": "region-chair",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-2",
+    "name": "Sample Candidate 2",
+    "race": "region-chair",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-3",
+    "name": "Sample Candidate 3",
+    "race": "region-chair",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-4",
+    "name": "Sample Candidate 4",
+    "race": "kitchener-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-5",
+    "name": "Sample Candidate 5",
+    "race": "kitchener-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-6",
+    "name": "Sample Candidate 6",
+    "race": "kitchener-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-7",
+    "name": "Sample Candidate 7",
+    "race": "kitchener-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-8",
+    "name": "Sample Candidate 8",
+    "race": "region-kitchener",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-9",
+    "name": "Sample Candidate 9",
+    "race": "region-kitchener",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-10",
+    "name": "Sample Candidate 10",
+    "race": "kitchener-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-11",
+    "name": "Sample Candidate 11",
+    "race": "kitchener-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": ""
+      }
+    }
+  },
+  {
+    "id": "candidate-12",
+    "name": "Sample Candidate 12",
+    "race": "kitchener-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-13",
+    "name": "Sample Candidate 13",
+    "race": "kitchener-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-14",
+    "name": "Sample Candidate 14",
+    "race": "kitchener-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-15",
+    "name": "Sample Candidate 15",
+    "race": "kitchener-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-16",
+    "name": "Sample Candidate 16",
+    "race": "kitchener-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q2a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-17",
+    "name": "Sample Candidate 17",
+    "race": "kitchener-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-18",
+    "name": "Sample Candidate 18",
+    "race": "kitchener-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-19",
+    "name": "Sample Candidate 19",
+    "race": "kitchener-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-20",
+    "name": "Sample Candidate 20",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-21",
+    "name": "Sample Candidate 21",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-22",
+    "name": "Sample Candidate 22",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q4a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-23",
+    "name": "Sample Candidate 23",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-24",
+    "name": "Sample Candidate 24",
+    "race": "kitchener-ward-6",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-25",
+    "name": "Sample Candidate 25",
+    "race": "kitchener-ward-6",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-26",
+    "name": "Sample Candidate 26",
+    "race": "kitchener-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-27",
+    "name": "Sample Candidate 27",
+    "race": "kitchener-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-28",
+    "name": "Sample Candidate 28",
+    "race": "kitchener-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-29",
+    "name": "Sample Candidate 29",
+    "race": "kitchener-ward-8",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-30",
+    "name": "Sample Candidate 30",
+    "race": "kitchener-ward-9",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-31",
+    "name": "Sample Candidate 31",
+    "race": "kitchener-ward-9",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-32",
+    "name": "Sample Candidate 32",
+    "race": "kitchener-ward-10",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-33",
+    "name": "Sample Candidate 33",
+    "race": "kitchener-ward-10",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-34",
+    "name": "Sample Candidate 34",
+    "race": "kitchener-ward-10",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-35",
+    "name": "Sample Candidate 35",
+    "race": "kitchener-ward-10",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-36",
+    "name": "Sample Candidate 36",
+    "race": "waterloo-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-37",
+    "name": "Sample Candidate 37",
+    "race": "waterloo-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-38",
+    "name": "Sample Candidate 38",
+    "race": "waterloo-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-39",
+    "name": "Sample Candidate 39",
+    "race": "waterloo-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-40",
+    "name": "Sample Candidate 40",
+    "race": "region-waterloo",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": ""
+      }
+    }
+  },
+  {
+    "id": "candidate-41",
+    "name": "Sample Candidate 41",
+    "race": "region-waterloo",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-42",
+    "name": "Sample Candidate 42",
+    "race": "region-waterloo",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-43",
+    "name": "Sample Candidate 43",
+    "race": "region-waterloo",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-44",
+    "name": "Sample Candidate 44",
+    "race": "waterloo-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-45",
+    "name": "Sample Candidate 45",
+    "race": "waterloo-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-46",
+    "name": "Sample Candidate 46",
+    "race": "waterloo-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-47",
+    "name": "Sample Candidate 47",
+    "race": "waterloo-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-48",
+    "name": "Sample Candidate 48",
+    "race": "waterloo-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": ""
+      }
+    }
+  },
+  {
+    "id": "candidate-49",
+    "name": "Sample Candidate 49",
+    "race": "waterloo-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-50",
+    "name": "Sample Candidate 50",
+    "race": "waterloo-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-51",
+    "name": "Sample Candidate 51",
+    "race": "waterloo-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-52",
+    "name": "Sample Candidate 52",
+    "race": "waterloo-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-53",
+    "name": "Sample Candidate 53",
+    "race": "waterloo-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-54",
+    "name": "Sample Candidate 54",
+    "race": "waterloo-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-55",
+    "name": "Sample Candidate 55",
+    "race": "waterloo-ward-5",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-56",
+    "name": "Sample Candidate 56",
+    "race": "waterloo-ward-5",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-57",
+    "name": "Sample Candidate 57",
+    "race": "waterloo-ward-6",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-58",
+    "name": "Sample Candidate 58",
+    "race": "waterloo-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-59",
+    "name": "Sample Candidate 59",
+    "race": "waterloo-ward-6",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-60",
+    "name": "Sample Candidate 60",
+    "race": "waterloo-ward-6",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-61",
+    "name": "Sample Candidate 61",
+    "race": "waterloo-ward-7",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-62",
+    "name": "Sample Candidate 62",
+    "race": "waterloo-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-63",
+    "name": "Sample Candidate 63",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-64",
+    "name": "Sample Candidate 64",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-65",
+    "name": "Sample Candidate 65",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-66",
+    "name": "Sample Candidate 66",
+    "race": "region-cambridge",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-67",
+    "name": "Sample Candidate 67",
+    "race": "region-cambridge",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-68",
+    "name": "Sample Candidate 68",
+    "race": "region-cambridge",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-69",
+    "name": "Sample Candidate 69",
+    "race": "cambridge-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-70",
+    "name": "Sample Candidate 70",
+    "race": "cambridge-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": ""
+      }
+    }
+  },
+  {
+    "id": "candidate-71",
+    "name": "Sample Candidate 71",
+    "race": "cambridge-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-72",
+    "name": "Sample Candidate 72",
+    "race": "cambridge-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-73",
+    "name": "Sample Candidate 73",
+    "race": "cambridge-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-74",
+    "name": "Sample Candidate 74",
+    "race": "cambridge-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-75",
+    "name": "Sample Candidate 75",
+    "race": "cambridge-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-76",
+    "name": "Sample Candidate 76",
+    "race": "cambridge-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-77",
+    "name": "Sample Candidate 77",
+    "race": "cambridge-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-78",
+    "name": "Sample Candidate 78",
+    "race": "cambridge-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": ""
+      }
+    }
+  },
+  {
+    "id": "candidate-79",
+    "name": "Sample Candidate 79",
+    "race": "cambridge-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-80",
+    "name": "Sample Candidate 80",
+    "race": "cambridge-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-81",
+    "name": "Sample Candidate 81",
+    "race": "cambridge-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-82",
+    "name": "Sample Candidate 82",
+    "race": "cambridge-ward-5",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": ""
+      }
+    }
+  },
+  {
+    "id": "candidate-83",
+    "name": "Sample Candidate 83",
+    "race": "cambridge-ward-5",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": ""
+      }
+    }
+  },
+  {
+    "id": "candidate-84",
+    "name": "Sample Candidate 84",
+    "race": "cambridge-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-85",
+    "name": "Sample Candidate 85",
+    "race": "cambridge-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-86",
+    "name": "Sample Candidate 86",
+    "race": "cambridge-ward-6",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-87",
+    "name": "Sample Candidate 87",
+    "race": "cambridge-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-88",
+    "name": "Sample Candidate 88",
+    "race": "cambridge-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-89",
+    "name": "Sample Candidate 89",
+    "race": "cambridge-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-90",
+    "name": "Sample Candidate 90",
+    "race": "cambridge-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "No",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-91",
+    "name": "Sample Candidate 91",
+    "race": "cambridge-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-92",
+    "name": "Sample Candidate 92",
+    "race": "cambridge-ward-8",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Yes",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-93",
+    "name": "Sample Candidate 93",
+    "race": "cambridge-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "candidate-94",
+    "name": "Sample Candidate 94",
+    "race": "cambridge-ward-8",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "q1a": {
+        "choice": "Unsure",
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q1b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q2a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q2b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q3a": {
+        "choice": "Yes",
+        "comment": ""
+      },
+      "q3b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q4a": {
+        "choice": "No",
+        "comment": ""
+      },
+      "q4b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      },
+      "q5a": {
+        "choice": "Unsure",
+        "comment": ""
+      },
+      "q5b": {
+        "comment": "Placeholder answer text. The candidate's full written response will appear here, exactly as submitted, including multiple sentences where they chose to elaborate."
+      }
+    }
+  },
+  {
+    "id": "candidate-95",
+    "name": "Sample Candidate 95",
+    "race": "cambridge-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  }
+]

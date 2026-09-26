@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About the survey · CycleWR 2026 Candidate Survey</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="./"><span class="brand-mark" aria-hidden="true">●</span> CycleWR <span class="brand-sub">2026 Candidate Survey</span></a>
+      <nav aria-label="Main">
+        <a href="./">Find your ward</a>
+        <a href="about.html" aria-current="page">About the survey</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="wrap prose">
+    <h1>About the survey</h1>
+    <p>[Placeholder] CycleWR sent this survey to every registered candidate for Regional Chair, mayor, regional council and city/township council in the Region of Waterloo. Candidates' answers are published exactly as submitted.</p>
+    <h2>How we contacted candidates</h2>
+    <p>[Placeholder] Dates, contact method, reminder schedule, response deadline.</p>
+    <h2>Candidates who did not respond</h2>
+    <p>[Placeholder] Candidates who did not reply are listed as “did not respond”. Late responses will be added as they arrive.</p>
+    <h2>The questions</h2>
+    <div id="question-list"><p>Loading…</p></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Responses are published as submitted by candidates. CycleWR does not endorse candidates.</p>
+    </div>
+  </footer>
+
+  <script type="module">
+    import { loadData, esc } from './assets/js/data.js';
+    const { survey } = await loadData();
+    document.getElementById('question-list').innerHTML = survey.topics.map(t => `
+      <h3>${esc(t.title)}</h3>
+      <ol>${t.questions.map(q => `<li>${esc(q.text)}</li>`).join('')}</ol>`).join('');
+  </script>
+</body>
+</html>

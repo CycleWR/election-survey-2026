@@ -1,0 +1,906 @@
+{
+  "type": "FeatureCollection",
+  "placeholder": true,
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "kitchener-ward-1",
+        "municipality": "kitchener",
+        "ward": 1,
+        "name": "Kitchener Ward 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.56,
+              43.37
+            ],
+            [
+              -80.528,
+              43.37
+            ],
+            [
+              -80.528,
+              43.4075
+            ],
+            [
+              -80.56,
+              43.4075
+            ],
+            [
+              -80.56,
+              43.37
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "kitchener-ward-2",
+        "municipality": "kitchener",
+        "ward": 2,
+        "name": "Kitchener Ward 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.528,
+              43.37
+            ],
+            [
+              -80.49600000000001,
+              43.37
+            ],
+            [
+              -80.49600000000001,
+              43.4075
+            ],
+            [
+              -80.528,
+              43.4075
+            ],
+            [
+              -80.528,
+              43.37
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "kitchener-ward-3",
+        "municipality": "kitchener",
+        "ward": 3,
+        "name": "Kitchener Ward 3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.49600000000001,
+              43.37
+            ],
+            [
+              -80.464,
+              43.37
+            ],
+            [
+              -80.464,
+              43.4075
+            ],
+            [
+              -80.49600000000001,
+              43.4075
+            ],
+            [
+              -80.49600000000001,
+              43.37
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "kitchener-ward-4",
+        "municipality": "kitchener",
+        "ward": 4,
+        "name": "Kitchener Ward 4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.464,
+              43.37
+            ],
+            [
+              -80.432,
+              43.37
+            ],
+            [
+              -80.432,
+              43.4075
+            ],
+            [
+              -80.464,
+              43.4075
+            ],
+            [
+              -80.464,
+              43.37
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "kitchener-ward-5",
+        "municipality": "kitchener",
+        "ward": 5,
+        "name": "Kitchener Ward 5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.432,
+              43.37
+            ],
+            [
+              -80.4,
+              43.37
+            ],
+            [
+              -80.4,
+              43.4075
+            ],
+            [
+              -80.432,
+              43.4075
+            ],
+            [
+              -80.432,
+              43.37
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "kitchener-ward-6",
+        "municipality": "kitchener",
+        "ward": 6,
+        "name": "Kitchener Ward 6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.56,
+              43.4075
+            ],
+            [
+              -80.528,
+              43.4075
+            ],
+            [
+              -80.528,
+              43.445
+            ],
+            [
+              -80.56,
+              43.445
+            ],
+            [
+              -80.56,
+              43.4075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "kitchener-ward-7",
+        "municipality": "kitchener",
+        "ward": 7,
+        "name": "Kitchener Ward 7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.528,
+              43.4075
+            ],
+            [
+              -80.49600000000001,
+              43.4075
+            ],
+            [
+              -80.49600000000001,
+              43.445
+            ],
+            [
+              -80.528,
+              43.445
+            ],
+            [
+              -80.528,
+              43.4075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "kitchener-ward-8",
+        "municipality": "kitchener",
+        "ward": 8,
+        "name": "Kitchener Ward 8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.49600000000001,
+              43.4075
+            ],
+            [
+              -80.464,
+              43.4075
+            ],
+            [
+              -80.464,
+              43.445
+            ],
+            [
+              -80.49600000000001,
+              43.445
+            ],
+            [
+              -80.49600000000001,
+              43.4075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "kitchener-ward-9",
+        "municipality": "kitchener",
+        "ward": 9,
+        "name": "Kitchener Ward 9"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.464,
+              43.4075
+            ],
+            [
+              -80.432,
+              43.4075
+            ],
+            [
+              -80.432,
+              43.445
+            ],
+            [
+              -80.464,
+              43.445
+            ],
+            [
+              -80.464,
+              43.4075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "kitchener-ward-10",
+        "municipality": "kitchener",
+        "ward": 10,
+        "name": "Kitchener Ward 10"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.432,
+              43.4075
+            ],
+            [
+              -80.4,
+              43.4075
+            ],
+            [
+              -80.4,
+              43.445
+            ],
+            [
+              -80.432,
+              43.445
+            ],
+            [
+              -80.432,
+              43.4075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "waterloo-ward-1",
+        "municipality": "waterloo",
+        "ward": 1,
+        "name": "Waterloo Ward 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.6,
+              43.447
+            ],
+            [
+              -80.57249999999999,
+              43.447
+            ],
+            [
+              -80.57249999999999,
+              43.48350000000001
+            ],
+            [
+              -80.6,
+              43.48350000000001
+            ],
+            [
+              -80.6,
+              43.447
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "waterloo-ward-2",
+        "municipality": "waterloo",
+        "ward": 2,
+        "name": "Waterloo Ward 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.57249999999999,
+              43.447
+            ],
+            [
+              -80.54499999999999,
+              43.447
+            ],
+            [
+              -80.54499999999999,
+              43.48350000000001
+            ],
+            [
+              -80.57249999999999,
+              43.48350000000001
+            ],
+            [
+              -80.57249999999999,
+              43.447
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "waterloo-ward-3",
+        "municipality": "waterloo",
+        "ward": 3,
+        "name": "Waterloo Ward 3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.54499999999999,
+              43.447
+            ],
+            [
+              -80.5175,
+              43.447
+            ],
+            [
+              -80.5175,
+              43.48350000000001
+            ],
+            [
+              -80.54499999999999,
+              43.48350000000001
+            ],
+            [
+              -80.54499999999999,
+              43.447
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "waterloo-ward-4",
+        "municipality": "waterloo",
+        "ward": 4,
+        "name": "Waterloo Ward 4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.5175,
+              43.447
+            ],
+            [
+              -80.49,
+              43.447
+            ],
+            [
+              -80.49,
+              43.48350000000001
+            ],
+            [
+              -80.5175,
+              43.48350000000001
+            ],
+            [
+              -80.5175,
+              43.447
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "waterloo-ward-5",
+        "municipality": "waterloo",
+        "ward": 5,
+        "name": "Waterloo Ward 5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.6,
+              43.48350000000001
+            ],
+            [
+              -80.56333333333333,
+              43.48350000000001
+            ],
+            [
+              -80.56333333333333,
+              43.52
+            ],
+            [
+              -80.6,
+              43.52
+            ],
+            [
+              -80.6,
+              43.48350000000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "waterloo-ward-6",
+        "municipality": "waterloo",
+        "ward": 6,
+        "name": "Waterloo Ward 6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.56333333333333,
+              43.48350000000001
+            ],
+            [
+              -80.52666666666666,
+              43.48350000000001
+            ],
+            [
+              -80.52666666666666,
+              43.52
+            ],
+            [
+              -80.56333333333333,
+              43.52
+            ],
+            [
+              -80.56333333333333,
+              43.48350000000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "waterloo-ward-7",
+        "municipality": "waterloo",
+        "ward": 7,
+        "name": "Waterloo Ward 7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.52666666666666,
+              43.48350000000001
+            ],
+            [
+              -80.49,
+              43.48350000000001
+            ],
+            [
+              -80.49,
+              43.52
+            ],
+            [
+              -80.52666666666666,
+              43.52
+            ],
+            [
+              -80.52666666666666,
+              43.48350000000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "cambridge-ward-1",
+        "municipality": "cambridge",
+        "ward": 1,
+        "name": "Cambridge Ward 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.38,
+              43.33
+            ],
+            [
+              -80.345,
+              43.33
+            ],
+            [
+              -80.345,
+              43.379999999999995
+            ],
+            [
+              -80.38,
+              43.379999999999995
+            ],
+            [
+              -80.38,
+              43.33
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "cambridge-ward-2",
+        "municipality": "cambridge",
+        "ward": 2,
+        "name": "Cambridge Ward 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.345,
+              43.33
+            ],
+            [
+              -80.31,
+              43.33
+            ],
+            [
+              -80.31,
+              43.379999999999995
+            ],
+            [
+              -80.345,
+              43.379999999999995
+            ],
+            [
+              -80.345,
+              43.33
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "cambridge-ward-3",
+        "municipality": "cambridge",
+        "ward": 3,
+        "name": "Cambridge Ward 3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.31,
+              43.33
+            ],
+            [
+              -80.27499999999999,
+              43.33
+            ],
+            [
+              -80.27499999999999,
+              43.379999999999995
+            ],
+            [
+              -80.31,
+              43.379999999999995
+            ],
+            [
+              -80.31,
+              43.33
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "cambridge-ward-4",
+        "municipality": "cambridge",
+        "ward": 4,
+        "name": "Cambridge Ward 4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.27499999999999,
+              43.33
+            ],
+            [
+              -80.24,
+              43.33
+            ],
+            [
+              -80.24,
+              43.379999999999995
+            ],
+            [
+              -80.27499999999999,
+              43.379999999999995
+            ],
+            [
+              -80.27499999999999,
+              43.33
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "cambridge-ward-5",
+        "municipality": "cambridge",
+        "ward": 5,
+        "name": "Cambridge Ward 5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.38,
+              43.379999999999995
+            ],
+            [
+              -80.345,
+              43.379999999999995
+            ],
+            [
+              -80.345,
+              43.43
+            ],
+            [
+              -80.38,
+              43.43
+            ],
+            [
+              -80.38,
+              43.379999999999995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "cambridge-ward-6",
+        "municipality": "cambridge",
+        "ward": 6,
+        "name": "Cambridge Ward 6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.345,
+              43.379999999999995
+            ],
+            [
+              -80.31,
+              43.379999999999995
+            ],
+            [
+              -80.31,
+              43.43
+            ],
+            [
+              -80.345,
+              43.43
+            ],
+            [
+              -80.345,
+              43.379999999999995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "cambridge-ward-7",
+        "municipality": "cambridge",
+        "ward": 7,
+        "name": "Cambridge Ward 7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.31,
+              43.379999999999995
+            ],
+            [
+              -80.27499999999999,
+              43.379999999999995
+            ],
+            [
+              -80.27499999999999,
+              43.43
+            ],
+            [
+              -80.31,
+              43.43
+            ],
+            [
+              -80.31,
+              43.379999999999995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "race": "cambridge-ward-8",
+        "municipality": "cambridge",
+        "ward": 8,
+        "name": "Cambridge Ward 8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.27499999999999,
+              43.379999999999995
+            ],
+            [
+              -80.24,
+              43.379999999999995
+            ],
+            [
+              -80.24,
+              43.43
+            ],
+            [
+              -80.27499999999999,
+              43.43
+            ],
+            [
+              -80.27499999999999,
+              43.379999999999995
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

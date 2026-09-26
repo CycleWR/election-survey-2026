@@ -1,0 +1,116 @@
+{
+  "title": "CycleWR 2026 Municipal Candidate Survey",
+  "placeholder": true,
+  "topics": [
+    {
+      "id": "safety",
+      "title": "Safe Streets",
+      "description": "Vision Zero, traffic calming and speed limits",
+      "questions": [
+        {
+          "id": "q1a",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Unsure"
+          ],
+          "text": "[Placeholder] Yes/no question 1a about safe streets?"
+        },
+        {
+          "id": "q1b",
+          "type": "open",
+          "text": "[Placeholder] Open-ended question 1b about safe streets."
+        }
+      ]
+    },
+    {
+      "id": "network",
+      "title": "Connected Network",
+      "description": "Building a complete, protected cycling network",
+      "questions": [
+        {
+          "id": "q2a",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Unsure"
+          ],
+          "text": "[Placeholder] Yes/no question 2a about connected network?"
+        },
+        {
+          "id": "q2b",
+          "type": "open",
+          "text": "[Placeholder] Open-ended question 2b about connected network."
+        }
+      ]
+    },
+    {
+      "id": "transit",
+      "title": "Transit & Multi-modal Trips",
+      "description": "Bikes and transit working together",
+      "questions": [
+        {
+          "id": "q3a",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Unsure"
+          ],
+          "text": "[Placeholder] Yes/no question 3a about transit & multi-modal trips?"
+        },
+        {
+          "id": "q3b",
+          "type": "open",
+          "text": "[Placeholder] Open-ended question 3b about transit & multi-modal trips."
+        }
+      ]
+    },
+    {
+      "id": "maintenance",
+      "title": "Year-round Maintenance",
+      "description": "Winter clearing and upkeep of bike lanes and trails",
+      "questions": [
+        {
+          "id": "q4a",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Unsure"
+          ],
+          "text": "[Placeholder] Yes/no question 4a about year-round maintenance?"
+        },
+        {
+          "id": "q4b",
+          "type": "open",
+          "text": "[Placeholder] Open-ended question 4b about year-round maintenance."
+        }
+      ]
+    },
+    {
+      "id": "funding",
+      "title": "Funding & Priorities",
+      "description": "Budgets, targets and accountability",
+      "questions": [
+        {
+          "id": "q5a",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Unsure"
+          ],
+          "text": "[Placeholder] Yes/no question 5a about funding & priorities?"
+        },
+        {
+          "id": "q5b",
+          "type": "open",
+          "text": "[Placeholder] Open-ended question 5b about funding & priorities."
+        }
+      ]
+    }
+  ]
+}

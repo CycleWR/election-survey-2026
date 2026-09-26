@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CycleWR 2026 Candidate Survey</title>
+  <meta name="description" content="Where Waterloo Region's 2026 municipal candidates stand on cycling. Find your ward and read every candidate's survey responses.">
+  <link rel="stylesheet" href="assets/vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="./"><span class="brand-mark" aria-hidden="true">●</span> CycleWR <span class="brand-sub">2026 Candidate Survey</span></a>
+      <nav aria-label="Main">
+        <a href="./" aria-current="page">Find your ward</a>
+        <a href="about.html">About the survey</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero">
+      <div class="wrap">
+        <h1>Where do your candidates stand on cycling?</h1>
+        <p class="lede">We asked every candidate in the Region of Waterloo's 2026 municipal election about safe streets, bike networks and more. Select your ward on the map, or pick a race from the list, to read their answers.</p>
+        <p class="election-date">Election day: <strong>Monday, October 26, 2026</strong></p>
+      </div>
+    </section>
+
+    <section class="wrap map-section" aria-labelledby="map-heading">
+      <h2 id="map-heading">Choose your ward</h2>
+      <div id="placeholder-note" class="notice" hidden>Demo ward shapes — real boundaries will replace these before launch.</div>
+      <div id="map" role="region" aria-label="Map of ward boundaries. The list of races below has the same links."></div>
+      <p class="map-help">Not sure which ward you live in? Use your municipality's “find my ward” tool, then come back here.</p>
+    </section>
+
+    <section class="wrap" aria-labelledby="races-heading">
+      <h2 id="races-heading">All races</h2>
+      <div id="race-directory" class="directory"><p>Loading…</p></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Responses are published as submitted by candidates. CycleWR does not endorse candidates.</p>
+    </div>
+  </footer>
+
+  <script src="assets/vendor/leaflet/leaflet.js"></script>
+  <script type="module" src="assets/js/home.js"></script>
+</body>
+</html>
