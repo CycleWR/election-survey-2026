@@ -9,7 +9,7 @@ the sheet (emails, phone numbers, notes) is ignored. Races are derived from the
 candidate rows, so add a row (name + race, no answers) for candidates who did
 not respond.
 """
-import csv, io, json, re, sys, urllib.request
+import csv, io, json, re, sys, urllib.error, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -24,7 +24,12 @@ def read_rows(cfg, source):
     if source == "--sheet":
         s = cfg["sheet"]
         url = f"https://docs.google.com/spreadsheets/d/{s['id']}/export?format=csv&gid={s['gid']}"
-        text = urllib.request.urlopen(url, timeout=60).read().decode("utf-8-sig")
+        try:
+            text = urllib.request.urlopen(url, timeout=60).read().decode("utf-8-sig")
+        except urllib.error.HTTPError as e:
+            if e.code in (401, 403):
+                sys.exit("Google refused access to the sheet: share it as 'Anyone with the link can view'.")
+            raise
         if text.lstrip().lower().startswith(("<!doctype", "<html")):
             sys.exit("Google returned a web page, not CSV: share the sheet as 'Anyone with the link can view'.")
     else:
