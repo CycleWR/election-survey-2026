@@ -34,8 +34,10 @@ def read_rows(cfg, source):
             sys.exit("Google returned a web page, not CSV: share the sheet as 'Anyone with the link can view'.")
     else:
         text = Path(source).read_text(encoding="utf-8-sig")
-    rows = list(csv.DictReader(io.StringIO(text)))
-    return [{(k or "").strip(): (v or "").strip() for k, v in r.items()} for r in rows]
+    reader = csv.DictReader(io.StringIO(text))
+    rows = [{(k or "").strip(): (v or "").strip() for k, v in r.items()} for r in reader]
+    header = [h.strip() for h in reader.fieldnames or []]
+    return header, rows, text
 
 
 def parse_race(text, municipalities):
@@ -76,15 +78,15 @@ def normalise_choice(value, choices):
 def main(source):
     cfg = json.loads((ROOT / "config/survey.json").read_text())
     cols, munis = cfg["candidateColumns"], cfg["municipalities"]
-    rows = read_rows(cfg, source)
+    header, rows, raw = read_rows(cfg, source)
 
-    header = set(rows[0]) if rows else set()
     wanted = [cols["name"]] + [q[k] for t in cfg["topics"] for q in t["questions"]
                                for k in ("column", "commentColumn") if q.get(k)]
     missing = [c for c in wanted if c not in header]
     if missing:
         sys.exit("Columns not found in sheet (check config/survey.json):\n  " + "\n  ".join(missing)
-                 + "\n\nThe sheet's columns are:\n  " + "\n  ".join(repr(h) for h in (rows[0] if rows else [])))
+                 + "\n\nThe sheet's columns are:\n  " + "\n  ".join(repr(h) for h in header)
+                 + "\n\nFirst rows of the sheet, as downloaded:\n" + "\n".join(raw.splitlines()[:15]))
 
     races, candidates, problems, seen = {}, [], [], {}
     for i, row in enumerate(rows, start=2):
