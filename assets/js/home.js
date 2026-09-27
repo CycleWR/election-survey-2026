@@ -27,8 +27,14 @@ document.getElementById('race-directory').innerHTML = html;
 // ---- Map ----
 const geo = await fetch('data/wards.geojson').then((r) => r.json());
 if (geo.placeholder) document.getElementById('placeholder-note').hidden = false;
+const mapped = new Set(geo.features.map((f) => f.properties.municipality));
+const unmapped = [...data.municipalities.values()].filter((m) => m.id !== 'region' && !mapped.has(m.id));
+if (unmapped.length) {
+  document.getElementById('unmapped-note').textContent =
+    `${new Intl.ListFormat('en').format(unmapped.map((m) => m.name))} ${unmapped.length > 1 ? "aren't" : "isn't"} on the map — choose your race from the list below.`;
+}
 
-const colours = { kitchener: '#1f7a4d', waterloo: '#2a6fb0', cambridge: '#b0582a' };
+const colours = { kitchener: '#2f6f1a', waterloo: '#1f5fa8' };
 const colour = (f) => colours[f.properties.municipality] || '#6b5ca5';
 
 const map = L.map('map', { scrollWheelZoom: false });

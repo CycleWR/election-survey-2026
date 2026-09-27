@@ -1,0 +1,1634 @@
+Candidate name,Email,Municipality,Position,Ward,Campaign website,Q1,Q1 comment,Q2,Q3,Q3 comment,Q4,Q5,Q5 comment,Q6,Q7,Q7 comment,Q8,Q9,Q9 comment,Q10
+Sample Candidate 1,private1@example.com,Kitchener,Mayor,,,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,
+Sample Candidate 2,private2@example.com,Kitchener,Mayor,,,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 3,private3@example.com,Kitchener,Regional Councillor,,https://example.com,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 4,private4@example.com,Kitchener,Regional Councillor,,https://example.com,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 5,private5@example.com,Kitchener,Councillor,Ward 1,https://example.com,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 6,private6@example.com,Kitchener,Councillor,Ward 1,https://example.com,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 7,private7@example.com,Kitchener,Councillor,Ward 1,https://example.com,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 8,private8@example.com,Kitchener,Councillor,Ward 1,,,,,,,,,,,,,,,,
+Sample Candidate 9,private9@example.com,Kitchener,Councillor,Ward 2,https://example.com,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 10,private10@example.com,Kitchener,Councillor,Ward 2,https://example.com,Unsure,,,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 11,private11@example.com,Kitchener,Councillor,Ward 2,,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 12,private12@example.com,Kitchener,Councillor,Ward 3,https://example.com,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 13,private13@example.com,Kitchener,Councillor,Ward 3,,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 14,private14@example.com,Kitchener,Councillor,Ward 3,https://example.com,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 15,private15@example.com,Kitchener,Councillor,Ward 4,,,,,,,,,,,,,,,,
+Sample Candidate 16,private16@example.com,Kitchener,Councillor,Ward 4,https://example.com,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 17,private17@example.com,Kitchener,Councillor,Ward 4,https://example.com,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 18,private18@example.com,Kitchener,Councillor,Ward 4,https://example.com,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,
+Sample Candidate 19,private19@example.com,Kitchener,Councillor,Ward 5,,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 20,private20@example.com,Kitchener,Councillor,Ward 5,,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 21,private21@example.com,Kitchener,Councillor,Ward 6,,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 22,private22@example.com,Kitchener,Councillor,Ward 6,,,,,,,,,,,,,,,,
+Sample Candidate 23,private23@example.com,Kitchener,Councillor,Ward 7,,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 24,private24@example.com,Kitchener,Councillor,Ward 7,,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 25,private25@example.com,Kitchener,Councillor,Ward 7,,,,,,,,,,,,,,,,
+Sample Candidate 26,private26@example.com,Kitchener,Councillor,Ward 8,https://example.com,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 27,private27@example.com,Kitchener,Councillor,Ward 8,,,,,,,,,,,,,,,,
+Sample Candidate 28,private28@example.com,Kitchener,Councillor,Ward 9,,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",
+Sample Candidate 29,private29@example.com,Kitchener,Councillor,Ward 9,,Unsure,,,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 30,private30@example.com,Kitchener,Councillor,Ward 9,,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 31,private31@example.com,Kitchener,Councillor,Ward 10,,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 32,private32@example.com,Kitchener,Councillor,Ward 10,,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 33,private33@example.com,Kitchener,Councillor,Ward 10,https://example.com,,,,,,,,,,,,,,,
+Sample Candidate 34,private34@example.com,Kitchener,Councillor,Ward 10,https://example.com,,,,,,,,,,,,,,,
+Sample Candidate 35,private35@example.com,Waterloo,Mayor,,https://example.com,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 36,private36@example.com,Waterloo,Mayor,,https://example.com,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 37,private37@example.com,Waterloo,Mayor,,,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 38,private38@example.com,Waterloo,Regional Councillor,,https://example.com,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 39,private39@example.com,Waterloo,Regional Councillor,,,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 40,private40@example.com,Waterloo,Regional Councillor,,,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 41,private41@example.com,Waterloo,Regional Councillor,,https://example.com,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 42,private42@example.com,Waterloo,Councillor,Ward 1,,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 43,private43@example.com,Waterloo,Councillor,Ward 1,https://example.com,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 44,private44@example.com,Waterloo,Councillor,Ward 1,,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 45,private45@example.com,Waterloo,Councillor,Ward 2,https://example.com,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 46,private46@example.com,Waterloo,Councillor,Ward 2,,,,,,,,,,,,,,,,
+Sample Candidate 47,private47@example.com,Waterloo,Councillor,Ward 3,https://example.com,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 48,private48@example.com,Waterloo,Councillor,Ward 3,,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 49,private49@example.com,Waterloo,Councillor,Ward 4,,,,,,,,,,,,,,,,
+Sample Candidate 50,private50@example.com,Waterloo,Councillor,Ward 4,https://example.com,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 51,private51@example.com,Waterloo,Councillor,Ward 4,,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 52,private52@example.com,Waterloo,Councillor,Ward 5,,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 53,private53@example.com,Waterloo,Councillor,Ward 5,,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 54,private54@example.com,Waterloo,Councillor,Ward 6,https://example.com,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 55,private55@example.com,Waterloo,Councillor,Ward 6,https://example.com,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 56,private56@example.com,Waterloo,Councillor,Ward 6,,No,,,Yes,,,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 57,private57@example.com,Waterloo,Councillor,Ward 6,https://example.com,,,,,,,,,,,,,,,
+Sample Candidate 58,private58@example.com,Waterloo,Councillor,Ward 7,,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 59,private59@example.com,Waterloo,Councillor,Ward 7,,,,,,,,,,,,,,,,
+Sample Candidate 60,private60@example.com,Waterloo,Councillor,Ward 7,https://example.com,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 61,private61@example.com,Waterloo,Councillor,Ward 7,,,,,,,,,,,,,,,,
+Sample Candidate 62,private62@example.com,Cambridge,Mayor,,,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 63,private63@example.com,Cambridge,Mayor,,,,,,,,,,,,,,,,,
+Sample Candidate 64,private64@example.com,Cambridge,Mayor,,,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 65,private65@example.com,Cambridge,Mayor,,https://example.com,,,,,,,,,,,,,,,
+Sample Candidate 66,private66@example.com,Cambridge,Regional Councillor,,https://example.com,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 67,private67@example.com,Cambridge,Regional Councillor,,,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 68,private68@example.com,Cambridge,Regional Councillor,,https://example.com,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",
+Sample Candidate 69,private69@example.com,Cambridge,Regional Councillor,,https://example.com,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 70,private70@example.com,Cambridge,Councillor,Ward 1,,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 71,private71@example.com,Cambridge,Councillor,Ward 1,,,,,,,,,,,,,,,,
+Sample Candidate 72,private72@example.com,Cambridge,Councillor,Ward 1,,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 73,private73@example.com,Cambridge,Councillor,Ward 2,,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 74,private74@example.com,Cambridge,Councillor,Ward 2,https://example.com,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 75,private75@example.com,Cambridge,Councillor,Ward 2,https://example.com,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 76,private76@example.com,Cambridge,Councillor,Ward 3,,,,,,,,,,,,,,,,
+Sample Candidate 77,private77@example.com,Cambridge,Councillor,Ward 3,https://example.com,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 78,private78@example.com,Cambridge,Councillor,Ward 4,https://example.com,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 79,private79@example.com,Cambridge,Councillor,Ward 4,https://example.com,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",
+Sample Candidate 80,private80@example.com,Cambridge,Councillor,Ward 4,,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 81,private81@example.com,Cambridge,Councillor,Ward 4,,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 82,private82@example.com,Cambridge,Councillor,Ward 5,,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 83,private83@example.com,Cambridge,Councillor,Ward 5,https://example.com,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 84,private84@example.com,Cambridge,Councillor,Ward 5,https://example.com,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 85,private85@example.com,Cambridge,Councillor,Ward 5,https://example.com,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 86,private86@example.com,Cambridge,Councillor,Ward 6,,,,,,,,,,,,,,,,
+Sample Candidate 87,private87@example.com,Cambridge,Councillor,Ward 6,https://example.com,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 88,private88@example.com,Cambridge,Councillor,Ward 6,,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 89,private89@example.com,Cambridge,Councillor,Ward 6,,,,,,,,,,,,,,,,
+Sample Candidate 90,private90@example.com,Cambridge,Councillor,Ward 7,,Yes,,,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 91,private91@example.com,Cambridge,Councillor,Ward 7,,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 92,private92@example.com,Cambridge,Councillor,Ward 7,,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 93,private93@example.com,Cambridge,Councillor,Ward 7,https://example.com,,,,,,,,,,,,,,,
+Sample Candidate 94,private94@example.com,Cambridge,Councillor,Ward 8,,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",
+Sample Candidate 95,private95@example.com,Cambridge,Councillor,Ward 8,https://example.com,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 96,private96@example.com,Cambridge,Councillor,Ward 8,,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 97,private97@example.com,Wilmot,Mayor,,,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 98,private98@example.com,Wilmot,Mayor,,,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 99,private99@example.com,Wilmot,Mayor,,https://example.com,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 100,private100@example.com,Wilmot,Councillor,Ward 1,https://example.com,Unsure,,,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 101,private101@example.com,Wilmot,Councillor,Ward 1,,,,,,,,,,,,,,,,
+Sample Candidate 102,private102@example.com,Wilmot,Councillor,Ward 1,https://example.com,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 103,private103@example.com,Wilmot,Councillor,Ward 2,https://example.com,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",
+Sample Candidate 104,private104@example.com,Wilmot,Councillor,Ward 2,https://example.com,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 105,private105@example.com,Wilmot,Councillor,Ward 2,,,,,,,,,,,,,,,,
+Sample Candidate 106,private106@example.com,Wilmot,Councillor,Ward 3,https://example.com,Yes,,,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 107,private107@example.com,Wilmot,Councillor,Ward 3,https://example.com,,,,,,,,,,,,,,,
+Sample Candidate 108,private108@example.com,Wilmot,Councillor,Ward 4,https://example.com,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 109,private109@example.com,Wilmot,Councillor,Ward 4,,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 110,private110@example.com,Wilmot,Councillor,Ward 4,,,,,,,,,,,,,,,,
+Sample Candidate 111,private111@example.com,Woolwich,Mayor,,https://example.com,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,
+Sample Candidate 112,private112@example.com,Woolwich,Mayor,,,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 113,private113@example.com,Woolwich,Mayor,,,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 114,private114@example.com,Woolwich,Mayor,,https://example.com,,,,,,,,,,,,,,,
+Sample Candidate 115,private115@example.com,Woolwich,Councillor,Ward 1,,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 116,private116@example.com,Woolwich,Councillor,Ward 1,https://example.com,,,,,,,,,,,,,,,
+Sample Candidate 117,private117@example.com,Woolwich,Councillor,Ward 2,https://example.com,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 118,private118@example.com,Woolwich,Councillor,Ward 2,,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 119,private119@example.com,Woolwich,Councillor,Ward 2,https://example.com,No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 120,private120@example.com,Woolwich,Councillor,Ward 2,,,,,,,,,,,,,,,,
+Sample Candidate 121,private121@example.com,Woolwich,Councillor,Ward 3,https://example.com,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 122,private122@example.com,Woolwich,Councillor,Ward 3,,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 123,private123@example.com,Woolwich,Councillor,Ward 3,,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 124,private124@example.com,Woolwich,Councillor,Ward 3,,,,,,,,,,,,,,,,
+Sample Candidate 125,private125@example.com,Wellesley,Mayor,,,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 126,private126@example.com,Wellesley,Mayor,,https://example.com,No,,,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 127,private127@example.com,Wellesley,Councillor,Ward 1,https://example.com,Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 128,private128@example.com,Wellesley,Councillor,Ward 1,https://example.com,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 129,private129@example.com,Wellesley,Councillor,Ward 2,,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,,No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 130,private130@example.com,Wellesley,Councillor,Ward 2,,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 131,private131@example.com,Wellesley,Councillor,Ward 3,https://example.com,Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 132,private132@example.com,Wellesley,Councillor,Ward 3,https://example.com,Unsure,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Unsure,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 133,private133@example.com,Wellesley,Councillor,Ward 4,,,,,,,,,,,,,,,,
+Sample Candidate 134,private134@example.com,Wellesley,Councillor,Ward 4,https://example.com,No,,,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."
+Sample Candidate 135,private135@example.com,Wellesley,Councillor,Ward 4,https://example.com,Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",Yes,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.","Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept.",No,,"Sample answer. A real candidate's full written response appears here exactly as submitted.
+
+Line breaks between paragraphs are kept."

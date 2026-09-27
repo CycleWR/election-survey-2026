@@ -1,0 +1,48 @@
+# Pulls candidate responses from the Google Sheet (and ward boundaries from the
+# Region of Waterloo open data portal) and commits the rebuilt data/*.json.
+name: Update data
+
+on:
+  workflow_dispatch:
+    inputs:
+      refresh_wards:
+        description: Re-download ward boundaries
+        type: boolean
+        default: false
+  schedule:
+    - cron: "17 */6 * * *"   # every 6 hours
+  push:
+    paths: [config/survey.json, scripts/**]
+
+permissions:
+  contents: write
+
+concurrency: update-data
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Download ward boundaries (first run, or when requested)
+        run: |
+          if [ "${{ inputs.refresh_wards }}" = "true" ] || grep -q '"placeholder": true' data/wards.geojson; then
+            python3 scripts/fetch_wards.py
+          fi
+
+      - name: Build data from Google Sheet
+        run: python3 scripts/build_data.py --sheet
+
+      - name: Commit changes
+        if: ${{ !cancelled() }}   # still save ward boundaries if the sheet step failed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Update survey data"
+          git push

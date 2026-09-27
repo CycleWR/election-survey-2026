@@ -1,114 +1,113 @@
 {
   "title": "CycleWR 2026 Municipal Candidate Survey",
-  "placeholder": true,
   "topics": [
     {
       "id": "safety",
       "title": "Safe Streets",
-      "description": "Vision Zero, traffic calming and speed limits",
+      "description": "[Placeholder topic]",
       "questions": [
         {
-          "id": "q1a",
+          "id": "q1",
           "type": "choice",
           "choices": [
             "Yes",
             "No",
             "Unsure"
           ],
-          "text": "[Placeholder] Yes/no question 1a about safe streets?"
+          "text": "[Placeholder] Question 1"
         },
         {
-          "id": "q1b",
+          "id": "q2",
           "type": "open",
-          "text": "[Placeholder] Open-ended question 1b about safe streets."
+          "text": "[Placeholder] Question 2"
         }
       ]
     },
     {
       "id": "network",
       "title": "Connected Network",
-      "description": "Building a complete, protected cycling network",
+      "description": "[Placeholder topic]",
       "questions": [
         {
-          "id": "q2a",
+          "id": "q3",
           "type": "choice",
           "choices": [
             "Yes",
             "No",
             "Unsure"
           ],
-          "text": "[Placeholder] Yes/no question 2a about connected network?"
+          "text": "[Placeholder] Question 3"
         },
         {
-          "id": "q2b",
+          "id": "q4",
           "type": "open",
-          "text": "[Placeholder] Open-ended question 2b about connected network."
+          "text": "[Placeholder] Question 4"
         }
       ]
     },
     {
       "id": "transit",
       "title": "Transit & Multi-modal Trips",
-      "description": "Bikes and transit working together",
+      "description": "[Placeholder topic]",
       "questions": [
         {
-          "id": "q3a",
+          "id": "q5",
           "type": "choice",
           "choices": [
             "Yes",
             "No",
             "Unsure"
           ],
-          "text": "[Placeholder] Yes/no question 3a about transit & multi-modal trips?"
+          "text": "[Placeholder] Question 5"
         },
         {
-          "id": "q3b",
+          "id": "q6",
           "type": "open",
-          "text": "[Placeholder] Open-ended question 3b about transit & multi-modal trips."
+          "text": "[Placeholder] Question 6"
         }
       ]
     },
     {
       "id": "maintenance",
       "title": "Year-round Maintenance",
-      "description": "Winter clearing and upkeep of bike lanes and trails",
+      "description": "[Placeholder topic]",
       "questions": [
         {
-          "id": "q4a",
+          "id": "q7",
           "type": "choice",
           "choices": [
             "Yes",
             "No",
             "Unsure"
           ],
-          "text": "[Placeholder] Yes/no question 4a about year-round maintenance?"
+          "text": "[Placeholder] Question 7"
         },
         {
-          "id": "q4b",
+          "id": "q8",
           "type": "open",
-          "text": "[Placeholder] Open-ended question 4b about year-round maintenance."
+          "text": "[Placeholder] Question 8"
         }
       ]
     },
     {
       "id": "funding",
       "title": "Funding & Priorities",
-      "description": "Budgets, targets and accountability",
+      "description": "[Placeholder topic]",
       "questions": [
         {
-          "id": "q5a",
+          "id": "q9",
           "type": "choice",
           "choices": [
             "Yes",
             "No",
             "Unsure"
           ],
-          "text": "[Placeholder] Yes/no question 5a about funding & priorities?"
+          "text": "[Placeholder] Question 9"
         },
         {
-          "id": "q5b",
+          "id": "q10",
           "type": "open",
-          "text": "[Placeholder] Open-ended question 5b about funding & priorities."
+          "text": "[Placeholder] Question 10"
         }
       ]
     }

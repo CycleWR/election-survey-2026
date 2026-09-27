@@ -1,10 +1,6 @@
 {
   "municipalities": [
     {
-      "id": "region",
-      "name": "Region of Waterloo"
-    },
-    {
       "id": "kitchener",
       "name": "Kitchener"
     },
@@ -15,15 +11,21 @@
     {
       "id": "cambridge",
       "name": "Cambridge"
+    },
+    {
+      "id": "wilmot",
+      "name": "Wilmot"
+    },
+    {
+      "id": "woolwich",
+      "name": "Woolwich"
+    },
+    {
+      "id": "wellesley",
+      "name": "Wellesley"
     }
   ],
   "races": [
-    {
-      "id": "region-chair",
-      "municipality": "region",
-      "office": "Regional Chair",
-      "name": "Regional Chair"
-    },
     {
       "id": "kitchener-mayor",
       "municipality": "kitchener",
@@ -31,7 +33,7 @@
       "name": "Kitchener Mayor"
     },
     {
-      "id": "region-kitchener",
+      "id": "kitchener-regional-councillor",
       "municipality": "kitchener",
       "office": "Regional Councillor",
       "name": "Regional Councillor (Kitchener)"
@@ -113,7 +115,7 @@
       "name": "Waterloo Mayor"
     },
     {
-      "id": "region-waterloo",
+      "id": "waterloo-regional-councillor",
       "municipality": "waterloo",
       "office": "Regional Councillor",
       "name": "Regional Councillor (Waterloo)"
@@ -174,7 +176,7 @@
       "name": "Cambridge Mayor"
     },
     {
-      "id": "region-cambridge",
+      "id": "cambridge-regional-councillor",
       "municipality": "cambridge",
       "office": "Regional Councillor",
       "name": "Regional Councillor (Cambridge)"
@@ -234,6 +236,101 @@
       "office": "Ward Councillor",
       "ward": 8,
       "name": "Cambridge Ward 8 Councillor"
+    },
+    {
+      "id": "wilmot-mayor",
+      "municipality": "wilmot",
+      "office": "Mayor",
+      "name": "Wilmot Mayor"
+    },
+    {
+      "id": "wilmot-ward-1",
+      "municipality": "wilmot",
+      "office": "Ward Councillor",
+      "ward": 1,
+      "name": "Wilmot Ward 1 Councillor"
+    },
+    {
+      "id": "wilmot-ward-2",
+      "municipality": "wilmot",
+      "office": "Ward Councillor",
+      "ward": 2,
+      "name": "Wilmot Ward 2 Councillor"
+    },
+    {
+      "id": "wilmot-ward-3",
+      "municipality": "wilmot",
+      "office": "Ward Councillor",
+      "ward": 3,
+      "name": "Wilmot Ward 3 Councillor"
+    },
+    {
+      "id": "wilmot-ward-4",
+      "municipality": "wilmot",
+      "office": "Ward Councillor",
+      "ward": 4,
+      "name": "Wilmot Ward 4 Councillor"
+    },
+    {
+      "id": "woolwich-mayor",
+      "municipality": "woolwich",
+      "office": "Mayor",
+      "name": "Woolwich Mayor"
+    },
+    {
+      "id": "woolwich-ward-1",
+      "municipality": "woolwich",
+      "office": "Ward Councillor",
+      "ward": 1,
+      "name": "Woolwich Ward 1 Councillor"
+    },
+    {
+      "id": "woolwich-ward-2",
+      "municipality": "woolwich",
+      "office": "Ward Councillor",
+      "ward": 2,
+      "name": "Woolwich Ward 2 Councillor"
+    },
+    {
+      "id": "woolwich-ward-3",
+      "municipality": "woolwich",
+      "office": "Ward Councillor",
+      "ward": 3,
+      "name": "Woolwich Ward 3 Councillor"
+    },
+    {
+      "id": "wellesley-mayor",
+      "municipality": "wellesley",
+      "office": "Mayor",
+      "name": "Wellesley Mayor"
+    },
+    {
+      "id": "wellesley-ward-1",
+      "municipality": "wellesley",
+      "office": "Ward Councillor",
+      "ward": 1,
+      "name": "Wellesley Ward 1 Councillor"
+    },
+    {
+      "id": "wellesley-ward-2",
+      "municipality": "wellesley",
+      "office": "Ward Councillor",
+      "ward": 2,
+      "name": "Wellesley Ward 2 Councillor"
+    },
+    {
+      "id": "wellesley-ward-3",
+      "municipality": "wellesley",
+      "office": "Ward Councillor",
+      "ward": 3,
+      "name": "Wellesley Ward 3 Councillor"
+    },
+    {
+      "id": "wellesley-ward-4",
+      "municipality": "wellesley",
+      "office": "Ward Councillor",
+      "ward": 4,
+      "name": "Wellesley Ward 4 Councillor"
     }
   ]
 }

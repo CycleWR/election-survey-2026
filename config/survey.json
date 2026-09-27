@@ -1,0 +1,61 @@
+{
+  "_comment": "Maps Google Sheet columns to the site. 'column' values must match the sheet's header text exactly. Only columns listed here are published.",
+  "title": "CycleWR 2026 Municipal Candidate Survey",
+  "sheet": {
+    "id": "1riNb5C9ApAA7IbekjcLEzI68loT47MTD4Udnx4PSvag",
+    "gid": "0"
+  },
+  "candidateColumns": {
+    "name": "Candidate name",
+    "municipality": "Municipality",
+    "office": "Position",
+    "ward": "Ward",
+    "website": "Campaign website"
+  },
+  "municipalities": [
+    { "id": "region", "name": "Region of Waterloo" },
+    { "id": "kitchener", "name": "Kitchener" },
+    { "id": "waterloo", "name": "Waterloo" },
+    { "id": "cambridge", "name": "Cambridge" },
+    { "id": "wilmot", "name": "Wilmot" },
+    { "id": "woolwich", "name": "Woolwich" },
+    { "id": "wellesley", "name": "Wellesley" }
+  ],
+  "topics": [
+    {
+      "id": "safety", "title": "Safe Streets", "description": "[Placeholder topic]",
+      "questions": [
+        { "id": "q1", "type": "choice", "choices": ["Yes", "No", "Unsure"], "column": "Q1", "commentColumn": "Q1 comment", "text": "[Placeholder] Question 1" },
+        { "id": "q2", "type": "open", "column": "Q2", "text": "[Placeholder] Question 2" }
+      ]
+    },
+    {
+      "id": "network", "title": "Connected Network", "description": "[Placeholder topic]",
+      "questions": [
+        { "id": "q3", "type": "choice", "choices": ["Yes", "No", "Unsure"], "column": "Q3", "commentColumn": "Q3 comment", "text": "[Placeholder] Question 3" },
+        { "id": "q4", "type": "open", "column": "Q4", "text": "[Placeholder] Question 4" }
+      ]
+    },
+    {
+      "id": "transit", "title": "Transit & Multi-modal Trips", "description": "[Placeholder topic]",
+      "questions": [
+        { "id": "q5", "type": "choice", "choices": ["Yes", "No", "Unsure"], "column": "Q5", "commentColumn": "Q5 comment", "text": "[Placeholder] Question 5" },
+        { "id": "q6", "type": "open", "column": "Q6", "text": "[Placeholder] Question 6" }
+      ]
+    },
+    {
+      "id": "maintenance", "title": "Year-round Maintenance", "description": "[Placeholder topic]",
+      "questions": [
+        { "id": "q7", "type": "choice", "choices": ["Yes", "No", "Unsure"], "column": "Q7", "commentColumn": "Q7 comment", "text": "[Placeholder] Question 7" },
+        { "id": "q8", "type": "open", "column": "Q8", "text": "[Placeholder] Question 8" }
+      ]
+    },
+    {
+      "id": "funding", "title": "Funding & Priorities", "description": "[Placeholder topic]",
+      "questions": [
+        { "id": "q9", "type": "choice", "choices": ["Yes", "No", "Unsure"], "column": "Q9", "commentColumn": "Q9 comment", "text": "[Placeholder] Question 9" },
+        { "id": "q10", "type": "open", "column": "Q10", "text": "[Placeholder] Question 10" }
+      ]
+    }
+  ]
+}

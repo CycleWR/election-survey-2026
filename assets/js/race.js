@@ -29,7 +29,7 @@ $('race-summary').textContent = total
 // Other races a voter in this ward also sees on their ballot.
 const related = race.municipality === 'region'
   ? []
-  : [`${race.municipality}-mayor`, `region-${race.municipality}`, 'region-chair'];
+  : [`${race.municipality}-mayor`, `${race.municipality}-regional-councillor`, 'region-chair'];
 const relatedRaces = related.map((id) => data.races.get(id)).filter((r) => r && r.id !== race.id);
 if (relatedRaces.length) {
   $('ballot').innerHTML = `<span class="ballot-label">Also on your ballot:</span>
@@ -106,7 +106,7 @@ function renderCandidates(selectedId) {
   return `<h2 class="visually-hidden">All responses by candidate</h2>${picker}
     <div class="cand-card">
       <h2>${esc(selected.name)}</h2>
-      ${selected.website ? `<p><a href="${esc(selected.website)}" rel="noopener" target="_blank">Campaign website</a></p>` : ''}
+      ${/^https?:\/\//i.test(selected.website) ? `<p><a href="${esc(selected.website)}" rel="noopener" target="_blank">Campaign website</a></p>` : ''}
       ${body}
     </div>`;
 }
