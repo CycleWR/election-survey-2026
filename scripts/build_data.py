@@ -78,7 +78,8 @@ def main(source):
                                for k in ("column", "commentColumn") if q.get(k)]
     missing = [c for c in wanted if c not in header]
     if missing:
-        sys.exit("Columns not found in sheet (check config/survey.json):\n  " + "\n  ".join(missing))
+        sys.exit("Columns not found in sheet (check config/survey.json):\n  " + "\n  ".join(missing)
+                 + "\n\nThe sheet's columns are:\n  " + "\n  ".join(repr(h) for h in (rows[0] if rows else [])))
 
     races, candidates, problems, seen = {}, [], [], {}
     for i, row in enumerate(rows, start=2):
