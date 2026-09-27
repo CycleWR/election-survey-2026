@@ -29,17 +29,6 @@ $('race-summary').textContent = total
   ? `${responded} of ${total} candidates responded to the survey.`
   : 'No candidates are registered for this race yet.';
 
-// Who responded and who didn't, up front. Responders link to all their answers.
-const rosterGroup = (label, list, cls, link) => list.length ? `
-  <div class="roster-group ${cls}">
-    <h2>${label} <span class="count">(${list.length})</span></h2>
-    <ul>${list.map((c) => `<li>${link
-      ? `<a href="#candidate=${encodeURIComponent(c.id)}">${esc(c.name)}</a>`
-      : esc(c.name)}</li>`).join('')}</ul>
-  </div>` : '';
-$('roster').innerHTML = rosterGroup('Responded', responders, 'roster-yes', true)
-  + rosterGroup('Did not respond', nonResponders, 'roster-no', false);
-
 // Other races a voter in this ward also sees on their ballot.
 const related = race.municipality === 'region'
   ? []
@@ -67,8 +56,13 @@ function answerBody(q, a) {
     ${a.comment ? `<div class="comment">${paragraphs(a.comment)}</div>` : ''}`;
 }
 
+function nonResponderNote() {
+  if (!nonResponders.length) return '';
+  return `<aside class="nonresponders"><strong>Did not respond:</strong> ${nonResponders.map((c) => esc(c.name)).join(', ')}</aside>`;
+}
+
 function renderTopic(topic) {
-  if (!responders.length) return `<h2>${esc(topic.title)}</h2><p>No candidates in this race have responded yet.</p>`;
+  if (!responders.length) return `<h2>${esc(topic.title)}</h2><p>No candidates in this race have responded yet.</p>${nonResponderNote()}`;
   return `<h2>${esc(topic.title)}</h2>
     ${topic.description ? `<p class="topic-desc">${esc(topic.description)}</p>` : ''}
     ${topic.questions.map((q) => `
@@ -81,7 +75,8 @@ function renderTopic(topic) {
             ${answerBody(q, c.answers[q.id])}
           </li>`).join('')}
         </ul>
-      </article>`).join('')}`;
+      </article>`).join('')}
+    ${nonResponderNote()}`;
 }
 
 // Quick "3 Yes · 1 Unsure" tally for multiple-choice questions.
