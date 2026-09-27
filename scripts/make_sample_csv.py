@@ -2,7 +2,7 @@
 """Writes sample-data/responses.csv: FAKE candidate responses with the same columns, in the
 same order, as the survey spreadsheet. Not real candidates or answers.
 
-To load it into the Google Sheet: File > Import > Upload > "Append to current sheet"."""
+To load it into the Google Sheet: File > Import > Upload > "Replace current sheet"."""
 import csv, json, random
 from pathlib import Path
 

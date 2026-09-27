@@ -43,7 +43,7 @@ If the sheet has no candidate rows, the build keeps the current data rather than
 
 `sample-data/responses.csv` holds **fake** responses in the sheet's shape (regenerate with
 `python3 scripts/make_sample_csv.py`). Its columns match the sheet exactly, so it can be loaded into the
-sheet with **File → Import → Upload → Append to current sheet**. Build the site from it with:
+sheet with **File → Import → Upload → Replace current sheet** (its header row is identical to the sheet's). Build the site from it with:
 
 ```sh
 python3 scripts/build_data.py sample-data/responses.csv
