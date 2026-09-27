@@ -21,7 +21,7 @@
 
   <main id="main" class="wrap prose">
     <h1>About the survey</h1>
-    <p>[Placeholder] CycleWR sent this survey to every registered candidate for Regional Chair, mayor, regional council and city/township council in the Region of Waterloo. Candidates' answers are published exactly as submitted.</p>
+    <p>[Placeholder] CycleWR sent this survey to every registered candidate for mayor, regional council and ward council in Kitchener, Waterloo, Cambridge, Wilmot, Woolwich and Wellesley. Candidates' answers are published exactly as submitted.</p>
     <h2>How we contacted candidates</h2>
     <p>[Placeholder] Dates, contact method, reminder schedule, response deadline.</p>
     <h2>Candidates who did not respond</h2>
@@ -41,7 +41,7 @@
     const { survey } = await loadData();
     document.getElementById('question-list').innerHTML = survey.topics.map(t => `
       <h3>${esc(t.title)}</h3>
-      <ol>${t.questions.map(q => `<li>${esc(q.text)}</li>`).join('')}</ol>`).join('');
+      <ol>${t.questions.map(q => `<li>${esc(q.text)}${q.municipalities ? ` <em>(${q.municipalities.map(m => m[0].toUpperCase() + m.slice(1)).join(', ')} candidates only)</em>` : ''}</li>`).join('')}</ol>`).join('');
   </script>
 </body>
 </html>

@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
-"""Writes sample-data/responses.csv: FAKE candidate responses in the same shape as the
-survey spreadsheet, for developing the site. Not real candidates or answers."""
+"""Writes sample-data/responses.csv: FAKE candidate responses with the same columns, in the
+same order, as the survey spreadsheet. Not real candidates or answers.
+
+To load it into the Google Sheet: File > Import > Upload > "Append to current sheet"."""
 import csv, json, random
 from pathlib import Path
 
@@ -16,37 +18,43 @@ ANSWER = ("Sample answer. A real candidate's full written response appears here 
           "submitted.\n\nLine breaks between paragraphs are kept.")
 
 races = []
-for muni, n in WARDS.items():
-    races.append((muni, "Mayor", ""))
-    if muni in REGIONAL:
-        races.append((muni, "Regional Councillor", ""))
-    races += [(muni, "Councillor", f"Ward {w}") for w in range(1, n + 1)]
+for city, n in WARDS.items():
+    races.append((city, "Mayor"))
+    if city in REGIONAL:
+        races.append((city, "Regional Councillor"))
+    races += [(city, f"Ward Councillor - Ward {w}") for w in range(1, n + 1)]
 
-header = [cols["name"], "Email", cols["municipality"], cols["office"], cols["ward"], cols["website"]]
+# Form metadata and private columns come first in the sheet; they are never published.
+header = ["Submission ID", "Respondent ID", "Submitted at", cols["name"], "Your email address",
+          "unique_token", cols["municipality"], cols["office"]]
 for q in questions:
     header.append(q["column"])
     if q.get("commentColumn"):
         header.append(q["commentColumn"])
 
 rows, k = [], 0
-for muni, office, ward in races:
+for city, position in races:
     for _ in range(random.randint(2, 4)):
         k += 1
-        row = {cols["name"]: f"Sample Candidate {k}", "Email": f"private{k}@example.com",
-               cols["municipality"]: muni, cols["office"]: office, cols["ward"]: ward,
-               cols["website"]: "https://example.com" if random.random() > .5 else ""}
+        row = {"Submission ID": f"sample{k:04d}", "Respondent ID": f"resp{k:04d}",
+               "Submitted at": f"2026-09-{random.randint(1, 25):02d} 12:00:00",
+               cols["name"]: f"Sample Candidate {k}", "Your email address": f"private{k}@example.com",
+               "unique_token": f"token{k:04d}", cols["municipality"]: city, cols["office"]: position}
         if random.random() > .2:  # otherwise a non-responder: listed with no answers
             for q in questions:
+                if q.get("municipalities") and city.lower() not in q["municipalities"]:
+                    continue
                 if q["type"] == "choice":
                     row[q["column"]] = random.choice(q["choices"])
-                    row[q["commentColumn"]] = ANSWER if random.random() > .5 else ""
+                    if q.get("commentColumn"):
+                        row[q["commentColumn"]] = ANSWER if random.random() > .5 else ""
                 elif random.random() > .1:
                     row[q["column"]] = ANSWER
         rows.append(row)
 
 out = ROOT / "sample-data/responses.csv"
 out.parent.mkdir(exist_ok=True)
-with out.open("w", newline="") as f:
+with out.open("w", newline="", encoding="utf-8") as f:
     w = csv.DictWriter(f, fieldnames=header)
     w.writeheader()
     w.writerows(rows)

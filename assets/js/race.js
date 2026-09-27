@@ -15,7 +15,10 @@ const candidates = data.byRace.get(race.id) || [];
 const responders = candidates.filter((c) => c.responded);
 const nonResponders = candidates.filter((c) => !c.responded);
 const muni = data.municipalities.get(race.municipality);
-const { topics } = data.survey;
+// Some questions only apply to certain municipalities (e.g. Cambridge wayfinding).
+const topics = data.survey.topics
+  .map((t) => ({ ...t, questions: t.questions.filter((q) => !q.municipalities || q.municipalities.includes(race.municipality)) }))
+  .filter((t) => t.questions.length);
 
 // ---- Header ----
 document.title = `${race.name} · CycleWR 2026 Candidate Survey`;
@@ -40,7 +43,12 @@ if (relatedRaces.length) {
 $('tabs').innerHTML = topics.map((t) =>
   `<a role="tab" class="tab" href="#topic=${t.id}" data-key="topic=${t.id}">${esc(t.title)}</a>`).join('');
 
-const choiceClass = (c) => `chip chip-${String(c).toLowerCase().replace(/[^a-z]+/g, '-')}`;
+// Colour answers by their first word, so "Yes, with conditions" still reads as a yes.
+const choiceClass = (c) => {
+  const word = String(c).toLowerCase().match(/[a-z]+/)?.[0];
+  const tone = { yes: 'yes', no: 'no', unsure: 'unsure', undecided: 'unsure', maybe: 'unsure', not: 'unsure' }[word];
+  return `chip${tone ? ` chip-${tone}` : ''}`;
+};
 
 function answerBody(q, a) {
   if (!a || (!a.choice && !a.comment)) return '<p class="muted">No answer given.</p>';
@@ -78,7 +86,8 @@ function summaryBar(q) {
     const ch = c.answers[q.id]?.choice;
     if (ch) counts[ch] = (counts[ch] || 0) + 1;
   }
-  const parts = q.choices.filter((ch) => counts[ch]).map((ch) => `<span class="${choiceClass(ch)}">${counts[ch]} ${esc(ch)}</span>`);
+  const order = [...(q.choices || []), ...Object.keys(counts).filter((ch) => !(q.choices || []).includes(ch))];
+  const parts = order.filter((ch) => counts[ch]).map((ch) => `<span class="${choiceClass(ch)}">${counts[ch]} ${esc(ch)}</span>`);
   return parts.length ? `<p class="tally">${parts.join(' ')}</p>` : '';
 }
 

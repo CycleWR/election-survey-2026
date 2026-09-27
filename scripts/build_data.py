@@ -125,6 +125,10 @@ def main(source):
         seen[cid] = c
         candidates.append(c)
 
+    if not candidates:  # never publish an empty site because the sheet is empty or was cleared
+        print("No candidate rows in the sheet; keeping the current data.")
+        return
+
     muni_order = [m["id"] for m in munis]
     race_list = sorted(races.values(), key=lambda r: (
         muni_order.index(r["municipality"]), OFFICE_ORDER.index(r["office"]), r.get("ward", 0)))

@@ -78,7 +78,8 @@ h2 { margin-top: 36px; }
 .topic-desc { color: var(--muted); margin-top: -8px; }
 
 .question { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 20px; margin: 18px 0; }
-.question h3 { margin: 0 0 8px; font-size: 1.1rem; }
+.question h3 { margin: 0 0 8px; font-size: 1.05rem; font-weight: 650; }
+@media (max-width: 640px) { .question h3 { font-size: 1rem; font-weight: 600; } }
 .tally { display: flex; gap: 6px; flex-wrap: wrap; margin: 0 0 8px; }
 .answers { list-style: none; padding: 0; margin: 0; }
 .answer { border-top: 1px solid var(--line); padding: 12px 0; display: grid; grid-template-columns: 200px 1fr; gap: 4px 16px; }

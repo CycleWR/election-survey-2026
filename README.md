@@ -29,18 +29,21 @@ ROW open data portal ──▶ scripts/fetch_wards.py ──▶ data/wards.geojs
   (name, municipality, position, ward, website). **Only columns listed there are published** — emails,
   phone numbers or notes in the sheet never reach the site.
 - The sheet must be shared as **"Anyone with the link can view"** for the Action to download it.
-- Races are worked out from each row's municipality/position/ward text (e.g. "Kitchener", "Councillor",
-  "Ward 3"). To list a candidate who **did not respond**, add a row with their name and race and no answers.
+- Races are worked out from each row's municipality/position/ward text (the sheet's **City** and **Position**
+  columns, e.g. `Kitchener` + `Ward Councillor - Ward 3`, `Mayor` or `Regional Councillor`). To list a candidate who **did not respond**, add a row with their name and race and no answers.
 - Question `type` is `"choice"` (with `choices`, shown as coloured Yes/No/Unsure chips, optional
   `commentColumn`) or `"open"` (free text).
 - Cambridge and the townships have no boundary data, so they appear in the race list but not on the map.
 
 Generated files (don't edit by hand): `data/survey.json`, `data/races.json`, `data/candidates.json`, `data/wards.geojson`.
 
+If the sheet has no candidate rows, the build keeps the current data rather than publishing an empty site.
+
 ### Working with fake data
 
 `sample-data/responses.csv` holds **fake** responses in the sheet's shape (regenerate with
-`python3 scripts/make_sample_csv.py`). Build the site from it with:
+`python3 scripts/make_sample_csv.py`). Its columns match the sheet exactly, so it can be loaded into the
+sheet with **File → Import → Upload → Append to current sheet**. Build the site from it with:
 
 ```sh
 python3 scripts/build_data.py sample-data/responses.csv
