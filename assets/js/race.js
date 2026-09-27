@@ -93,30 +93,27 @@ function summaryBar(q) {
 
 function renderCandidates(selectedId) {
   if (!candidates.length) return '<p>No candidates are registered for this race yet.</p>';
-  const selected = candidates.find((c) => c.id === selectedId) || responders[0] || candidates[0];
-  const picker = `<div class="cand-picker" role="list">${candidates.map((c) => `
-    <a role="listitem" class="cand-pick ${c.id === selected.id ? 'is-selected' : ''} ${c.responded ? '' : 'no-response'}"
-       href="#candidate=${encodeURIComponent(c.id)}" ${c.id === selected.id ? 'aria-current="true"' : ''}>
-      ${esc(c.name)}${c.responded ? '' : ' <small>(no response)</small>'}</a>`).join('')}</div>`;
+  // Non-responders are shown greyed out and can't be selected: they have no answers to show.
+  const selected = responders.find((c) => c.id === selectedId) || responders[0];
+  const picker = `<div class="cand-picker" role="list">${candidates.map((c) => (c.responded
+    ? `<a role="listitem" class="cand-pick ${c === selected ? 'is-selected' : ''}"
+         href="#candidate=${encodeURIComponent(c.id)}" ${c === selected ? 'aria-current="true"' : ''}>${esc(c.name)}</a>`
+    : `<span role="listitem" class="cand-pick no-response" title="Did not respond to the survey">
+         ${esc(c.name)} <small>(no response)</small></span>`)).join('')}</div>`;
+  if (!selected) return `${picker}<p>No candidates in this race have responded yet.</p>`;
 
-  let body;
-  if (!selected.responded) {
-    body = `<p class="muted">${esc(selected.name)} did not respond to the survey.</p>`;
-  } else {
-    body = topics.map((t) => `
+  return `<h2 class="visually-hidden">All responses by candidate</h2>${picker}
+    <div class="cand-card">
+      <h2>${esc(selected.name)}</h2>
+      ${/^https?:\/\//i.test(selected.website) ? `<p><a href="${esc(selected.website)}" rel="noopener" target="_blank">Campaign website</a></p>` : ''}
+      ${topics.map((t) => `
       <section class="cand-topic">
         <h3>${esc(t.title)}</h3>
         ${t.questions.map((q) => `<div class="qa">
           <p class="q">${esc(q.text)}</p>
           ${answerBody(q, selected.answers[q.id])}
         </div>`).join('')}
-      </section>`).join('');
-  }
-  return `<h2 class="visually-hidden">All responses by candidate</h2>${picker}
-    <div class="cand-card">
-      <h2>${esc(selected.name)}</h2>
-      ${/^https?:\/\//i.test(selected.website) ? `<p><a href="${esc(selected.website)}" rel="noopener" target="_blank">Campaign website</a></p>` : ''}
-      ${body}
+      </section>`).join('')}
     </div>`;
 }
 

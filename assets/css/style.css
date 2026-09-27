@@ -98,8 +98,7 @@ h2 { margin-top: 36px; }
 .cand-picker { display: flex; flex-wrap: wrap; gap: 8px; margin: 20px 0; }
 .cand-pick { padding: 6px 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--card); text-decoration: none; }
 .cand-pick.is-selected { background: var(--black); color: var(--lime); border-color: var(--black); }
-.cand-pick.no-response { color: var(--muted); }
-.cand-pick.is-selected.no-response { color: #fff; background: var(--muted); border-color: var(--muted); }
+.cand-pick.no-response { color: var(--muted); background: transparent; border-style: dashed; cursor: default; }
 .cand-card { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 4px 24px 16px; }
 .cand-topic h3 { border-bottom: 3px solid var(--lime); padding-bottom: 4px; margin-top: 28px; }
 .qa { margin-bottom: 18px; }
