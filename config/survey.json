@@ -150,7 +150,7 @@
     {
       "id": "infrastructure",
       "title": "Cycling Infrastructure Budget",
-      "description": "Standalone projects to fill gaps in the cycling network, and bike parking.",
+      "description": "Standalone projects to fill the most critical gaps in the cycling network.",
       "questions": [
         {
           "id": "standalone-budget",
@@ -163,13 +163,27 @@
           "column": "Would you support a significant allocation of the Regional budget for “standalone” cycling infrastructure projects? The expectation is that staff will identify the most critical gaps in the cycling network that could be filled now, rather than waiting for the next major roadwork on that section of road?",
           "text": "Would you support a significant allocation of the Regional budget for “standalone” cycling infrastructure projects? The expectation is that staff will identify the most critical gaps in the cycling network that could be filled now, rather than waiting for the next major roadwork on that section of road?",
           "commentColumn": "Standalone Budget Comments"
-        },
+        }
+      ]
+    },
+    {
+      "id": "bike-parking",
+      "title": "Bike Parking",
+      "description": "Ideas for bike racks and secure bike storage.",
+      "questions": [
         {
           "id": "bike-racks",
           "type": "open",
           "column": "Bike Rack / Storage Ideas",
           "text": "What ideas do you have for bike racks and bike storage?"
-        },
+        }
+      ]
+    },
+    {
+      "id": "cambridge-wayfinding",
+      "title": "Cambridge Wayfinding",
+      "description": "CycleWR's wayfinding proposal for Cambridge. Asked of Cambridge candidates only.",
+      "questions": [
         {
           "id": "cambridge-wayfinding",
           "type": "choice",

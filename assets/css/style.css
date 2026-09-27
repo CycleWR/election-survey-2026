@@ -115,3 +115,11 @@ h2 { margin-top: 36px; }
 .mode:first-of-type { border-radius: 999px 0 0 999px; }
 .mode:last-of-type { border-radius: 0 999px 999px 0; border-left: 0; }
 .mode.is-active { background: var(--black); color: var(--lime); }
+
+/* Wider screens: topics as wrapping pills, since there are too many for one row of tabs. */
+@media (min-width: 700px) {
+  .view-tabs { flex-wrap: wrap; overflow: visible; gap: 8px; border-bottom: 0; }
+  .tab { margin: 0; padding: 6px 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--card); }
+  .tab:hover { border-color: var(--black); }
+  .tab.is-active { background: var(--black); color: var(--lime); border-color: var(--black); }
+}
