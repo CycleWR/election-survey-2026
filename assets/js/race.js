@@ -40,8 +40,10 @@ if (relatedRaces.length) {
 }
 
 // ---- Topic tabs (shown in "by topic" mode) ----
+// Plus an "All topics" tab that shows every question on one page.
 $('tabs').innerHTML = topics.map((t) =>
-  `<a role="tab" class="tab" href="#topic=${t.id}" data-key="topic=${t.id}">${esc(t.title)}</a>`).join('');
+  `<a role="tab" class="tab" href="#topic=${t.id}" data-key="topic=${t.id}">${esc(t.title)}</a>`).join('')
+  + '<a role="tab" class="tab tab-all" href="#topic=all" data-key="topic=all">All topics</a>';
 
 // Colour answers by their first word, so "Yes, with conditions" still reads as a yes.
 const choiceClass = (c) => {
@@ -61,8 +63,9 @@ function nonResponderNote() {
   return `<aside class="nonresponders"><strong>Did not respond:</strong> ${nonResponders.map((c) => esc(c.name)).join(', ')}</aside>`;
 }
 
-function renderTopic(topic) {
-  if (!responders.length) return `<h2>${esc(topic.title)}</h2><p>No candidates in this race have responded yet.</p>${nonResponderNote()}`;
+function renderTopic(topic, withNote = true) {
+  const note = withNote ? nonResponderNote() : '';
+  if (!responders.length) return `<h2>${esc(topic.title)}</h2><p>No candidates in this race have responded yet.</p>${note}`;
   return `<h2>${esc(topic.title)}</h2>
     ${topic.description ? `<p class="topic-desc">${esc(topic.description)}</p>` : ''}
     ${topic.questions.map((q) => `
@@ -76,7 +79,12 @@ function renderTopic(topic) {
           </li>`).join('')}
         </ul>
       </article>`).join('')}
-    ${nonResponderNote()}`;
+    ${note}`;
+}
+
+function renderAllTopics() {
+  if (!responders.length) return `<p>No candidates in this race have responded yet.</p>${nonResponderNote()}`;
+  return topics.map((t) => `<section class="all-topic">${renderTopic(t, false)}</section>`).join('') + nonResponderNote();
 }
 
 // Quick "3 Yes · 1 Unsure" tally for multiple-choice questions.
@@ -125,6 +133,9 @@ function route() {
   const byCandidate = hash.startsWith('candidate');
   if (byCandidate) {
     html = renderCandidates(hash.split('=')[1]);
+  } else if (hash === 'topic=all') {
+    key = hash;
+    html = renderAllTopics();
   } else {
     const topic = topics.find((t) => `topic=${t.id}` === hash) || topics[0];
     key = `topic=${topic.id}`;

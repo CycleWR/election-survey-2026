@@ -122,3 +122,7 @@ h2 { margin-top: 36px; }
   .tab:hover { border-color: var(--black); }
   .tab.is-active { background: var(--black); color: var(--lime); border-color: var(--black); }
 }
+
+/* "All topics": separate each topic's block clearly. */
+.all-topic + .all-topic { border-top: 3px solid var(--lime); margin-top: 32px; }
+.tab-all { font-style: italic; }
