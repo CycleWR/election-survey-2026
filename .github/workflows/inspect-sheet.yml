@@ -1,0 +1,18 @@
+# Manual helper: lists a Google Sheet's tabs and columns (see scripts/inspect_sheet.py).
+name: Inspect sheet
+
+on:
+  workflow_dispatch:
+    inputs:
+      sheet_id:
+        description: Google Sheet ID (from its URL)
+        required: true
+  push:
+    paths: [scripts/inspect_sheet.py]
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/inspect_sheet.py "${{ inputs.sheet_id || '19ojlq6fIw3AqTfyHGN-MdaRbJhvRAIBZIkm1xFMmyJY' }}"
