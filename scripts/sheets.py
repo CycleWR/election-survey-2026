@@ -29,7 +29,8 @@ def _parse_key(key):
         if isinstance(info, dict) and info.get("private_key") and info.get("client_email"):
             return info
     # Hints only: never print the secret itself.
-    hint = ("it looks like a file path, not the file's contents" if key.endswith(".json") and "\n" not in key
+    hint = ("it's only the private key; the whole JSON file is needed" if "BEGIN PRIVATE KEY" in key.replace("\\n", "\n")
+            else "it looks like a file path, not the file's contents" if key.endswith(".json") and "\n" not in key
             else "it doesn't start with '{'" if not key.startswith("{")
             else "it isn't complete, valid JSON, or lacks private_key/client_email")
     sys.exit(f"The GOOGLE_SERVICE_ACCOUNT_KEY secret isn't a service account JSON key ({hint}; {len(key)} characters). "
