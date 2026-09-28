@@ -2,23 +2,23 @@
   "_comment": "Maps Google Sheet columns to the site. 'column' / 'commentColumn' must match the sheet's header text exactly; 'text' is what the site shows. Only columns listed here are published. 'municipalities' limits a question to those races. 'sheet.tabs' lists the tabs to read (by gid, from the tab's URL); every tab must have the same columns.",
   "title": "CycleWR 2026 Municipal Candidate Survey",
   "sheet": {
-    "id": "19ojlq6fIw3AqTfyHGN-MdaRbJhvRAIBZIkm1xFMmyJY",
+    "id": "1oPc6fr3bI8jDjanTKZd0au883PLSHxkArxZsk992R9g",
     "tabs": [
       {
         "name": "Kitchener",
-        "gid": "974022566"
+        "gid": "476103226"
       },
       {
         "name": "Waterloo",
-        "gid": "623838114"
+        "gid": "683916390"
       },
       {
         "name": "Cambridge",
-        "gid": "521209506"
+        "gid": "1224822318"
       },
       {
         "name": "Townships",
-        "gid": "84587186"
+        "gid": "1482641543"
       }
     ]
   },
@@ -55,6 +55,10 @@
     {
       "id": "wellesley",
       "name": "Wellesley"
+    },
+    {
+      "id": "north-dumfries",
+      "name": "North Dumfries"
     }
   ],
   "topics": [
@@ -191,7 +195,7 @@
         {
           "id": "bike-racks",
           "type": "open",
-          "column": "Do you have ideas on how your municipality could better support installing more bike racks and/or fully enclosed bike lockers or cages?",
+          "column": "Bike Rack / Storage Ideas",
           "text": "Do you have ideas on how your municipality could better support installing more bike racks and/or fully enclosed bike lockers or cages?"
         }
       ]
