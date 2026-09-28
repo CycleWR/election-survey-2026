@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Builds the site's data/*.json from the survey spreadsheet.
 
-    python3 scripts/build_data.py responses.csv      # a downloaded CSV
-    python3 scripts/build_data.py --sheet            # fetch the Google Sheet in config/survey.json
+    python3 scripts/build_data.py responses.csv [more.csv ...]   # downloaded CSV(s), e.g. one per tab
+    python3 scripts/build_data.py --sheet                        # fetch the sheet tabs in config/survey.json
 
 Only the columns named in config/survey.json are published; everything else in
 the sheet (emails, phone numbers, notes) is ignored. Races are derived from the
@@ -20,24 +20,34 @@ def slug(s):
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
 
 
-def read_rows(cfg, source):
-    if source == "--sheet":
-        s = cfg["sheet"]
-        url = f"https://docs.google.com/spreadsheets/d/{s['id']}/export?format=csv&gid={s['gid']}"
-        try:
-            text = urllib.request.urlopen(url, timeout=60).read().decode("utf-8-sig")
-        except urllib.error.HTTPError as e:
-            if e.code in (401, 403):
-                sys.exit("Google refused access to the sheet: share it as 'Anyone with the link can view'.")
-            raise
-        if text.lstrip().lower().startswith(("<!doctype", "<html")):
-            sys.exit("Google returned a web page, not CSV: share the sheet as 'Anyone with the link can view'.")
-    else:
-        text = Path(source).read_text(encoding="utf-8-sig")
+def parse_csv(text):
     reader = csv.DictReader(io.StringIO(text))
     rows = [{(k or "").strip(): (v or "").strip() for k, v in r.items()} for r in reader]
-    header = [h.strip() for h in reader.fieldnames or []]
-    return header, rows, text
+    return [h.strip() for h in reader.fieldnames or []], rows, text
+
+
+def fetch_tab(sheet_id, tab):
+    url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv&gid={tab['gid']}"
+    try:
+        text = urllib.request.urlopen(url, timeout=60).read().decode("utf-8-sig")
+    except urllib.error.HTTPError as e:
+        if e.code in (401, 403):
+            sys.exit("Google refused access to the sheet: share it as 'Anyone with the link can view'.")
+        raise
+    if text.lstrip().lower().startswith(("<!doctype", "<html")):
+        sys.exit("Google returned a web page, not CSV: share the sheet as 'Anyone with the link can view'.")
+    return text
+
+
+def read_tabs(cfg, sources):
+    """Yields (label, header, rows, raw text) for each sheet tab (--sheet) or local CSV file."""
+    if sources == ["--sheet"]:
+        s = cfg["sheet"]
+        for tab in s["tabs"]:
+            yield (f"tab '{tab['name']}'", *parse_csv(fetch_tab(s["id"], tab)))
+    else:
+        for path in sources:
+            yield (path, *parse_csv(Path(path).read_text(encoding="utf-8-sig")))
 
 
 def parse_race(text, municipalities):
@@ -47,7 +57,7 @@ def parse_race(text, municipalities):
     ward = re.search(r"ward\D{0,3}(\d+)", t) or re.search(r"\b(\d{1,2})\b", t)
     if "chair" in t:
         office, muni = "Regional Chair", next(m for m in municipalities if m["id"] == "region")
-    elif "regional" in t:
+    elif re.search(r"\bregion", t):  # "Regional Councillor", or just "Region"
         office = "Regional Councillor"
     elif "mayor" in t:
         office = "Mayor"
@@ -75,28 +85,29 @@ def normalise_choice(value, choices):
     return value  # publish unexpected answers as written rather than dropping them
 
 
-def main(source):
+def main(sources):
     cfg = json.loads((ROOT / "config/survey.json").read_text())
     cols, munis = cfg["candidateColumns"], cfg["municipalities"]
-    header, rows, raw = read_rows(cfg, source)
-
     wanted = [cols["name"]] + [q[k] for t in cfg["topics"] for q in t["questions"]
                                for k in ("column", "commentColumn") if q.get(k)]
-    missing = [c for c in wanted if c not in header]
-    if missing:
-        sys.exit("Columns not found in sheet (check config/survey.json):\n  " + "\n  ".join(missing)
-                 + "\n\nThe sheet's columns are:\n  " + "\n  ".join(repr(h) for h in header)
-                 + "\n\nFirst rows of the sheet, as downloaded:\n" + "\n".join(raw.splitlines()[:15]))
+    rows = []
+    for label, header, tab_rows, raw in read_tabs(cfg, sources):
+        missing = [c for c in wanted if c not in header]
+        if missing:
+            sys.exit(f"Columns not found in {label} (check config/survey.json):\n  " + "\n  ".join(missing)
+                     + f"\n\n{label} has columns:\n  " + "\n  ".join(repr(h) for h in header)
+                     + "\n\nFirst rows, as downloaded:\n" + "\n".join(raw.splitlines()[:15]))
+        rows += [(label, i, r) for i, r in enumerate(tab_rows, start=2)]
 
     races, candidates, problems, seen = {}, [], [], {}
-    for i, row in enumerate(rows, start=2):
+    for label, i, row in rows:
         name = row.get(cols["name"], "")
         if not name:
             continue
         race_text = " ".join(row.get(cols[k], "") for k in ("municipality", "office", "ward") if cols.get(k))
         race = parse_race(race_text, munis)
         if not race:
-            problems.append(f"row {i} ({name}): can't tell which race from '{race_text}'")
+            problems.append(f"{label} row {i} ({name}): can't tell which race from '{race_text}'")
             continue
         races[race["id"]] = race
 
@@ -118,7 +129,7 @@ def main(source):
         cid = slug(name)
         if cid in seen:  # same name twice, e.g. a resubmission: keep the later row
             candidates.remove(seen[cid])
-            problems.append(f"row {i} ({name}): duplicate name, keeping this later row")
+            problems.append(f"{label} row {i} ({name}): duplicate name, keeping this later row")
         c = {"id": cid, "name": name, "race": race["id"],
              "website": row.get(cols.get("website", ""), ""),
              "responded": bool(answers), "answers": answers}
@@ -151,6 +162,6 @@ def write(path, obj):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
+    if len(sys.argv) < 2:
         sys.exit(__doc__)
-    main(sys.argv[1])
+    main(sys.argv[1:])

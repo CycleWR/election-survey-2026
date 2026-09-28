@@ -12,7 +12,7 @@
           "choices": [
             "Yes",
             "No",
-            "Unsure"
+            "Maybe"
           ],
           "text": "If elected, will you vote to fund your municipality’s Active Transportation Master Plan?"
         },
@@ -22,7 +22,7 @@
           "choices": [
             "Yes",
             "No",
-            "Unsure"
+            "Maybe"
           ],
           "text": "Do you think we should be spending more on active transportation?"
         },
@@ -32,7 +32,7 @@
           "choices": [
             "Yes",
             "No",
-            "Unsure"
+            "Maybe"
           ],
           "text": "If elected, would you be willing to propose specific active transportation initiatives to your council?"
         },
@@ -54,7 +54,7 @@
           "choices": [
             "Yes",
             "No",
-            "Unsure"
+            "Maybe"
           ],
           "text": "When our shared mobility contracts are next up for renewal, will you support transitioning the Region of Waterloo to a true municipal bike-share model - similar to Hamilton or Toronto - with cheaper non-electric options, and affordable monthly memberships?"
         }
@@ -71,7 +71,7 @@
           "choices": [
             "Yes",
             "No",
-            "Unsure"
+            "Maybe"
           ],
           "text": "Will you support the funding required to achieve a snow clearing standard for major cycling routes within the same time frame (maximum of 24 hours) as we have for roads?"
         }
@@ -88,7 +88,7 @@
           "choices": [
             "Yes",
             "No",
-            "Unsure"
+            "Maybe"
           ],
           "text": "The Province is proposing a new class structure for power-assisted e-bikes that would exclude moped and motorcycle-type bikes (these would require licences). For the e-bikes that do not require licences, would you support the municipalities giving the same access as a regular bike, provided they fulfill two key criteria - maximum speed from the motor of 32 km/hr and maximum weight of 55 kilograms?"
         }
@@ -105,7 +105,7 @@
           "choices": [
             "Yes",
             "No",
-            "Unsure"
+            "Maybe"
           ],
           "text": "Would you support a significant allocation of the Regional budget for “standalone” cycling infrastructure projects? The expectation is that staff will identify the most critical gaps in the cycling network that could be filled now, rather than waiting for the next major roadwork on that section of road?"
         }
@@ -119,7 +119,7 @@
         {
           "id": "bike-racks",
           "type": "open",
-          "text": "What ideas do you have for bike racks and bike storage?"
+          "text": "Do you have ideas on how your municipality could better support installing more bike racks and/or fully enclosed bike lockers or cages?"
         }
       ]
     },
@@ -134,7 +134,7 @@
           "choices": [
             "Yes",
             "No",
-            "Unsure"
+            "Maybe"
           ],
           "text": "Would you support the CycleWR Cambridge wayfinding proposal?",
           "municipalities": [
@@ -147,7 +147,7 @@
           "choices": [
             "Yes",
             "No",
-            "Unsure"
+            "Maybe"
           ],
           "text": "Would you like to hear more about the CycleWR Cambridge wayfinding proposal?",
           "municipalities": [

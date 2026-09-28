@@ -28,11 +28,14 @@ ROW open data portal ──▶ scripts/fetch_wards.py ──▶ data/wards.geojs
   to a topic and question, sets the question wording shown on the site, and names the candidate columns
   (name, municipality, position, ward, website). **Only columns listed there are published** — emails,
   phone numbers or notes in the sheet never reach the site.
+- `sheet.tabs` in the config lists which tabs to read (Kitchener, Waterloo, Cambridge, Townships), by the
+  `gid` in each tab's URL, so renaming a tab doesn't matter. Every tab must have the same columns.
 - The sheet must be shared as **"Anyone with the link can view"** for the Action to download it.
 - Races are worked out from each row's municipality/position/ward text (the sheet's **City** and **Position**
-  columns, e.g. `Kitchener` + `Ward Councillor - Ward 3`, `Mayor` or `Regional Councillor`). To list a candidate who **did not respond**, add a row with their name and race and no answers.
+  columns, e.g. `Kitchener` + `Ward 3`, `Mayor` or `Region`). To list a candidate who **did not respond**, add a row with their name and race and no answers.
 - Question `type` is `"choice"` (with `choices`, shown as coloured Yes/No/Unsure chips, optional
   `commentColumn`) or `"open"` (free text).
+- Wards with no candidates in the sheet yet are greyed out on the map.
 - Cambridge and the townships have no boundary data, so they appear in the race list but not on the map.
 
 Generated files (don't edit by hand): `data/survey.json`, `data/races.json`, `data/candidates.json`, `data/wards.geojson`.
@@ -42,8 +45,8 @@ If the sheet has no candidate rows, the build keeps the current data rather than
 ### Working with fake data
 
 `sample-data/responses.csv` holds **fake** responses in the sheet's shape (regenerate with
-`python3 scripts/make_sample_csv.py`). Its columns match the sheet exactly, so it can be loaded into the
-sheet with **File → Import → Upload → Replace current sheet** (its header row is identical to the sheet's). Build the site from it with:
+`python3 scripts/make_sample_csv.py`). Its columns match the sheet's tabs, so its rows can be pasted into
+them. Build the site from it with:
 
 ```sh
 python3 scripts/build_data.py sample-data/responses.csv

@@ -1,9 +1,26 @@
 {
-  "_comment": "Maps Google Sheet columns to the site. 'column' / 'commentColumn' must match the sheet's header text exactly; 'text' is what the site shows. Only columns listed here are published. 'municipalities' limits a question to those races.",
+  "_comment": "Maps Google Sheet columns to the site. 'column' / 'commentColumn' must match the sheet's header text exactly; 'text' is what the site shows. Only columns listed here are published. 'municipalities' limits a question to those races. 'sheet.tabs' lists the tabs to read (by gid, from the tab's URL); every tab must have the same columns.",
   "title": "CycleWR 2026 Municipal Candidate Survey",
   "sheet": {
-    "id": "1riNb5C9ApAA7IbekjcLEzI68loT47MTD4Udnx4PSvag",
-    "gid": "0"
+    "id": "19ojlq6fIw3AqTfyHGN-MdaRbJhvRAIBZIkm1xFMmyJY",
+    "tabs": [
+      {
+        "name": "Kitchener",
+        "gid": "974022566"
+      },
+      {
+        "name": "Waterloo",
+        "gid": "623838114"
+      },
+      {
+        "name": "Cambridge",
+        "gid": "521209506"
+      },
+      {
+        "name": "Townships",
+        "gid": "84587186"
+      }
+    ]
   },
   "candidateColumns": {
     "name": "Name",
@@ -52,7 +69,7 @@
           "choices": [
             "Yes",
             "No",
-            "Unsure"
+            "Maybe"
           ],
           "column": "If elected, will you vote to fund your municipality’s Active Transportation Master Plan?",
           "text": "If elected, will you vote to fund your municipality’s Active Transportation Master Plan?",
@@ -64,7 +81,7 @@
           "choices": [
             "Yes",
             "No",
-            "Unsure"
+            "Maybe"
           ],
           "column": "Do you think we should be spending more on active transportation?",
           "text": "Do you think we should be spending more on active transportation?",
@@ -76,7 +93,7 @@
           "choices": [
             "Yes",
             "No",
-            "Unsure"
+            "Maybe"
           ],
           "column": "If elected, would you be willing to propose specific active transportation initiatives to your council?",
           "text": "If elected, would you be willing to propose specific active transportation initiatives to your council?",
@@ -101,7 +118,7 @@
           "choices": [
             "Yes",
             "No",
-            "Unsure"
+            "Maybe"
           ],
           "column": "When our shared mobility contracts are next up for renewal , will you support transitioning the Region of Waterloo to a true municipal bike-share model - similar to Hamilton or Toronto - with cheaper non-electric options, and affordable monthly memberships?",
           "text": "When our shared mobility contracts are next up for renewal, will you support transitioning the Region of Waterloo to a true municipal bike-share model - similar to Hamilton or Toronto - with cheaper non-electric options, and affordable monthly memberships?",
@@ -120,7 +137,7 @@
           "choices": [
             "Yes",
             "No",
-            "Unsure"
+            "Maybe"
           ],
           "column": "Will you support the funding required to achieve a snow clearing standard for major cycling routes within the same time frame (maximum of 24 hours) as we have for roads?",
           "text": "Will you support the funding required to achieve a snow clearing standard for major cycling routes within the same time frame (maximum of 24 hours) as we have for roads?",
@@ -139,7 +156,7 @@
           "choices": [
             "Yes",
             "No",
-            "Unsure"
+            "Maybe"
           ],
           "column": "The Province is proposing a new class structure for power-assisted e-bikes that would exclude moped and motorcycle-type bikes (these would require licences). For the e-bikes that do not require licences, would you support the municipalities giving the same access as a regular bike, provided they fulfill two key criteria - maximum speed from the motor of 32 km/hr and maximum weight of 55 kilograms?",
           "text": "The Province is proposing a new class structure for power-assisted e-bikes that would exclude moped and motorcycle-type bikes (these would require licences). For the e-bikes that do not require licences, would you support the municipalities giving the same access as a regular bike, provided they fulfill two key criteria - maximum speed from the motor of 32 km/hr and maximum weight of 55 kilograms?",
@@ -158,7 +175,7 @@
           "choices": [
             "Yes",
             "No",
-            "Unsure"
+            "Maybe"
           ],
           "column": "Would you support a significant allocation of the Regional budget for “standalone” cycling infrastructure projects? The expectation is that staff will identify the most critical gaps in the cycling network that could be filled now, rather than waiting for the next major roadwork on that section of road?",
           "text": "Would you support a significant allocation of the Regional budget for “standalone” cycling infrastructure projects? The expectation is that staff will identify the most critical gaps in the cycling network that could be filled now, rather than waiting for the next major roadwork on that section of road?",
@@ -174,8 +191,8 @@
         {
           "id": "bike-racks",
           "type": "open",
-          "column": "Bike Rack / Storage Ideas",
-          "text": "What ideas do you have for bike racks and bike storage?"
+          "column": "Do you have ideas on how your municipality could better support installing more bike racks and/or fully enclosed bike lockers or cages?",
+          "text": "Do you have ideas on how your municipality could better support installing more bike racks and/or fully enclosed bike lockers or cages?"
         }
       ]
     },
@@ -190,7 +207,7 @@
           "choices": [
             "Yes",
             "No",
-            "Unsure"
+            "Maybe"
           ],
           "column": "For Cambridge Candidates Only : Would you support the CycleWR Cambridge wayfinding proposal?",
           "text": "Would you support the CycleWR Cambridge wayfinding proposal?",
@@ -204,7 +221,7 @@
           "choices": [
             "Yes",
             "No",
-            "Unsure"
+            "Maybe"
           ],
           "column": "Would you like to hear more about this proposal?",
           "text": "Would you like to hear more about the CycleWR Cambridge wayfinding proposal?",

@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """Writes sample-data/responses.csv: FAKE candidate responses with the same columns, in the
-same order, as the survey spreadsheet. Not real candidates or answers.
-
-To load it into the Google Sheet: File > Import > Upload > "Replace current sheet"."""
+same order, as each tab of the survey spreadsheet. Not real candidates or answers."""
 import csv, json, random
 from pathlib import Path
 
@@ -21,12 +19,10 @@ races = []
 for city, n in WARDS.items():
     races.append((city, "Mayor"))
     if city in REGIONAL:
-        races.append((city, "Regional Councillor"))
-    races += [(city, f"Ward Councillor - Ward {w}") for w in range(1, n + 1)]
+        races.append((city, "Region"))
+    races += [(city, f"Ward {w}") for w in range(1, n + 1)]
 
-# Form metadata and private columns come first in the sheet; they are never published.
-header = ["Submission ID", "Respondent ID", "Submitted at", cols["name"], "Your email address",
-          "unique_token", cols["municipality"], cols["office"]]
+header = [cols["name"], cols["municipality"], cols["office"]]
 for q in questions:
     header.append(q["column"])
     if q.get("commentColumn"):
@@ -36,10 +32,7 @@ rows, k = [], 0
 for city, position in races:
     for _ in range(random.randint(2, 4)):
         k += 1
-        row = {"Submission ID": f"sample{k:04d}", "Respondent ID": f"resp{k:04d}",
-               "Submitted at": f"2026-09-{random.randint(1, 25):02d} 12:00:00",
-               cols["name"]: f"Sample Candidate {k}", "Your email address": f"private{k}@example.com",
-               "unique_token": f"token{k:04d}", cols["municipality"]: city, cols["office"]: position}
+        row = {cols["name"]: f"Sample Candidate {k}", cols["municipality"]: city, cols["office"]: position}
         if random.random() > .2:  # otherwise a non-responder: listed with no answers
             for q in questions:
                 if q.get("municipalities") and city.lower() not in q["municipalities"]:

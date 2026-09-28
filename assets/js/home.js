@@ -43,10 +43,18 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
 }).addTo(map);
 
-const base = (f) => ({ color: colour(f), weight: 2, fillColor: colour(f), fillOpacity: 0.22 });
+// Wards with no candidates in the survey data yet are greyed out and not clickable.
+const hasRace = (f) => data.races.has(f.properties.race);
+const base = (f) => (hasRace(f)
+  ? { color: colour(f), weight: 2, fillColor: colour(f), fillOpacity: 0.22 }
+  : { color: '#9aa39e', weight: 1, fillColor: '#c9cfcb', fillOpacity: 0.35, dashArray: '4 3' });
 const layer = L.geoJSON(geo, {
   style: base,
   onEachFeature(f, l) {
+    if (!hasRace(f)) {
+      l.bindTooltip(`<strong>${esc(f.properties.name)}</strong><br>No candidates listed yet`, { sticky: true });
+      return;
+    }
     const { total, responded } = responseCount(data, f.properties.race);
     l.bindTooltip(`<strong>${esc(f.properties.name)}</strong><br>${responded} of ${total} candidates responded`, { sticky: true });
     l.on({
