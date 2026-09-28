@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-"""Prints the tabs of a public Google Sheet with each tab's header and first rows, to help
-map a new sheet layout in config/survey.json. Email/token values are hidden.
+"""Prints the tabs of a Google Sheet with each tab's columns, to help map a new sheet layout in
+config/survey.json. Actions logs are public, so no answers are printed: only row counts and the
+distinct values of the race columns (City, Position), which are public anyway.
 
     python3 scripts/inspect_sheet.py SHEET_ID
 """
@@ -24,10 +25,11 @@ else:  # public sheet: scrape the tab list from the read-only web view
 for gid, name in tabs:
     rows = list(csv.reader(io.StringIO(fetch_tab_csv(sheet, gid))))
     header = rows[0] if rows else []
-    private = {i for i, h in enumerate(header) if re.search(r"email|token|phone", h, re.I)}
     data = [r for r in rows[1:] if any(c.strip() for c in r)]
     print(f"\n===== TAB {name!r} gid={gid}: {len(data)} non-empty rows =====")
     for i, h in enumerate(header):
         print(f"  col {i}: {h!r}")
-    for r in data[:3]:
-        print("  ROW:", [("<hidden>" if i in private and c else c[:80]) for i, c in enumerate(r)])
+    for i, h in enumerate(header):
+        if re.fullmatch(r"\s*(city|municipality|position|office|race|ward)\s*", h, re.I):
+            values = sorted({r[i].strip() for r in data if i < len(r) and r[i].strip()})
+            print(f"  distinct {h.strip()!r} values: {values}")
