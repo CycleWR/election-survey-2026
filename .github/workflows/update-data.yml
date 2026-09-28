@@ -34,7 +34,13 @@ jobs:
             python3 scripts/fetch_wards.py
           fi
 
+      - name: Install Google auth library
+        run: pip install --quiet "google-auth>=2.0" requests
+
       - name: Build data from Google Sheet
+        env:
+          # JSON key of a service account the sheet is shared with; if unset, the sheet must be public.
+          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
         run: python3 scripts/build_data.py --sheet
 
       - name: Commit changes

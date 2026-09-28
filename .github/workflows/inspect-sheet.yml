@@ -15,4 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 scripts/inspect_sheet.py "${{ inputs.sheet_id || '19ojlq6fIw3AqTfyHGN-MdaRbJhvRAIBZIkm1xFMmyJY' }}"
+      - run: pip install --quiet "google-auth>=2.0" requests
+      - env:
+          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+        run: python3 scripts/inspect_sheet.py "${{ inputs.sheet_id || '19ojlq6fIw3AqTfyHGN-MdaRbJhvRAIBZIkm1xFMmyJY' }}"

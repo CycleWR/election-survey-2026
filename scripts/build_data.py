@@ -9,8 +9,10 @@ the sheet (emails, phone numbers, notes) is ignored. Races are derived from the
 candidate rows, so add a row (name + race, no answers) for candidates who did
 not respond.
 """
-import csv, io, json, re, sys, urllib.error, urllib.request
+import csv, io, json, re, sys
 from pathlib import Path
+
+from sheets import fetch_tab_csv
 
 ROOT = Path(__file__).resolve().parent.parent
 OFFICE_ORDER = ["Regional Chair", "Mayor", "Regional Councillor", "Ward Councillor"]
@@ -26,25 +28,12 @@ def parse_csv(text):
     return [h.strip() for h in reader.fieldnames or []], rows, text
 
 
-def fetch_tab(sheet_id, tab):
-    url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv&gid={tab['gid']}"
-    try:
-        text = urllib.request.urlopen(url, timeout=60).read().decode("utf-8-sig")
-    except urllib.error.HTTPError as e:
-        if e.code in (401, 403):
-            sys.exit("Google refused access to the sheet: share it as 'Anyone with the link can view'.")
-        raise
-    if text.lstrip().lower().startswith(("<!doctype", "<html")):
-        sys.exit("Google returned a web page, not CSV: share the sheet as 'Anyone with the link can view'.")
-    return text
-
-
 def read_tabs(cfg, sources):
     """Yields (label, header, rows, raw text) for each sheet tab (--sheet) or local CSV file."""
     if sources == ["--sheet"]:
         s = cfg["sheet"]
         for tab in s["tabs"]:
-            yield (f"tab '{tab['name']}'", *parse_csv(fetch_tab(s["id"], tab)))
+            yield (f"tab '{tab['name']}'", *parse_csv(fetch_tab_csv(s["id"], tab["gid"])))
     else:
         for path in sources:
             yield (path, *parse_csv(Path(path).read_text(encoding="utf-8-sig")))

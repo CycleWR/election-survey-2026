@@ -30,7 +30,9 @@ ROW open data portal ──▶ scripts/fetch_wards.py ──▶ data/wards.geojs
   phone numbers or notes in the sheet never reach the site.
 - `sheet.tabs` in the config lists which tabs to read (Kitchener, Waterloo, Cambridge, Townships), by the
   `gid` in each tab's URL, so renaming a tab doesn't matter. Every tab must have the same columns.
-- The sheet must be shared as **"Anyone with the link can view"** for the Action to download it.
+- **Sheet access:** the Action reads the sheet with a Google **service account** when the repository secret
+  `GOOGLE_SERVICE_ACCOUNT_KEY` is set (see below), so the sheet can stay private. Without that secret it falls
+  back to the public CSV export, which needs the sheet shared as "Anyone with the link can view".
 - Races are worked out from each row's municipality/position/ward text (the sheet's **City** and **Position**
   columns, e.g. `Kitchener` + `Ward 3`, `Mayor` or `Region`). To list a candidate who **did not respond**, add a row with their name and race and no answers.
 - Question `type` is `"choice"` (with `choices`, shown as coloured Yes/No/Unsure chips, optional
@@ -51,6 +53,19 @@ them. Build the site from it with:
 ```sh
 python3 scripts/build_data.py sample-data/responses.csv
 ```
+
+### Setting up the service account
+
+1. In the [Google Cloud console](https://console.cloud.google.com/), create (or pick) a project and enable the
+   **Google Sheets API** (APIs & Services → Library).
+2. IAM & Admin → **Service accounts** → Create service account (no roles needed). Open it → **Keys** →
+   Add key → Create new key → **JSON**. Keep the downloaded file private and delete it once step 4 is done.
+3. In the spreadsheet, **Share** it with the service account's email (`…@….iam.gserviceaccount.com`) as
+   **Viewer**. You can then set General access back to "Restricted".
+4. In GitHub: repository **Settings → Secrets and variables → Actions → New repository secret**, name
+   `GOOGLE_SERVICE_ACCOUNT_KEY`, and paste the whole contents of the JSON file.
+
+Run **Actions → Update data → Run workflow** to check it. Errors name the fix (e.g. which email to share with).
 
 ## Run locally
 
