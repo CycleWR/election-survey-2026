@@ -1,37 +1,4907 @@
 [
   {
-    "id": "candidate-1",
-    "name": "Candidate 1",
-    "race": "woolwich-ward-1",
+    "id": "sample-candidate-1",
+    "name": "Sample Candidate 1",
+    "race": "kitchener-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-2",
+    "name": "Sample Candidate 2",
+    "race": "kitchener-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-3",
+    "name": "Sample Candidate 3",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-4",
+    "name": "Sample Candidate 4",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-5",
+    "name": "Sample Candidate 5",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "No"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-6",
+    "name": "Sample Candidate 6",
+    "race": "kitchener-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-7",
+    "name": "Sample Candidate 7",
+    "race": "kitchener-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "No"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-8",
+    "name": "Sample Candidate 8",
+    "race": "kitchener-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-9",
+    "name": "Sample Candidate 9",
+    "race": "kitchener-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-10",
+    "name": "Sample Candidate 10",
+    "race": "kitchener-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-11",
+    "name": "Sample Candidate 11",
+    "race": "kitchener-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-12",
+    "name": "Sample Candidate 12",
+    "race": "kitchener-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-13",
+    "name": "Sample Candidate 13",
+    "race": "kitchener-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-14",
+    "name": "Sample Candidate 14",
+    "race": "kitchener-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "No"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-15",
+    "name": "Sample Candidate 15",
+    "race": "kitchener-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-16",
+    "name": "Sample Candidate 16",
+    "race": "kitchener-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-17",
+    "name": "Sample Candidate 17",
+    "race": "kitchener-ward-5",
     "website": "",
     "responded": true,
     "answers": {
       "master-plan": {
         "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
       }
     }
   },
   {
-    "id": "candidate-2",
-    "name": "Candidate 2",
+    "id": "sample-candidate-18",
+    "name": "Sample Candidate 18",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "No"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-19",
+    "name": "Sample Candidate 19",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "No"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-20",
+    "name": "Sample Candidate 20",
+    "race": "kitchener-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-21",
+    "name": "Sample Candidate 21",
+    "race": "kitchener-ward-6",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-22",
+    "name": "Sample Candidate 22",
+    "race": "kitchener-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-23",
+    "name": "Sample Candidate 23",
+    "race": "kitchener-ward-7",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-24",
+    "name": "Sample Candidate 24",
+    "race": "kitchener-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No"
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-25",
+    "name": "Sample Candidate 25",
+    "race": "kitchener-ward-8",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-26",
+    "name": "Sample Candidate 26",
+    "race": "kitchener-ward-8",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-27",
+    "name": "Sample Candidate 27",
+    "race": "kitchener-ward-8",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "No"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-28",
+    "name": "Sample Candidate 28",
+    "race": "kitchener-ward-8",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No"
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-29",
+    "name": "Sample Candidate 29",
+    "race": "kitchener-ward-9",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No"
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-30",
+    "name": "Sample Candidate 30",
+    "race": "kitchener-ward-9",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-31",
+    "name": "Sample Candidate 31",
+    "race": "kitchener-ward-9",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-32",
+    "name": "Sample Candidate 32",
+    "race": "kitchener-ward-10",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No"
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "No"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-33",
+    "name": "Sample Candidate 33",
+    "race": "kitchener-ward-10",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "No"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-34",
+    "name": "Sample Candidate 34",
+    "race": "waterloo-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-35",
+    "name": "Sample Candidate 35",
+    "race": "waterloo-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-36",
+    "name": "Sample Candidate 36",
+    "race": "waterloo-regional-councillor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-37",
+    "name": "Sample Candidate 37",
+    "race": "waterloo-regional-councillor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No"
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-38",
+    "name": "Sample Candidate 38",
+    "race": "waterloo-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-39",
+    "name": "Sample Candidate 39",
+    "race": "waterloo-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-40",
+    "name": "Sample Candidate 40",
+    "race": "waterloo-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-41",
+    "name": "Sample Candidate 41",
+    "race": "waterloo-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-42",
+    "name": "Sample Candidate 42",
+    "race": "waterloo-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No"
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-43",
+    "name": "Sample Candidate 43",
+    "race": "waterloo-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "No"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-44",
+    "name": "Sample Candidate 44",
+    "race": "waterloo-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-45",
+    "name": "Sample Candidate 45",
+    "race": "waterloo-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe"
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-46",
+    "name": "Sample Candidate 46",
+    "race": "waterloo-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-47",
+    "name": "Sample Candidate 47",
+    "race": "waterloo-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-48",
+    "name": "Sample Candidate 48",
+    "race": "waterloo-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-49",
+    "name": "Sample Candidate 49",
+    "race": "waterloo-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-50",
+    "name": "Sample Candidate 50",
+    "race": "waterloo-ward-5",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-51",
+    "name": "Sample Candidate 51",
+    "race": "waterloo-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-52",
+    "name": "Sample Candidate 52",
+    "race": "waterloo-ward-6",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No"
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-53",
+    "name": "Sample Candidate 53",
+    "race": "waterloo-ward-6",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-54",
+    "name": "Sample Candidate 54",
+    "race": "waterloo-ward-6",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe"
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No"
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-55",
+    "name": "Sample Candidate 55",
+    "race": "waterloo-ward-6",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-56",
+    "name": "Sample Candidate 56",
+    "race": "waterloo-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "No"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-57",
+    "name": "Sample Candidate 57",
+    "race": "waterloo-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-58",
+    "name": "Sample Candidate 58",
+    "race": "waterloo-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-59",
+    "name": "Sample Candidate 59",
+    "race": "waterloo-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-60",
+    "name": "Sample Candidate 60",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      },
+      "cambridge-wayfinding": {
+        "choice": "Yes"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Yes"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-61",
+    "name": "Sample Candidate 61",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Yes"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Yes"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-62",
+    "name": "Sample Candidate 62",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "No"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Maybe"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-63",
+    "name": "Sample Candidate 63",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "No"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-64",
+    "name": "Sample Candidate 64",
+    "race": "cambridge-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-65",
+    "name": "Sample Candidate 65",
+    "race": "cambridge-regional-councillor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Yes"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-66",
+    "name": "Sample Candidate 66",
+    "race": "cambridge-regional-councillor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Maybe"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Maybe"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-67",
+    "name": "Sample Candidate 67",
+    "race": "cambridge-regional-councillor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "No"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Yes"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-68",
+    "name": "Sample Candidate 68",
+    "race": "cambridge-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-69",
+    "name": "Sample Candidate 69",
+    "race": "cambridge-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe"
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Maybe"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-70",
+    "name": "Sample Candidate 70",
+    "race": "cambridge-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Maybe"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-71",
+    "name": "Sample Candidate 71",
+    "race": "cambridge-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe"
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "No"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-72",
+    "name": "Sample Candidate 72",
+    "race": "cambridge-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Yes"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-73",
+    "name": "Sample Candidate 73",
+    "race": "cambridge-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      },
+      "cambridge-wayfinding": {
+        "choice": "No"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Maybe"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-74",
+    "name": "Sample Candidate 74",
+    "race": "cambridge-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "No"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Yes"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-75",
+    "name": "Sample Candidate 75",
+    "race": "cambridge-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Yes"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-76",
+    "name": "Sample Candidate 76",
+    "race": "cambridge-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-77",
+    "name": "Sample Candidate 77",
+    "race": "cambridge-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-78",
+    "name": "Sample Candidate 78",
+    "race": "cambridge-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "No"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-79",
+    "name": "Sample Candidate 79",
+    "race": "cambridge-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "No"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "No"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-80",
+    "name": "Sample Candidate 80",
+    "race": "cambridge-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "No"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-81",
+    "name": "Sample Candidate 81",
+    "race": "cambridge-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Maybe"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Yes"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-82",
+    "name": "Sample Candidate 82",
+    "race": "cambridge-ward-5",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Maybe"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Maybe"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-83",
+    "name": "Sample Candidate 83",
+    "race": "cambridge-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-84",
+    "name": "Sample Candidate 84",
+    "race": "cambridge-ward-5",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "No"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Maybe"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "No"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-85",
+    "name": "Sample Candidate 85",
+    "race": "cambridge-ward-6",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Yes"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "No"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-86",
+    "name": "Sample Candidate 86",
+    "race": "cambridge-ward-6",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Maybe"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Maybe"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-87",
+    "name": "Sample Candidate 87",
+    "race": "cambridge-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "No"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-88",
+    "name": "Sample Candidate 88",
+    "race": "cambridge-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Maybe"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "No"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-89",
+    "name": "Sample Candidate 89",
+    "race": "cambridge-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Yes"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Yes"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-90",
+    "name": "Sample Candidate 90",
+    "race": "cambridge-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No"
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "No"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-91",
+    "name": "Sample Candidate 91",
+    "race": "cambridge-ward-8",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Yes"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "No"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-92",
+    "name": "Sample Candidate 92",
+    "race": "cambridge-ward-8",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "No"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Maybe"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-93",
+    "name": "Sample Candidate 93",
+    "race": "cambridge-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-94",
+    "name": "Sample Candidate 94",
+    "race": "wilmot-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-95",
+    "name": "Sample Candidate 95",
+    "race": "wilmot-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-96",
+    "name": "Sample Candidate 96",
+    "race": "wilmot-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-97",
+    "name": "Sample Candidate 97",
+    "race": "wilmot-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-98",
+    "name": "Sample Candidate 98",
+    "race": "wilmot-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-99",
+    "name": "Sample Candidate 99",
+    "race": "wilmot-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-100",
+    "name": "Sample Candidate 100",
+    "race": "wilmot-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-101",
+    "name": "Sample Candidate 101",
+    "race": "wilmot-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-102",
+    "name": "Sample Candidate 102",
+    "race": "wilmot-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-103",
+    "name": "Sample Candidate 103",
+    "race": "wilmot-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-104",
+    "name": "Sample Candidate 104",
+    "race": "wilmot-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-105",
+    "name": "Sample Candidate 105",
+    "race": "wilmot-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-106",
+    "name": "Sample Candidate 106",
+    "race": "wilmot-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-107",
+    "name": "Sample Candidate 107",
+    "race": "wilmot-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-108",
+    "name": "Sample Candidate 108",
+    "race": "wilmot-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe"
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-109",
+    "name": "Sample Candidate 109",
+    "race": "wilmot-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-110",
+    "name": "Sample Candidate 110",
+    "race": "wilmot-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-111",
+    "name": "Sample Candidate 111",
+    "race": "woolwich-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-112",
+    "name": "Sample Candidate 112",
+    "race": "woolwich-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-113",
+    "name": "Sample Candidate 113",
+    "race": "woolwich-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-114",
+    "name": "Sample Candidate 114",
+    "race": "woolwich-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-115",
+    "name": "Sample Candidate 115",
+    "race": "woolwich-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-116",
+    "name": "Sample Candidate 116",
+    "race": "woolwich-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-117",
+    "name": "Sample Candidate 117",
+    "race": "woolwich-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-118",
+    "name": "Sample Candidate 118",
+    "race": "woolwich-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-119",
+    "name": "Sample Candidate 119",
+    "race": "woolwich-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-120",
+    "name": "Sample Candidate 120",
+    "race": "woolwich-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-121",
+    "name": "Sample Candidate 121",
+    "race": "woolwich-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-122",
+    "name": "Sample Candidate 122",
+    "race": "woolwich-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-123",
+    "name": "Sample Candidate 123",
     "race": "wellesley-mayor",
     "website": "",
     "responded": true,
     "answers": {
       "master-plan": {
         "choice": "No"
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
       }
     }
   },
   {
-    "id": "candidate-3",
-    "name": "Candidate 3",
-    "race": "wilmot-regional-councillor",
+    "id": "sample-candidate-124",
+    "name": "Sample Candidate 124",
+    "race": "wellesley-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-125",
+    "name": "Sample Candidate 125",
+    "race": "wellesley-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-126",
+    "name": "Sample Candidate 126",
+    "race": "wellesley-mayor",
     "website": "",
     "responded": true,
     "answers": {
       "master-plan": {
         "choice": "Maybe"
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-127",
+    "name": "Sample Candidate 127",
+    "race": "wellesley-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-128",
+    "name": "Sample Candidate 128",
+    "race": "wellesley-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-129",
+    "name": "Sample Candidate 129",
+    "race": "wellesley-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "No"
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-130",
+    "name": "Sample Candidate 130",
+    "race": "wellesley-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-131",
+    "name": "Sample Candidate 131",
+    "race": "wellesley-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-132",
+    "name": "Sample Candidate 132",
+    "race": "wellesley-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No"
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-133",
+    "name": "Sample Candidate 133",
+    "race": "wellesley-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-134",
+    "name": "Sample Candidate 134",
+    "race": "wellesley-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-135",
+    "name": "Sample Candidate 135",
+    "race": "wellesley-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sample-candidate-136",
+    "name": "Sample Candidate 136",
+    "race": "wellesley-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-137",
+    "name": "Sample Candidate 137",
+    "race": "wellesley-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "No"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-138",
+    "name": "Sample Candidate 138",
+    "race": "wellesley-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No"
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-139",
+    "name": "Sample Candidate 139",
+    "race": "wellesley-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "No"
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-140",
+    "name": "Sample Candidate 140",
+    "race": "wellesley-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "No"
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      }
+    }
+  },
+  {
+    "id": "sample-candidate-141",
+    "name": "Sample Candidate 141",
+    "race": "wellesley-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "priorities": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "bike-share": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "No"
+      },
+      "bike-racks": {
+        "comment": "Sample answer. A real candidate's full written response appears here exactly as submitted.\n\nLine breaks between paragraphs are kept."
       }
     }
   }
