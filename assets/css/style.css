@@ -45,7 +45,8 @@ a { color: var(--green-dark); }
 .election-date { margin: 0; }
 h2 { margin-top: 36px; }
 #map { height: 520px; border-radius: var(--radius); border: 1px solid var(--line); background: #e9eeeb; }
-.map-help { color: var(--muted); font-size: .92rem; }
+.map-help { color: var(--muted); font-size: .92rem; margin: 0 0 8px; }
+.map-help + #map { margin-top: 14px; }
 .notice { background: var(--unsure-bg); color: var(--unsure); padding: 8px 12px; border-radius: 6px; margin-bottom: 12px; font-size: .92rem; }
 
 .directory { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
