@@ -28,7 +28,7 @@ ROW open data portal ──▶ scripts/fetch_wards.py ──▶ data/wards.geojs
   to a topic and question, sets the question wording shown on the site, and names the candidate columns
   (name, municipality, position, ward, website). **Only columns listed there are published** — emails,
   phone numbers or notes in the sheet never reach the site.
-- `sheet.tabs` in the config lists which tabs to read (currently just the "All" tab, which has every response and no private columns), by the
+- `sheet.tabs` in the config lists which tabs to read (Kitchener, Waterloo, Cambridge, Townships; the "All" tab repeats them), by the
   `gid` in each tab's URL, so renaming a tab doesn't matter. Every tab must have the same columns.
 - **Sheet access:** the Action reads the sheet with a Google **service account** when the repository secret
   `GOOGLE_SERVICE_ACCOUNT_KEY` is set (see below), so the sheet can stay private. Without that secret it falls
