@@ -5,10 +5,36 @@ JSON key file's contents), tabs are read through the Google Sheets API, so the s
 stay private: share it with the service account's email as a Viewer. Without a key,
 falls back to the public CSV export, which needs "Anyone with the link can view".
 """
-import csv, functools, io, json, os, sys, urllib.error, urllib.parse, urllib.request
+import base64, csv, functools, io, json, os, sys, urllib.error, urllib.parse, urllib.request
 
 API = "https://sheets.googleapis.com/v4/spreadsheets"
 _token, _email = None, None
+
+
+def _parse_key(key):
+    """The secret should be the JSON key file's contents; also accepts it quoted or base64-encoded."""
+    key = key.lstrip("\ufeff").strip()
+    candidates = [key]
+    if len(key) > 1 and key[0] == key[-1] and key[0] in "'\"":
+        candidates.append(key[1:-1].strip())
+    try:
+        candidates.append(base64.b64decode(key, validate=True).decode("utf-8"))
+    except (ValueError, UnicodeDecodeError):
+        pass
+    for c in candidates:
+        try:
+            info = json.loads(c)
+        except ValueError:
+            continue
+        if isinstance(info, dict) and info.get("private_key") and info.get("client_email"):
+            return info
+    # Hints only: never print the secret itself.
+    hint = ("it looks like a file path, not the file's contents" if key.endswith(".json") and "\n" not in key
+            else "it doesn't start with '{'" if not key.startswith("{")
+            else "it isn't complete, valid JSON, or lacks private_key/client_email")
+    sys.exit(f"The GOOGLE_SERVICE_ACCOUNT_KEY secret isn't a service account JSON key ({hint}; {len(key)} characters). "
+             "Open the downloaded .json key file in a text editor, copy everything from the first '{' to the last '}', "
+             "and paste that as the secret's value.")
 
 
 def _service_account():
@@ -20,7 +46,7 @@ def _service_account():
     if _token is None:
         from google.oauth2 import service_account  # pip install google-auth requests
         from google.auth.transport.requests import Request
-        info = json.loads(key)
+        info = _parse_key(key)
         creds = service_account.Credentials.from_service_account_info(
             info, scopes=["https://www.googleapis.com/auth/spreadsheets.readonly"])
         creds.refresh(Request())
