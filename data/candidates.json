@@ -50,6 +50,22 @@
     }
   },
   {
+    "id": "wazhma-frogh",
+    "name": "Wazhma Frogh",
+    "race": "kitchener-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "wali-khan",
+    "name": "Wali Khan",
+    "race": "kitchener-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "manikantan-nair",
     "name": "Manikantan Nair",
     "race": "kitchener-mayor",
@@ -93,6 +109,30 @@
     }
   },
   {
+    "id": "george-trihenea",
+    "name": "George Trihenea",
+    "race": "kitchener-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "berry-vrbanovic",
+    "name": "Berry Vrbanovic",
+    "race": "kitchener-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "cindy-ward",
+    "name": "Cindy Ward",
+    "race": "kitchener-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "elizabeth-bate",
     "name": "Elizabeth Bate",
     "race": "kitchener-ward-1",
@@ -128,6 +168,94 @@
         "comment": "I think ensuring bicycles are able to be parked and kept safe is important and I would encourage more secure bicycle parking in all municipal lots, including bike lockers in underground lots."
       }
     }
+  },
+  {
+    "id": "scott-davey",
+    "name": "Scott Davey",
+    "race": "kitchener-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "haile-kiflai",
+    "name": "Haile Kiflai",
+    "race": "kitchener-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "zahid-mian-mahmood",
+    "name": "Zahid Mian Mahmood",
+    "race": "kitchener-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "soran-ibrahim",
+    "name": "Soran Ibrahim",
+    "race": "kitchener-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "derrick-rabethge",
+    "name": "Derrick Rabethge",
+    "race": "kitchener-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "dave-schnider",
+    "name": "Dave Schnider",
+    "race": "kitchener-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "shawn-bradshaw",
+    "name": "Shawn Bradshaw",
+    "race": "kitchener-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "joanne-delaney-fraser",
+    "name": "Joanne Delaney-Fraser",
+    "race": "kitchener-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "jason-denault",
+    "name": "Jason Denault",
+    "race": "kitchener-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "lurdes-jordao",
+    "name": "Lurdes Jordao",
+    "race": "kitchener-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "ismail-mohamed",
+    "name": "Ismail Mohamed",
+    "race": "kitchener-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
   },
   {
     "id": "matt-parker",
@@ -169,6 +297,14 @@
     }
   },
   {
+    "id": "anant-jain",
+    "name": "Anant Jain",
+    "race": "kitchener-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "ibraheem-kappaya",
     "name": "Ibraheem Kappaya",
     "race": "kitchener-ward-4",
@@ -207,6 +343,14 @@
     }
   },
   {
+    "id": "christine-michaud",
+    "name": "Christine Michaud",
+    "race": "kitchener-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "vikki-poirier",
     "name": "Vikki Poirier",
     "race": "kitchener-ward-4",
@@ -240,6 +384,46 @@
         "comment": "I’m still learning about Kitchener’s current approach to secure bike parking, but I would be interested in exploring where the gaps are and what more the City can reasonably do. That could include additional racks, lockers, or secure bike cages at City facilities, parks, community centers, and key transit connections, as well as opportunities to work with businesses and new developments.\nAs a parent raising an avid young cyclist, I worry about my grandson’s bike being stolen. I’m committed to listening, learning, and exploring practical, fiscally responsible solutions that make cycling a safer and more realistic option."
       }
     }
+  },
+  {
+    "id": "harry-scanlan",
+    "name": "Harry Scanlan",
+    "race": "kitchener-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "nate-bahlbi",
+    "name": "Nate Bahlbi",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "dimple-birdee",
+    "name": "Dimple Birdee",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "muhammad-miqdad-hudda",
+    "name": "Muhammad Miqdad Hudda",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "jon-massimi",
+    "name": "Jon Massimi",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
   },
   {
     "id": "rich-peers",
@@ -285,6 +469,54 @@
     }
   },
   {
+    "id": "navjot-sandhu",
+    "name": "Navjot Sandhu",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sumit-selhi",
+    "name": "Sumit Selhi",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "fitz-vanderpool",
+    "name": "Fitz Vanderpool",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "tracy-weiler",
+    "name": "Tracy Weiler",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "amber-louise-culley",
+    "name": "Amber Louise Culley",
+    "race": "kitchener-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "paul-singh",
+    "name": "Paul Singh",
+    "race": "kitchener-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "brooklin-wallis",
     "name": "Brooklin Wallis",
     "race": "kitchener-ward-6",
@@ -318,6 +550,14 @@
         "comment": "Installing some protected bike lockers, à la Uptown Waterloo, is a must! We should also install secured bike storage areas like the ones we have downtown in other city community hubs, such as Fairview Mall."
       }
     }
+  },
+  {
+    "id": "bil-ioannidas",
+    "name": "Bil Ioannidas",
+    "race": "kitchener-ward-7",
+    "website": "",
+    "responded": false,
+    "answers": {}
   },
   {
     "id": "richie-nanan",
@@ -395,6 +635,46 @@
     }
   },
   {
+    "id": "wendy-creighton",
+    "name": "Wendy Creighton",
+    "race": "kitchener-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "margaret-johnston",
+    "name": "Margaret Johnston",
+    "race": "kitchener-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "philip-molto",
+    "name": "Philip Molto",
+    "race": "kitchener-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "carly-pettinger",
+    "name": "Carly Pettinger",
+    "race": "kitchener-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "mohamed-askalany",
+    "name": "Mohamed Askalany",
+    "race": "kitchener-ward-9",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "debbie-chapman",
     "name": "Debbie Chapman",
     "race": "kitchener-ward-9",
@@ -432,6 +712,14 @@
         "comment": "I think the best way would be to introduce a bylaw requiring all new buildings to have bike racks. Such a bylaw already exists for new residential buildings. Perhaps the city could also introduce an incentive program to encourage existing plazas/businesses to install bike racks."
       }
     }
+  },
+  {
+    "id": "tim-willcox",
+    "name": "Tim Willcox",
+    "race": "kitchener-ward-9",
+    "website": "",
+    "responded": false,
+    "answers": {}
   },
   {
     "id": "everton-dixon",
@@ -564,6 +852,14 @@
     }
   },
   {
+    "id": "aalaa-rahman",
+    "name": "Aalaa Rahman",
+    "race": "kitchener-ward-10",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "stephanie-stretch",
     "name": "Stephanie Stretch",
     "race": "kitchener-ward-10",
@@ -600,6 +896,14 @@
         "comment": "The city of Kitchener Zoning By-Law requires secure bicycle parking in many types of new development. In addition, the City offers secure bike parking at several municipally operating parking garages."
       }
     }
+  },
+  {
+    "id": "ed-edwards",
+    "name": "Ed Edwards",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
   },
   {
     "id": "joe-gowing",
@@ -652,6 +956,14 @@
     }
   },
   {
+    "id": "mac-graham",
+    "name": "Mac Graham",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "simon-guthrie",
     "name": "Simon Guthrie",
     "race": "kitchener-regional-councillor",
@@ -690,6 +1002,14 @@
         "comment": "The city of Kitchener has bike cages in their parking garages, and I've been using these for a few years. They're excellent. But the system breaks as soon as I leave Kitchener. I would like to see a single system, like the one in Kitchener, expanded region-wide. If this means that the Region of Waterloo takes over bike parking from the lower-tier municipalities, then so be it!"
       }
     }
+  },
+  {
+    "id": "michael-harris",
+    "name": "Michael Harris",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
   },
   {
     "id": "kim-huxted",
@@ -775,6 +1095,14 @@
     }
   },
   {
+    "id": "anna-meksavanh",
+    "name": "Anna Meksavanh",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "matt-rodrigues",
     "name": "Matt Rodrigues",
     "race": "kitchener-regional-councillor",
@@ -815,6 +1143,14 @@
         "comment": "While our role at the Regional is limited in this space, I support the inclusion of more bike racks and secure bike storage at major transit stops. I am encouraged that the new Kitchener Central Transit Hub will include expanded bike parking for commuters."
       }
     }
+  },
+  {
+    "id": "eve-elizabeth-simson",
+    "name": "Eve Elizabeth Simson",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
   },
   {
     "id": "kevin-white",
@@ -942,6 +1278,22 @@
     }
   },
   {
+    "id": "jamie-hari",
+    "name": "Jamie Hari",
+    "race": "waterloo-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "jerry-jiang",
+    "name": "Jerry Jiang",
+    "race": "waterloo-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "dorothy-mccabe",
     "name": "Dorothy McCabe",
     "race": "waterloo-mayor",
@@ -981,6 +1333,14 @@
         "comment": "Bike lock ups in the core areas of the cities that have a common fob for safe lockups for bikes.  Possibly with a membership"
       }
     }
+  },
+  {
+    "id": "shannon-weber",
+    "name": "Shannon Weber",
+    "race": "waterloo-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
   },
   {
     "id": "shawn-humes",
@@ -1100,6 +1460,22 @@
     }
   },
   {
+    "id": "moraa-mochama",
+    "name": "Moraa Mochama",
+    "race": "waterloo-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "janice-moore",
+    "name": "Janice Moore",
+    "race": "waterloo-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "hans-roach",
     "name": "Hans Roach",
     "race": "waterloo-ward-3",
@@ -1213,6 +1589,30 @@
     }
   },
   {
+    "id": "travis-restoule",
+    "name": "Travis Restoule",
+    "race": "waterloo-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "syed-tirmizi",
+    "name": "Syed Tirmizi",
+    "race": "waterloo-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "eda-dede",
+    "name": "Eda Dede",
+    "race": "waterloo-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "scott-piatkowski",
     "name": "Scott Piatkowski",
     "race": "waterloo-ward-5",
@@ -1252,6 +1652,46 @@
     }
   },
   {
+    "id": "andrew-portwine",
+    "name": "Andrew Portwine",
+    "race": "waterloo-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "marty-rempel",
+    "name": "Marty Rempel",
+    "race": "waterloo-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "victoria-richardson",
+    "name": "Victoria Richardson",
+    "race": "waterloo-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "damian-mikhail",
+    "name": "Damian Mikhail",
+    "race": "waterloo-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "william-davis",
+    "name": "William Davis",
+    "race": "waterloo-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "mary-lou-roe",
     "name": "Mary Lou Roe",
     "race": "waterloo-ward-6",
@@ -1288,6 +1728,14 @@
         "comment": "Waterloo has secure bike parking, including the bike lockers at the Waterloo Parking Garage and Willis Way ION station. I would support continuing to monitor demand and expanding bike racks and secure bike parking where needed, particularly at transit connections and other key destinations."
       }
     }
+  },
+  {
+    "id": "abdullah",
+    "name": "Abdullah",
+    "race": "waterloo-ward-7",
+    "website": "",
+    "responded": false,
+    "answers": {}
   },
   {
     "id": "julie-wright",
@@ -1377,6 +1825,22 @@
     }
   },
   {
+    "id": "chantal-huinink",
+    "name": "Chantal Huinink",
+    "race": "waterloo-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "soobok-lee",
+    "name": "Soobok Lee",
+    "race": "waterloo-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "lindsay-manary",
     "name": "Lindsay Manary",
     "race": "waterloo-regional-councillor",
@@ -1424,6 +1888,78 @@
     }
   },
   {
+    "id": "chris-moser",
+    "name": "Chris Moser",
+    "race": "waterloo-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "rami-said",
+    "name": "Rami Said",
+    "race": "waterloo-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sarvesh-pratap-singh",
+    "name": "Sarvesh Pratap Singh",
+    "race": "waterloo-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "ryan-bolender",
+    "name": "Ryan Bolender",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "tony-chavez",
+    "name": "Tony Chavez",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "scott-hamilton",
+    "name": "Scott Hamilton",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "ihtsham-haq",
+    "name": "Ihtsham Haq",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "jan-liggett",
+    "name": "Jan Liggett",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "ken-roche",
+    "name": "Ken Roche",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "jeff-donkersgoed",
     "name": "Jeff Donkersgoed",
     "race": "cambridge-ward-1",
@@ -1461,6 +1997,46 @@
         "choice": "Yes"
       }
     }
+  },
+  {
+    "id": "saleem-shaikh",
+    "name": "Saleem Shaikh",
+    "race": "cambridge-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "helen-shwery",
+    "name": "Helen Shwery",
+    "race": "cambridge-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "david-craig",
+    "name": "David Craig",
+    "race": "cambridge-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "mike-devine",
+    "name": "Mike Devine",
+    "race": "cambridge-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "mark-linton",
+    "name": "Mark Linton",
+    "race": "cambridge-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
   },
   {
     "id": "matt-rogers",
@@ -1509,6 +2085,30 @@
     }
   },
   {
+    "id": "kiran-abid",
+    "name": "Kiran Abid",
+    "race": "cambridge-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "corey-kimpson",
+    "name": "Corey Kimpson",
+    "race": "cambridge-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "shaun-spalding",
+    "name": "Shaun Spalding",
+    "race": "cambridge-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "ross-earnshaw",
     "name": "Ross Earnshaw",
     "race": "cambridge-ward-4",
@@ -1554,6 +2154,78 @@
     }
   },
   {
+    "id": "ahmad-jawad-malik",
+    "name": "Ahmad Jawad Malik",
+    "race": "cambridge-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "david-o-hara",
+    "name": "David O'Hara",
+    "race": "cambridge-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sheri-roberts",
+    "name": "Sheri Roberts",
+    "race": "cambridge-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "nazim-shah",
+    "name": "Nazim Shah",
+    "race": "cambridge-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "randy-carter",
+    "name": "Randy Carter",
+    "race": "cambridge-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "adam-cooper",
+    "name": "Adam Cooper",
+    "race": "cambridge-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "barbara-harrington",
+    "name": "Barbara Harrington",
+    "race": "cambridge-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "chris-mccormick",
+    "name": "Chris McCormick",
+    "race": "cambridge-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "tasneem-chhadiya",
+    "name": "Tasneem Chhadiya",
+    "race": "cambridge-ward-7",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "manuel-da-silva",
     "name": "Manuel da Silva",
     "race": "cambridge-ward-7",
@@ -1597,6 +2269,22 @@
         "comment": "I would need to be better aware of the overall impact."
       }
     }
+  },
+  {
+    "id": "kristen-danson",
+    "name": "Kristen Danson",
+    "race": "cambridge-ward-7",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "david-guerin",
+    "name": "David Guerin",
+    "race": "cambridge-ward-7",
+    "website": "",
+    "responded": false,
+    "answers": {}
   },
   {
     "id": "dani-ieso",
@@ -1646,6 +2334,94 @@
         "comment": "I support practical, affordable improvements that can make cycling safer now. Signed wayfinding routes are a good way to help cyclists, especially families and less experienced riders, find safer alternatives to busy streets. I would be interested in reviewing CycleWR’s proposed Cambridge routes and identifying where this approach could have the greatest benefit."
       }
     }
+  },
+  {
+    "id": "john-teat",
+    "name": "John Teat",
+    "race": "cambridge-ward-7",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "chris-alward",
+    "name": "Chris Alward",
+    "race": "cambridge-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "cody-botelho",
+    "name": "Cody Botelho",
+    "race": "cambridge-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "nicolas-ermeta",
+    "name": "Nicolas Ermeta",
+    "race": "cambridge-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "george-fiddick",
+    "name": "George Fiddick",
+    "race": "cambridge-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "arpan-pandit",
+    "name": "Arpan Pandit",
+    "race": "cambridge-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "salman-arefin",
+    "name": "Salman Arefin",
+    "race": "cambridge-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "bryan-causarano-bolton",
+    "name": "Bryan Causarano-Bolton",
+    "race": "cambridge-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "doug-craig",
+    "name": "Doug Craig",
+    "race": "cambridge-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "prakash-venkataraman",
+    "name": "Prakash Venkataraman",
+    "race": "cambridge-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "pam-wolf",
+    "name": "Pam Wolf",
+    "race": "cambridge-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
   },
   {
     "id": "terry-knarr",
@@ -1720,6 +2496,30 @@
     }
   },
   {
+    "id": "travis-knox",
+    "name": "Travis Knox",
+    "race": "north-dumfries-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "prabhjap-sandhu",
+    "name": "Prabhjap Sandhu",
+    "race": "north-dumfries-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "derrick-ostner",
+    "name": "Derrick Ostner",
+    "race": "north-dumfries-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "kishan-patel",
     "name": "Kishan Patel",
     "race": "north-dumfries-ward-1",
@@ -1789,6 +2589,46 @@
     }
   },
   {
+    "id": "sherri-hughes",
+    "name": "Sherri Hughes",
+    "race": "north-dumfries-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "denise-vanderhorst",
+    "name": "Denise Vanderhorst",
+    "race": "north-dumfries-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "alida-wilms",
+    "name": "Alida Wilms",
+    "race": "north-dumfries-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "barb-elliott",
+    "name": "Barb Elliott",
+    "race": "north-dumfries-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "jonathan-bos",
+    "name": "Jonathan Bos",
+    "race": "north-dumfries-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "natasha-salonen",
     "name": "Natasha Salonen",
     "race": "wilmot-mayor",
@@ -1831,6 +2671,54 @@
     }
   },
   {
+    "id": "stephanie-goertz",
+    "name": "Stephanie Goertz",
+    "race": "wilmot-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "kristopher-wilkinson",
+    "name": "Kristopher Wilkinson",
+    "race": "wilmot-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "clive-woolner",
+    "name": "Clive Woolner",
+    "race": "wilmot-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "stewart-cressman",
+    "name": "Stewart Cressman",
+    "race": "wilmot-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "kiera-upward",
+    "name": "Kiera Upward",
+    "race": "wilmot-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "peter-varga",
+    "name": "Peter Varga",
+    "race": "wilmot-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "alan-dicknoether",
     "name": "Alan Dicknoether",
     "race": "wilmot-ward-2",
@@ -1870,6 +2758,118 @@
     }
   },
   {
+    "id": "michael-roth",
+    "name": "Michael Roth",
+    "race": "wilmot-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "lucy-lantz",
+    "name": "Lucy Lantz",
+    "race": "wilmot-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "harvir-sidhu",
+    "name": "Harvir Sidhu",
+    "race": "wilmot-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "kevin-sundberg",
+    "name": "Kevin Sundberg",
+    "race": "wilmot-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "tammy-gaudun-gies",
+    "name": "Tammy Gaudun Gies",
+    "race": "wilmot-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "steven-martin",
+    "name": "Steven Martin",
+    "race": "wilmot-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "krista-straus",
+    "name": "Krista Straus",
+    "race": "wilmot-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sam-hiemstra",
+    "name": "Sam Hiemstra",
+    "race": "wilmot-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "jeff-bell",
+    "name": "Jeff Bell",
+    "race": "wilmot-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "scott-dunstall",
+    "name": "Scott Dunstall",
+    "race": "wilmot-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "chane-ballantyne",
+    "name": "Chane Ballantyne",
+    "race": "woolwich-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "evan-burgess",
+    "name": "Evan Burgess",
+    "race": "woolwich-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "glenn-fern",
+    "name": "Glenn Fern",
+    "race": "woolwich-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "eric-schwindt",
+    "name": "Eric Schwindt",
+    "race": "woolwich-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "nathan-cadeau",
     "name": "Nathan Cadeau",
     "race": "woolwich-ward-1",
@@ -1901,6 +2901,38 @@
         "choice": "Yes"
       }
     }
+  },
+  {
+    "id": "paula-ferguson",
+    "name": "Paula Ferguson",
+    "race": "woolwich-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "jason-godglick",
+    "name": "Jason Godglick",
+    "race": "woolwich-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "tony-stevens",
+    "name": "Tony Stevens",
+    "race": "woolwich-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "tina-weltz",
+    "name": "Tina Weltz",
+    "race": "woolwich-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
   },
   {
     "id": "sheryl-tilley",
@@ -1940,6 +2972,22 @@
         "comment": "Maybe bike clubs could buy bike racks and install them where they are needed. You are the users, you know where they need to go - get permission from the land owner and do it."
       }
     }
+  },
+  {
+    "id": "bonnie-bryant",
+    "name": "Bonnie Bryant",
+    "race": "woolwich-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "jeff-carruthers",
+    "name": "Jeff Carruthers",
+    "race": "woolwich-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
   },
   {
     "id": "janet-cox",
@@ -2016,5 +3064,53 @@
         "comment": "I would support adding secure bicycle parking at municipal facilities, parks, community centres and other high-use destinations where there is demonstrated demand. Where possible, bike racks should be incorporated into new developments and facility upgrades rather than added later at greater cost. For locations with higher usage or longer-term parking needs, enclosed lockers or cages could be considered based on demand, available space and cost."
       }
     }
+  },
+  {
+    "id": "joe-nowak",
+    "name": "Joe Nowak",
+    "race": "wellesley-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "chris-martin",
+    "name": "Chris Martin",
+    "race": "wellesley-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "shelley-wagner",
+    "name": "Shelley Wagner",
+    "race": "wellesley-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "chris-van-bargen",
+    "name": "Chris van Bargen",
+    "race": "wellesley-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "derek-brick",
+    "name": "Derek Brick",
+    "race": "wellesley-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "claude-hergott",
+    "name": "Claude Hergott",
+    "race": "wellesley-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
   }
 ]

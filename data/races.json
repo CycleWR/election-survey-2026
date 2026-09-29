@@ -21,6 +21,10 @@
       "name": "Woolwich"
     },
     {
+      "id": "wellesley",
+      "name": "Wellesley"
+    },
+    {
       "id": "north-dumfries",
       "name": "North Dumfries"
     }
@@ -44,6 +48,13 @@
       "office": "Ward Councillor",
       "ward": 1,
       "name": "Kitchener Ward 1 Councillor"
+    },
+    {
+      "id": "kitchener-ward-2",
+      "municipality": "kitchener",
+      "office": "Ward Councillor",
+      "ward": 2,
+      "name": "Kitchener Ward 2 Councillor"
     },
     {
       "id": "kitchener-ward-3",
@@ -79,6 +90,13 @@
       "office": "Ward Councillor",
       "ward": 7,
       "name": "Kitchener Ward 7 Councillor"
+    },
+    {
+      "id": "kitchener-ward-8",
+      "municipality": "kitchener",
+      "office": "Ward Councillor",
+      "ward": 8,
+      "name": "Kitchener Ward 8 Councillor"
     },
     {
       "id": "kitchener-ward-9",
@@ -149,6 +167,18 @@
       "name": "Waterloo Ward 7 Councillor"
     },
     {
+      "id": "cambridge-mayor",
+      "municipality": "cambridge",
+      "office": "Mayor",
+      "name": "Cambridge Mayor"
+    },
+    {
+      "id": "cambridge-regional-councillor",
+      "municipality": "cambridge",
+      "office": "Regional Councillor",
+      "name": "Regional Councillor (Cambridge)"
+    },
+    {
       "id": "cambridge-ward-1",
       "municipality": "cambridge",
       "office": "Ward Councillor",
@@ -163,11 +193,32 @@
       "name": "Cambridge Ward 2 Councillor"
     },
     {
+      "id": "cambridge-ward-3",
+      "municipality": "cambridge",
+      "office": "Ward Councillor",
+      "ward": 3,
+      "name": "Cambridge Ward 3 Councillor"
+    },
+    {
       "id": "cambridge-ward-4",
       "municipality": "cambridge",
       "office": "Ward Councillor",
       "ward": 4,
       "name": "Cambridge Ward 4 Councillor"
+    },
+    {
+      "id": "cambridge-ward-5",
+      "municipality": "cambridge",
+      "office": "Ward Councillor",
+      "ward": 5,
+      "name": "Cambridge Ward 5 Councillor"
+    },
+    {
+      "id": "cambridge-ward-6",
+      "municipality": "cambridge",
+      "office": "Ward Councillor",
+      "ward": 6,
+      "name": "Cambridge Ward 6 Councillor"
     },
     {
       "id": "cambridge-ward-7",
@@ -177,10 +228,24 @@
       "name": "Cambridge Ward 7 Councillor"
     },
     {
+      "id": "cambridge-ward-8",
+      "municipality": "cambridge",
+      "office": "Ward Councillor",
+      "ward": 8,
+      "name": "Cambridge Ward 8 Councillor"
+    },
+    {
       "id": "wilmot-mayor",
       "municipality": "wilmot",
       "office": "Mayor",
       "name": "Wilmot Mayor"
+    },
+    {
+      "id": "wilmot-ward-1",
+      "municipality": "wilmot",
+      "office": "Ward Councillor",
+      "ward": 1,
+      "name": "Wilmot Ward 1 Councillor"
     },
     {
       "id": "wilmot-ward-2",
@@ -188,6 +253,26 @@
       "office": "Ward Councillor",
       "ward": 2,
       "name": "Wilmot Ward 2 Councillor"
+    },
+    {
+      "id": "wilmot-ward-3",
+      "municipality": "wilmot",
+      "office": "Ward Councillor",
+      "ward": 3,
+      "name": "Wilmot Ward 3 Councillor"
+    },
+    {
+      "id": "wilmot-ward-4",
+      "municipality": "wilmot",
+      "office": "Ward Councillor",
+      "ward": 4,
+      "name": "Wilmot Ward 4 Councillor"
+    },
+    {
+      "id": "woolwich-mayor",
+      "municipality": "woolwich",
+      "office": "Mayor",
+      "name": "Woolwich Mayor"
     },
     {
       "id": "woolwich-ward-1",
@@ -211,6 +296,40 @@
       "name": "Woolwich Ward 3 Councillor"
     },
     {
+      "id": "wellesley-mayor",
+      "municipality": "wellesley",
+      "office": "Mayor",
+      "name": "Wellesley Mayor"
+    },
+    {
+      "id": "wellesley-ward-1",
+      "municipality": "wellesley",
+      "office": "Ward Councillor",
+      "ward": 1,
+      "name": "Wellesley Ward 1 Councillor"
+    },
+    {
+      "id": "wellesley-ward-2",
+      "municipality": "wellesley",
+      "office": "Ward Councillor",
+      "ward": 2,
+      "name": "Wellesley Ward 2 Councillor"
+    },
+    {
+      "id": "wellesley-ward-3",
+      "municipality": "wellesley",
+      "office": "Ward Councillor",
+      "ward": 3,
+      "name": "Wellesley Ward 3 Councillor"
+    },
+    {
+      "id": "wellesley-ward-4",
+      "municipality": "wellesley",
+      "office": "Ward Councillor",
+      "ward": 4,
+      "name": "Wellesley Ward 4 Councillor"
+    },
+    {
       "id": "north-dumfries-mayor",
       "municipality": "north-dumfries",
       "office": "Mayor",
@@ -229,6 +348,20 @@
       "office": "Ward Councillor",
       "ward": 2,
       "name": "North Dumfries Ward 2 Councillor"
+    },
+    {
+      "id": "north-dumfries-ward-3",
+      "municipality": "north-dumfries",
+      "office": "Ward Councillor",
+      "ward": 3,
+      "name": "North Dumfries Ward 3 Councillor"
+    },
+    {
+      "id": "north-dumfries-ward-4",
+      "municipality": "north-dumfries",
+      "office": "Ward Councillor",
+      "ward": 4,
+      "name": "North Dumfries Ward 4 Councillor"
     }
   ]
 }
