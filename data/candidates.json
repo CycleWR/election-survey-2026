@@ -1544,6 +1544,22 @@
     "answers": {}
   },
   {
+    "id": "khaled-berbash",
+    "name": "Khaled Berbash",
+    "race": "waterloo-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "asma-al-wahsh",
+    "name": "Asma Al-Wahsh",
+    "race": "waterloo-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "hans-roach",
     "name": "Hans Roach",
     "race": "waterloo-ward-3",
