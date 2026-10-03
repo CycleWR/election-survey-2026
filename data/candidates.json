@@ -667,6 +667,48 @@
     "answers": {}
   },
   {
+    "id": "mohamed-askalany",
+    "name": "Mohamed Askalany",
+    "race": "kitchener-ward-9",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Supporting Kitchener’s Active Transportation Master Plan is essential to building safe, connected, and accessible corridors across Ward 9 and the city. I support funding infrastructure that enables safe walking, rolling, and cycling for residents of all ages and abilities."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Strategic investment in active transportation yields major long-term benefits for public safety, community health, traffic reduction, and environmental sustainability. Through disciplined capital planning and leveraging regional and provincial funding partners, we can expand safe active transit networks efficiently and responsibly."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Absolutely. I am committed to championing Ward 9 priorities, including filling critical gaps in our bike network, enhancing pedestrian safety near schools and senior residences, and improving winter maintenance on primary active transportation routes."
+      },
+      "priorities": {
+        "comment": "Over the next four years, I want our municipal council to achieve four key outcomes:\n1-Bridge Network Gaps: Complete missing links in safe, protected cycling lanes and multi-use trails so active transit becomes a practical, daily commute choice across Ward 9.\n2-Enhance Safety at Key Crossings: Install protected intersections, traffic-calming measures, and pedestrian-first infrastructure near schools, parks, and senior living communities.\n3-Ensure Year-Round Maintenance: Prioritize reliable winter snow clearing and surface maintenance on primary active transit corridors so residents can cycle, walk, and roll safely 365 days a year.\n4-Seamless Transit Integration: Strengthen connections between cycling routes, GRT bus stops, and ION light rail hubs to build a truly integrated multimodal transit network."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "I strongly support exploring an affordable, municipal-backed bike-share framework for Waterloo Region. The current private model has created two major barriers:\n1-Age & Physical Accessibility: Oversaturating fleets with e-scooters at the expense of standard, seated bicycles excludes seniors, older adults, and individuals with mobility preferences who would greatly benefit from traditional bike-share options.\n2-Financial Equity: High per-ride costs and membership fees prevent working families, students, and daily commuters from relying on shared mobility as a realistic everyday transportation choice.\n\nKey Improvement Ideas:\n1-Balanced Fleet Requirements: Enforce strict fleet ratio requirements so accessible, non-electric and seated options are available across all neighbourhood hubs.\n2-Subsidized & Tiered Pass Options: Introduce low-income, senior, and student pass options tied to GRT transit passes to make bike-sharing an extension of public transit.\n3-Strategic Hub Placement: Expand docking hubs outside the downtown core into Ward 9 residential neighbourhoods, senior centres, and commercial plazas so micro-mobility is genuinely accessible across the entire city."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Winter active transportation requires proactive planning and proper equipment rather than treating cycling routes as secondary snow-dumping zones. Here are my key proposals to improve winter biking in Kitchener:\n1-Prevent Windrow Accumulation: Update snowplowing protocols so cleared snow from road lanes is not pushed directly into adjacent painted or protected bike lanes.\n2-Dedicated Equipment Investment: Support the allocation of specialized mini-sweepers and narrow plows tailored specifically for protected bike lanes and multi-use trails.\n3-Proactive Pre-Treatment: Implement eco-friendly liquid anti-icing/brine treatments on high-volume active transit corridors prior to major winter storms to prevent ice bonding.\n4-Transit Hub Clearance: Ensure priority clearance around ION light rail stations, major GRT bus stops, and bike parking facilities so commuters can reliably combine cycling with public transit year-round.\n5-Transparent Citizen Reporting: Improve responsiveness to winter hazard reports submitted through the City’s 311 service to address ice build-up or uncleared route gaps quickly."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Active transportation and micro-mobility are enjoyable, green, and valuable ways for youth, adults, and seniors to navigate Kitchener. To ensure safe co-existence on our roads, bike lanes, and multi-use trails, City Council should focus on proactive public education and clear communication.\nMy key recommendations include:\n1-Proactive Public Education & Awareness: Rather than relying strictly on punitive measures, the City should partner with local schools, post-secondary institutions, and community centres to host workshops on trail etiquette, speed awareness, and shared-road safety.\n2-Clear Regional Bylaw Harmonization: Standardize e-bike and micro-mobility rules across Kitchener, Waterloo, and Cambridge so cyclists can travel seamlessly across municipal borders without conflicting regulations.\n3-Sensible Device Classification: Clearly distinguish between lightweight pedal-assist e-bikes (permitted on bike lanes and multi-use trails with a 32 km/h cap) and heavier, moped-style electric vehicles that belong on road lanes.\n4-Senior & Pedestrian Protection: Establish clear courtesy guidelines and visible signage in high-density pedestrian areas (like Victoria Park and the Iron Horse Trail) so walking seniors, children, and pet owners feel safe and respected."
+      },
+      "standalone-budget": {
+        "comment": "While I am running for Kitchener City Council (Ward 9), closing infrastructure gaps is critical to making active transportation safe and usable across our city. Unsafe 200-metre gaps discourage daily cycling.\nAs City Councillor, I will advocate for strong City-Region collaboration to:\n1-Prioritize High-Impact Network Gaps: Target short, high-risk disconnects that bridge residential streets in Ward 9 to Regional arterial roads, ION light rail stations, and school zones.\n2-Cost-Effective Quick-Build Solutions: Utilize quick-build infrastructure (flexible bollards, painted buffers, and improved signage) to establish safe connections immediately, rather than waiting years for full road reconstruction.\n3-Synchronize Municipal & Regional Capital Plans: Align Kitchener's municipal trail/bike lane upgrades with Regional road projects so network connectivity is planned seamlessly across jurisdictions."
+      },
+      "bike-racks": {
+        "comment": "Secure bicycle parking is critical to encouraging daily cycling—residents are far more likely to ride for errands and commutes if they know their bike won't be stolen or damaged.\nMy key proposals to expand secure bike parking in Kitchener include:\n1-Update Zoning & Development By-laws: Modernize municipal building codes to require secure, sheltered, and accessible indoor bike storage facilities in all new multi-residential developments and major commercial plazas.\n2-Secure Lockers at Key Transit Hubs & Public Facilities: Partner with the Region and GRT to install electronic, secure bike lockers and covered cages at ION light rail stations, major bus hubs, community centres, libraries, and primary parklands in Ward 9.\n3-Commercial Business Matching Grants: Establish a municipal micro-grant program to help small businesses, local BIA members, and plaza owners install standardized, secure bike racks outside retail corridors.\n4-Retrofitting Public Spaces & Parklands: Convert underutilized paved areas near municipal facilities and neighbourhood hubs into dedicated, well-lit active transportation parking spots equipped with basic repair stands/pumps."
+      }
+    }
+  },
+  {
     "id": "debbie-chapman",
     "name": "Debbie Chapman",
     "race": "kitchener-ward-9",
