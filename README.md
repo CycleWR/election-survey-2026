@@ -1,18 +1,20 @@
-# cyclewr-survey-2026.github.io
-Results of the municipal candidate survey 2026 conducted by CycleWR.
+# CycleWR 2026 Municipal Election Survey
+Results of the 2026 municipal candidate survey conducted by CycleWR.
+
+**Live site: https://cyclewr.github.io/election-survey-2026/** (repository: `CycleWR/election-survey-2026`)
 
 A static site (plain HTML/CSS/JS, no build step) served by GitHub Pages.
 
-> **Status: in development.** Questions in `config/survey.json` and candidates in `data/` are **placeholders**
-> built from fake sample data; ward shapes are placeholders until the "Update data" Action first runs.
+Candidate responses come from the CycleWR survey spreadsheet (see below); Kitchener and Waterloo ward
+boundaries come from the Region of Waterloo open data portal.
 
 ## Pages
 
 | Page | URL | What it shows |
 |---|---|---|
 | Home | `/` | Clickable ward map + directory of every race (the accessible alternative to the map) with "responded / total" counts |
-| Race | `/race.html?id=kitchener-ward-3` | One race. **Browse by topic** (5 topic tabs, every candidate's answer under each question, yes/no tally) or **by candidate** (all of one candidate's answers across all topics). "Also on your ballot" links to mayor / regional races. |
-| Deep links | `…#topic=safety`, `…#candidate=candidate-14` | Every topic and every candidate view is shareable |
+| Race | `/race.html?id=kitchener-ward-3` | One race. **Browse by topic** (one tab per survey topic plus "All topics", every candidate's answer under each question, yes/no tally) or **by candidate** (all of one candidate's answers across all topics). "Also on your ballot" links to mayor / regional races. |
+| Deep links | `…#topic=plan`, `…#topic=all`, `…#candidate=mohamed-askalany` | Every topic and every candidate view is shareable |
 | About | `/about.html` | Methodology and the full question list |
 
 Candidates are listed alphabetically by surname. Non-responders are shown as "Did not respond".
