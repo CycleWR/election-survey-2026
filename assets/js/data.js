@@ -3,7 +3,9 @@ let cache;
 
 export async function loadData() {
   if (cache) return cache;
-  const get = (f) => fetch(`data/${f}`).then((r) => {
+  // 'no-cache' makes the browser check for newer data on every visit (GitHub Pages
+  // otherwise lets it reuse a stale copy for up to 10 minutes after an update).
+  const get = (f) => fetch(`data/${f}`, { cache: 'no-cache' }).then((r) => {
     if (!r.ok) throw new Error(`Failed to load ${f}`);
     return r.json();
   });
