@@ -1,0 +1,243 @@
+{
+  "_comment": "Maps Google Sheet columns to the site. 'column' / 'commentColumn' must match the sheet's header text (case and spacing are ignored; a list gives accepted alternative names); 'text' is what the site shows. Only columns listed here are published. 'municipalities' limits a question to those races. 'sheet.tabs' lists the tabs to read (by gid, from the tab's URL); every tab must have the same columns.",
+  "title": "CycleWR 2026 Municipal Candidate Survey",
+  "sheet": {
+    "id": "1oPc6fr3bI8jDjanTKZd0au883PLSHxkArxZsk992R9g",
+    "tabs": [
+      {
+        "name": "Kitchener",
+        "gid": "476103226"
+      },
+      {
+        "name": "Waterloo",
+        "gid": "683916390"
+      },
+      {
+        "name": "Cambridge",
+        "gid": "1224822318"
+      },
+      {
+        "name": "Townships",
+        "gid": "1482641543"
+      }
+    ]
+  },
+  "candidateColumns": {
+    "name": "Name",
+    "municipality": "City",
+    "office": "Position"
+  },
+  "municipalities": [
+    {
+      "id": "region",
+      "name": "Region of Waterloo"
+    },
+    {
+      "id": "kitchener",
+      "name": "Kitchener"
+    },
+    {
+      "id": "waterloo",
+      "name": "Waterloo"
+    },
+    {
+      "id": "cambridge",
+      "name": "Cambridge"
+    },
+    {
+      "id": "wilmot",
+      "name": "Wilmot"
+    },
+    {
+      "id": "woolwich",
+      "name": "Woolwich"
+    },
+    {
+      "id": "wellesley",
+      "name": "Wellesley"
+    },
+    {
+      "id": "north-dumfries",
+      "name": "North Dumfries"
+    }
+  ],
+  "topics": [
+    {
+      "id": "plan",
+      "title": "Active Transportation Plan",
+      "description": "Funding the plan, spending priorities and leadership on council.",
+      "questions": [
+        {
+          "id": "master-plan",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Maybe"
+          ],
+          "column": "If elected, will you vote to fund your municipality’s Active Transportation Master Plan?",
+          "text": "If elected, will you vote to fund your municipality’s Active Transportation Master Plan?",
+          "commentColumn": "Master Plan Support Comments"
+        },
+        {
+          "id": "spend-more",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Maybe"
+          ],
+          "column": "Do you think we should be spending more on active transportation?",
+          "text": "Do you think we should be spending more on active transportation?",
+          "commentColumn": [
+            "Active Transportation Plan Support Comments",
+            "Active Transportation Plan Comments"
+          ]
+        },
+        {
+          "id": "propose-initiatives",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Maybe"
+          ],
+          "column": "If elected, would you be willing to propose specific active transportation initiatives to your council?",
+          "text": "If elected, would you be willing to propose specific active transportation initiatives to your council?",
+          "commentColumn": "Council Motion Support Comments"
+        },
+        {
+          "id": "priorities",
+          "type": "open",
+          "column": "What are the two or three most important things you would like your municipal  Council to accomplish over the next four years to support active transportation?",
+          "text": "What are the two or three most important things you would like your municipal Council to accomplish over the next four years to support active transportation?"
+        }
+      ]
+    },
+    {
+      "id": "bike-share",
+      "title": "Shared Mobility",
+      "description": "Moving to a municipal bike-share model.",
+      "questions": [
+        {
+          "id": "bike-share",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Maybe"
+          ],
+          "column": "When our shared mobility contracts are next up for renewal , will you support transitioning the Region of Waterloo to a true municipal bike-share model - similar to Hamilton or Toronto - with cheaper non-electric options, and affordable monthly memberships?",
+          "text": "When our shared mobility contracts are next up for renewal, will you support transitioning the Region of Waterloo to a true municipal bike-share model - similar to Hamilton or Toronto - with cheaper non-electric options, and affordable monthly memberships?",
+          "commentColumn": "Shared Mobility Comments"
+        }
+      ]
+    },
+    {
+      "id": "snow",
+      "title": "Snow Clearing",
+      "description": "Clearing major cycling routes as quickly as roads.",
+      "questions": [
+        {
+          "id": "snow-clearing",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Maybe"
+          ],
+          "column": "Will you support the funding required to achieve a snow clearing standard for major cycling routes within the same time frame (maximum of 24 hours) as we have for roads?",
+          "text": "Will you support the funding required to achieve a snow clearing standard for major cycling routes within the same time frame (maximum of 24 hours) as we have for roads?",
+          "commentColumn": "Snow Clearing Comments"
+        }
+      ]
+    },
+    {
+      "id": "e-bikes",
+      "title": "E-bikes",
+      "description": "Giving low-speed, lightweight e-bikes the same access as regular bikes.",
+      "questions": [
+        {
+          "id": "e-bikes",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Maybe"
+          ],
+          "column": "The Province is proposing a new class structure for power-assisted e-bikes that would exclude moped and motorcycle-type bikes (these would require licences). For the e-bikes that do not require licences, would you support the municipalities giving the same access as a regular bike, provided they fulfill two key criteria - maximum speed from the motor of 32 km/hr and maximum weight of 55 kilograms?",
+          "text": "The Province is proposing a new class structure for power-assisted e-bikes that would exclude moped and motorcycle-type bikes (these would require licences). For the e-bikes that do not require licences, would you support the municipalities giving the same access as a regular bike, provided they fulfill two key criteria - maximum speed from the motor of 32 km/hr and maximum weight of 55 kilograms?",
+          "commentColumn": "E-bike Comments"
+        }
+      ]
+    },
+    {
+      "id": "infrastructure",
+      "title": "Cycling Infrastructure Budget (Regional)",
+      "description": "Standalone projects to fill the most critical gaps in the cycling network.",
+      "questions": [
+        {
+          "id": "standalone-budget",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Maybe"
+          ],
+          "column": "Would you support a significant allocation of the Regional budget for “standalone” cycling infrastructure projects? The expectation is that staff will identify the most critical gaps in the cycling network that could be filled now, rather than waiting for the next major roadwork on that section of road?",
+          "text": "Would you support a significant allocation of the Regional budget for “standalone” cycling infrastructure projects? The expectation is that staff will identify the most critical gaps in the cycling network that could be filled now, rather than waiting for the next major roadwork on that section of road?",
+          "commentColumn": "Standalone Budget Comments"
+        }
+      ]
+    },
+    {
+      "id": "bike-parking",
+      "title": "Bike Parking",
+      "description": "Ideas for bike racks and secure bike storage.",
+      "questions": [
+        {
+          "id": "bike-racks",
+          "type": "open",
+          "column": "Bike Rack / Storage Ideas",
+          "text": "Do you have ideas on how your municipality could better support installing more bike racks and/or fully enclosed bike lockers or cages?"
+        }
+      ]
+    },
+    {
+      "id": "cambridge-wayfinding",
+      "title": "Cambridge Wayfinding",
+      "description": "CycleWR's wayfinding proposal for Cambridge. Asked of Cambridge candidates only.",
+      "questions": [
+        {
+          "id": "cambridge-wayfinding",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Maybe"
+          ],
+          "column": "For Cambridge Candidates Only : Would you support the CycleWR Cambridge wayfinding proposal?",
+          "text": "Would you support the CycleWR Cambridge wayfinding proposal?",
+          "municipalities": [
+            "cambridge"
+          ]
+        },
+        {
+          "id": "cambridge-wayfinding-more",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Maybe"
+          ],
+          "column": "Would you like to hear more about this proposal?",
+          "text": "Would you like to hear more about the CycleWR Cambridge wayfinding proposal?",
+          "commentColumn": "Cambridge Wayfinding Comments",
+          "municipalities": [
+            "cambridge"
+          ]
+        }
+      ]
+    }
+  ]
+}

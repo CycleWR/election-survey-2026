@@ -1,0 +1,3200 @@
+[
+  {
+    "id": "david-alton",
+    "name": "David Alton",
+    "race": "kitchener-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "I am planning on implementing a vulnerable road user prioritization for all transportation planning"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "I hear from people with disabilities how strong active transportation infrastructure makes it easier and safer for them to live independent lives"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "I have made the right to mobility to priority of my campaign so I am already coming with a platform full of active transportation motions"
+      },
+      "priorities": {
+        "comment": "-vulnerable road user prioritization in transportation planning\n-Municipal snow clearing\n-Schneiders Creek Watershed Park(ensuring connected active transportation routes through entire watershed)\n-Defying provincial legislation against road narrowing"
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "I want a public bike share. I am not a fan of private public partnerships. I think designated secure bike parking along the ion line can encourage last mile linkages."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "I'm not a cyclist so I think of active transportation through the lens of disability and vulnerable road users, who depend upon cleared bike lanes in the winter due to the lack of sidewalk maintenance. I think a municipal sidewalk program can reduce conflicts between different types of mobility users."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "I appreciate your expertise in this area. I like ebikes from an access point of view but was worried they would cause conflict/unsafety with other road users.\n\nIm thinking about the idea of slower road user zones or something. Like if we slowed traffic in the city core to encourage a greater diversity of slower road users to access the roads."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "I am definitely interested in connectivity. I was aiming on leaning on connecting city parkland to create an alternative network to the road network. But roads also need to narrowed and slowed faster than maintenance timelines."
+      },
+      "bike-racks": {
+        "comment": "I know it's a different context but the level of bike parking I witnessed in the Netherlands was next level! There is so much parking and parkades in downtown Kitchener I wonder about programs to install more expansive bike parking systems in them? And I mentioned this earlier but ion stations need secured bike parking."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Yes"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Yes",
+        "comment": "I have thought about this. That is what led me to the Schneider's Creek watershed park idea. Wayfinding is critical especially for routes that are not on the traditional road network."
+      }
+    }
+  },
+  {
+    "id": "wazhma-frogh",
+    "name": "Wazhma Frogh",
+    "race": "kitchener-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "wali-khan",
+    "name": "Wali Khan",
+    "race": "kitchener-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "manikantan-nair",
+    "name": "Manikantan Nair",
+    "race": "kitchener-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "My approach is simple: support active transportation where it makes practical sense, invest responsibly, and make sure residents can see the results of their tax dollars."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "As Mayor, I would support increased investment where there is a clear need, measurable benefit and responsible business case. The question should not simply be How much more can we spend? but Where will an additional dollar make the greatest difference for Kitchener residents."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Yes. I would like to focus my attention towards closing gaps in the existing cycling and pedestrian network, improving connections to transit, schools, employment areas and community facilities, and addressing locations with known safety concerns. Also Bike lanes and pedestrian routes need to be properly maintained, kept clear of debris, and made safe throughout the year. A bike lane that is blocked, poorly maintained or covered with debris is not truly useful or safe."
+      },
+      "priorities": {
+        "comment": "Closing gaps in the existing cycling and pedestrian network, improving connections to transit, schools, employment areas and community facilities, and addressing locations with known safety concerns. Also Bike lanes and pedestrian routes need to be properly maintained, kept clear of debris, and made safe throughout the year. A bike lane that is blocked, poorly maintained or covered with debris is not truly useful or safe. Looking further ahead, I would also be open to exploring innovative solutions for year-round active transportation, including protected or covered cycling routes and, where technically and financially feasible, bike tunnels similar to infrastructure used in South Korea. These could potentially provide safer, more weather-protected connections along particularly busy or challenging corridors."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Most importantly, we should learn from the experience of other Ontario municipalities and design a system that works for Waterloo Region’s residents and transportation needs, rather than simply accepting whatever model is most profitable for a private operator."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "I support a data-driven approach before committing additional funding or a specific 24-hour standard. We need to understand cycling demand, both summer and winter including where people travel, which routes are most used, and where safety or maintenance issues exist. We should collect the data, identify the priorities, and then invest where the need and benefit are greatest."
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "https://www.votefornair.ca/post/my-request-to-elected-representatives E-Scooter and E-Bike Safety Concerns\n\nAs the use of e-scooters and e-bikes continues to grow across the Kitchener-Waterloo Region, I believe it is time to strengthen regulations to improve public safety. I respectfully ask Council to consider the following measures:\n\nMake helmets mandatory for all riders and encourage the use of high-visibility clothing and lights, especially during nighttime riding.\n\nEnforce reasonable speed limits for e-bikes, with lower limits on shared-use trails and appropriate limits on roadways.\n\nConsider restricting higher-speed e-bikes from bike lanes and multi-use trails where they may pose a safety risk to pedestrians and cyclists.\n\nRequire strict compliance with traffic laws, including stopping at red lights and stop signs.\n\nIncrease enforcement against reckless riding, speeding, and riding on sidewalks where prohibited.\n\nConsider minimum age requirements or licensing for higher-speed e-bikes if warranted under provincial or local regulations.\n\nThe goal is not to discourage active transportation but to ensure it remains safe for everyone who shares our roads and pathways."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "https://www.votefornair.ca/post/my-request-to-elected-representatives  Road Quality and Maintenance\n\nI am also concerned about the condition of many roads throughout our city and region. Numerous roads require maintenance and pothole repairs. While I have reported several issues directly to the City, the number of problem areas is simply too great for residents to identify and report individually.\n\nI have been informed that road repairs are now largely handled on a reactive, case-by-case basis rather than through proactive inspections and maintenance. This approach allows many hazards to remain unaddressed for extended periods. Additionally, some recently constructed roads do not appear to meet the quality standards Canadians have come to expect. Whether the issue lies with contractors, project supervision, or municipal and regional inspection processes, greater oversight and accountability are needed to ensure taxpayers receive durable, high-quality infrastructure. Even some roundabout locations were not selected based on traffic volume from all four sides and some places road line markings not clear to drivers."
+      },
+      "bike-racks": {
+        "comment": "Yes. I would support expanding secure bicycle parking based on demonstrated demand and location. The City could work with businesses, apartment buildings, transit stations, schools and community facilities to identify locations where secure bike parking is needed. We should encourage more standard bike racks where appropriate, and covered, enclosed or locked bike storage at higher-demand locations. I would also explore incentives or partnerships with private property owners to add secure bicycle parking.\nMy approach is to identify where the demand exists, prioritize those locations, and invest accordingly."
+      }
+    }
+  },
+  {
+    "id": "george-trihenea",
+    "name": "George Trihenea",
+    "race": "kitchener-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "berry-vrbanovic",
+    "name": "Berry Vrbanovic",
+    "race": "kitchener-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "cindy-ward",
+    "name": "Cindy Ward",
+    "race": "kitchener-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "elizabeth-bate",
+    "name": "Elizabeth Bate",
+    "race": "kitchener-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "As our community grows we can no longer rely on outdated transportation infrastructure to get us around. We need to make sure we're looking towards the future when we plan today."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "I think transportation, trails and green space are underfunded and we need to be working towards making a community that is accessible and available for all."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "I want to see better transit, upgraded trails and better infrastructure that provides everyone an opportunity to get around in a way that makes them healthy and happy."
+      },
+      "priorities": {
+        "comment": "Better public transit routes and infrastructure and upgrades to our trail systems."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "There should be more locations. I live in the Stanley Park area of Kitchener and wouldn't even know how to go about using on of these e-scooters or where the locations of them are. They need to be visible, well-advertised and everywhere."
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "I think ensuring bicycles are able to be parked and kept safe is important and I would encourage more secure bicycle parking in all municipal lots, including bike lockers in underground lots."
+      }
+    }
+  },
+  {
+    "id": "scott-davey",
+    "name": "Scott Davey",
+    "race": "kitchener-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "haile-kiflai",
+    "name": "Haile Kiflai",
+    "race": "kitchener-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "zahid-mian-mahmood",
+    "name": "Zahid Mian Mahmood",
+    "race": "kitchener-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "soran-ibrahim",
+    "name": "Soran Ibrahim",
+    "race": "kitchener-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "derrick-rabethge",
+    "name": "Derrick Rabethge",
+    "race": "kitchener-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "dave-schnider",
+    "name": "Dave Schnider",
+    "race": "kitchener-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "shawn-bradshaw",
+    "name": "Shawn Bradshaw",
+    "race": "kitchener-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "joanne-delaney-fraser",
+    "name": "Joanne Delaney-Fraser",
+    "race": "kitchener-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "jason-denault",
+    "name": "Jason Denault",
+    "race": "kitchener-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "lurdes-jordao",
+    "name": "Lurdes Jordao",
+    "race": "kitchener-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "ismail-mohamed",
+    "name": "Ismail Mohamed",
+    "race": "kitchener-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "matt-parker",
+    "name": "Matt Parker",
+    "race": "kitchener-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "No"
+      },
+      "bike-racks": {
+        "comment": "I would support installation of bike racks along cycling routes and at public facilities."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Maybe"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Yes"
+      }
+    }
+  },
+  {
+    "id": "anant-jain",
+    "name": "Anant Jain",
+    "race": "kitchener-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "ibraheem-kappaya",
+    "name": "Ibraheem Kappaya",
+    "race": "kitchener-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Revised zoning that allows for a less car reliant city, whether this is establishing incentives or revamping zoning laws to accommodate more mixed used spaces, increased business and residential integration, or other avenues. I also want to see core city services prioritized and fulfilled in house over third party contracts."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "We can have an abundance of bike sharing options in the region, but they are useless without protected and dedicated bike lanes. So many of the people I know, especially elder and senior people, are scared to share the roads given current driving incidents being on the rise. We need protected bike lanes so people are actually comfortable using their own and shared micro mobility devices. There should be integration with the GRT as well. Last mile transit is often what deters people from using public transportation all together. Many bus stops, especially in ward 4, are simple too time consuming to get to by walk, often 15-20 mins from Relevant POIs (for example the doon south plaza being a full 15-20 min walk from the nearest GRT bus stop). By integrating the GRT system with third party micromobility services, that burden is removed from the GRT, and more people are inclined to use both services, reducing carbon emissions and promoting healthier lifestyles."
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "While not running for this office, I would welcome these proposals to our beloved city"
+      },
+      "bike-racks": {
+        "comment": "Having my own bike stolen TWICE since 2022, this is something I myself deeply feel passionate to work on."
+      }
+    }
+  },
+  {
+    "id": "christine-michaud",
+    "name": "Christine Michaud",
+    "race": "kitchener-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "vikki-poirier",
+    "name": "Vikki Poirier",
+    "race": "kitchener-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "I support responsible investment in active transportation that improves safety, accessibility and connectivity. Spending should be evidence-based, fiscally responsible and focused on projects that provide real value to residents and taxpayers."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "I would bring forward practical initiatives that respond to Ward 4 needs—safer school routes and crossings, closing gaps in our trail network, and better connections between neighbourhoods.  As someone raising an 11-year-old grandson who loves riding his bike, I see firsthand how important safe routes are for kids and families. I would work with residents to identify priorities while ensuring investments are evidence-based and fiscally responsible."
+      },
+      "priorities": {
+        "comment": "Over the next four years, I would like Council to focus on safer connections between neighbourhoods, schools, parks and trails, while addressing gaps in our active transportation network.\n\nI also believe we need clearer policies and stronger education around e-scooters and e-bikes, particularly when it comes to children and youth. As a grandparent raising an 11-year-old, I initially purchased one for my grandson but have since revoked his use of it because of concerns for his safety and the safety of those around him. Technology is changing quickly, and our policies, education, and enforcement need to keep pace.\n\nAbove all, investments should be practical, evidence-based, and fiscally responsible."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "comment": "I support allowing e-bikes that meet the 32 km/h speed and 55 kg weight limits to use the same routes as regular bicycles. E-bikes can make active transportation more accessible to seniors, people with mobility limitations and those travelling longer distances.\n\nAt the same time, clear rules, education and enforcement are essential. As e-bikes become more common, we need to ensure our policies keep pace and balance accessibility with the safety of everyone using our trails and cycling routes."
+      },
+      "bike-racks": {
+        "comment": "I’m still learning about Kitchener’s current approach to secure bike parking, but I would be interested in exploring where the gaps are and what more the City can reasonably do. That could include additional racks, lockers, or secure bike cages at City facilities, parks, community centers, and key transit connections, as well as opportunities to work with businesses and new developments.\nAs a parent raising an avid young cyclist, I worry about my grandson’s bike being stolen. I’m committed to listening, learning, and exploring practical, fiscally responsible solutions that make cycling a safer and more realistic option."
+      }
+    }
+  },
+  {
+    "id": "harry-scanlan",
+    "name": "Harry Scanlan",
+    "race": "kitchener-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "nate-bahlbi",
+    "name": "Nate Bahlbi",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "dimple-birdee",
+    "name": "Dimple Birdee",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "muhammad-miqdad-hudda",
+    "name": "Muhammad Miqdad Hudda",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "jon-massimi",
+    "name": "Jon Massimi",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "rich-peers",
+    "name": "Rich Peers",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "None"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "None"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Absolutely, Kitchener Ward 5 is rapidly growing and residents need to get around paths trails safely."
+      },
+      "priorities": {
+        "comment": "I would also like to see better connections between active transportation and public transit, along with improved crossings, lighting and accessibility where needed. Advocate for transportation network that works for pedestrians, cyclists, transit users, people with mobility challenges and drivers alike and makes it easier for residents to choose active transportation safely."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "None"
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "No excuses, I will advocate for residents to get around without obstruction."
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "None"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "I would prioritize safe crossings at major roads, clear signage, good lighting and year-round maintenance. As Ward 5 and the Municipality continues to grow, cycling connections should be considered early in the development and road-planning process rather than added as an afterthought."
+      },
+      "bike-racks": {
+        "comment": "I would support more bike racks at key destinations, along with secure, covered or enclosed bike storage where there is enough demand. Working with businesses, schools, property managers and the Region could also help expand secure bike parking beyond municipal properties.\n\nI’d also like to see the City explore bike parking requirements for new developments"
+      }
+    }
+  },
+  {
+    "id": "navjot-sandhu",
+    "name": "Navjot Sandhu",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sumit-selhi",
+    "name": "Sumit Selhi",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "fitz-vanderpool",
+    "name": "Fitz Vanderpool",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "tracy-weiler",
+    "name": "Tracy Weiler",
+    "race": "kitchener-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "amber-louise-culley",
+    "name": "Amber Louise Culley",
+    "race": "kitchener-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "paul-singh",
+    "name": "Paul Singh",
+    "race": "kitchener-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "brooklin-wallis",
+    "name": "Brooklin Wallis",
+    "race": "kitchener-ward-6",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Lots of things! Most importantly, filling in gaps that currently exist in the network. Ideally, we would entirely remove all instances where you're on a path, thrust into traffic for a bit, and then back on a bike path. I also want more separated bike paths and to expand the network further into the suburbs of the city."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "We don't need to reinvent the (shared) wheel. We should implement the strategies Toronto and Hamilton have and make bike shares an option for all income levels."
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "I believe that licensing would prohibit more people from using the cheaper, more environmentally friendly, and more economically productive option that a bike can be. Still, the region and the cities must do more to inform people that the 32km/hr limit isn't there for no reason. That being said, all types of bikes and scooters should be allowed on cycling routes."
+      },
+      "bike-racks": {
+        "comment": "Installing some protected bike lockers, à la Uptown Waterloo, is a must! We should also install secured bike storage areas like the ones we have downtown in other city community hubs, such as Fairview Mall."
+      }
+    }
+  },
+  {
+    "id": "bil-ioannidas",
+    "name": "Bil Ioannidas",
+    "race": "kitchener-ward-7",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "richie-nanan",
+    "name": "Richie Nanan",
+    "race": "kitchener-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "I believe more active transportation is needed. Looking at the Regional Plan and Kitchener Plan (since 2020), specifically, I believe the true issue is not about spending more; it is about delivering long-awaited 'adopted' plans into actionable plans."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Yes, there are many 'plans' for the city; specifically in ward 7 that have remained inactive since back in 2022. The community of ward 7 in speaking with resident, have lost trust and confidence, as there is no transparency or community involvement. To address these concerns my candidacy will emphasize: 1) Promoting and Supporting Community Wellbeing, 2) Advancing Pedestrian-Compromised Infrastructures, 3) Improving Infrastructure Planning, 4) Initiating Policy-Management Efficacy and 5) Building Trust and Creating Transparency for Responsible Governance."
+      },
+      "priorities": {
+        "comment": "There are a 2 issues particularly that I would be looking forward to engaging in discussions with City Council, if elected; \n1) The 2022-2025 VisionZero Strategy - Expired \n2) Building on the success of the active transportation (bike lanes) in the Kitchener downtown-core  \n\nIssues:\n1) Candidates should be aware that The 2022-2025 VisionZero strategy has expired. This will be an upcoming issue for Kitchener City Council following the election, as Council will have to discuss and implement ideas and direction regarding Kitchener City Council next steps.\nMy lived experiences, inter-community and legal perspectives will enable me to collaborate effectively in Council dialogues that promote strategic insights and informed advocacy to ensure cultural responsiveness and mainstreaming diversity, inclusion and accessibility for all community members of Kitchener.\n\n2) As a resident and occasional cyclist, I have followed initiatives of the CycleWR. The success of CycleWR's project in Kitchener's downtown-core proved, with rideship numbers, the efficacy of the project, some even calling it a 'good investment'. If elected, I would like to collaborate with CycleWR, in working together to build greater success throughout our shared community."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "I will definitely support transitioning to a true municipal bike-share model with emphasis on the accessibility issue.  There needs to be a conversation about accountability with respect to the promise of a 50/50 vehicle split. These 2 issues are particularly highlighted in my candidacy - Accessibility and Accountability.\nThe lack of accessibility may precisely be one of the reasons for the low utilization rate, coupled with the high cost - in comparison. I personally used Neuron, once, before. Only once, because the cost was astronomical, that I learned later when the charged was applied to my card. I immediately noticed that this mode of micro-mobility was not very 'mobility-friendly' with respect my particular disability. I hope these issues are highlighted for the next conversation with Lime and the Region of Waterloo."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "I believe there is a need to integrate more community involvement in order to have a better, informed discussion."
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "The inability to securely lock a bicycle safely is a definite concern. This is particularly why I cannot use my bicycle as much as I would enjoy because of the lack of bike parking.\n\nMy candidacy encompasses this issue in terms of: promoting and supporting community wellbeing, advancing pedestrian-compromised infrastructures and improving infrastructure planning. \n\nI would encourage City Council to have a dialogue regarding the installation of more bike-securing options, whether it be racks, lockers or cages. The statistic's show that over 5400+ bike thefts happened between 2019-2024 and only 8% were recovered and/or returned.\n\nI not only have a idea, but also, a solution to the issues at hand;\nI am a part of a dedicated team that is currently developing a user-based platform that will record, report and rate bike/micro-mobilty secure locations/facilities (eg. Bike racks, locker); the platform, coming soon, will be called \"Bikelockd\". On this \"Bikelockd' platform users will be able to see where current bike-secured features are located throughout our region, see existing bike routes, and users will be able to record and share rack/locker locations, share pictures of the securing features, share experiences and a means of reporting theft within the community. \n\n\"Bikelockd\" is coming soon."
+      }
+    }
+  },
+  {
+    "id": "nikki-rollick",
+    "name": "Nikki Rollick",
+    "race": "kitchener-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "As a person who has given up car ownership in order to embrace more active transportation, I would love to encourage more residents of Kitchener to choose active transportation more often."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Collaboration with the Region of Waterloo for better cycling crossings of Westmount Road, particularly where it meets the Route 1 cycling trail and the trail connecting Westmount to Greenbrook Drive."
+      },
+      "priorities": {
+        "comment": "Better collaboration with the Region of Waterloo to make sure improvements to active transportation infrastructure in the city are not hampered by difficult crossings at regional roads.  I would also like to see if there is room for expansion of the Region's TravelWise program to include direct incentives for choosing to walk or bike to work for participating employers.  Ultimately, I'd like to explore how we can shift travel behaviours for city residents so that active transportation becomes a much greater share of all trips taken."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Because I own an e-bike, I do not use these services, but from my observations, the locations for picking them up did not seem to be in convenient walking distance from the places I live, which would be necessary for me to consider using them.  I'd like to see a more de-centralized network, with greater equity of access to bike sharing options."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "The biggest hazard keeping me off my bike in the winter months is ice accumulation on roads, pathways, and bridges.  Some of the bridges Kitchener has used on its trail network are made of metal and become extremely hazardous in rain and snow.  It would be useful to investigate and change the design of bridges on trails to mitigate these hazards."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Places where city pathways meet Regional roads can often create situations where safe, convenient bike travel routes suddenly turn into risky road crossings or riding alongside busy roads.  I would advocate for increased dialogue with the Region about creating safe, continuous routes through the city of Kitchener."
+      },
+      "bike-racks": {
+        "comment": "I certainly feel this difficulty!  I cycle about 80% of all my trips in good weather, and many destinations lack good bicycle parking.  I would consider having the city give grants to businesses to install bike racks.  Presumably, these might marginally boost customer volumes for them too."
+      }
+    }
+  },
+  {
+    "id": "wendy-creighton",
+    "name": "Wendy Creighton",
+    "race": "kitchener-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "margaret-johnston",
+    "name": "Margaret Johnston",
+    "race": "kitchener-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "philip-molto",
+    "name": "Philip Molto",
+    "race": "kitchener-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "carly-pettinger",
+    "name": "Carly Pettinger",
+    "race": "kitchener-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "mohamed-askalany",
+    "name": "Mohamed Askalany",
+    "race": "kitchener-ward-9",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Supporting Kitchener’s Active Transportation Master Plan is essential to building safe, connected, and accessible corridors across Ward 9 and the city. I support funding infrastructure that enables safe walking, rolling, and cycling for residents of all ages and abilities."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Strategic investment in active transportation yields major long-term benefits for public safety, community health, traffic reduction, and environmental sustainability. Through disciplined capital planning and leveraging regional and provincial funding partners, we can expand safe active transit networks efficiently and responsibly."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Absolutely. I am committed to championing Ward 9 priorities, including filling critical gaps in our bike network, enhancing pedestrian safety near schools and senior residences, and improving winter maintenance on primary active transportation routes."
+      },
+      "priorities": {
+        "comment": "Over the next four years, I want our municipal council to achieve four key outcomes:\n1-Bridge Network Gaps: Complete missing links in safe, protected cycling lanes and multi-use trails so active transit becomes a practical, daily commute choice across Ward 9.\n2-Enhance Safety at Key Crossings: Install protected intersections, traffic-calming measures, and pedestrian-first infrastructure near schools, parks, and senior living communities.\n3-Ensure Year-Round Maintenance: Prioritize reliable winter snow clearing and surface maintenance on primary active transit corridors so residents can cycle, walk, and roll safely 365 days a year.\n4-Seamless Transit Integration: Strengthen connections between cycling routes, GRT bus stops, and ION light rail hubs to build a truly integrated multimodal transit network."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "I strongly support exploring an affordable, municipal-backed bike-share framework for Waterloo Region. The current private model has created two major barriers:\n1-Age & Physical Accessibility: Oversaturating fleets with e-scooters at the expense of standard, seated bicycles excludes seniors, older adults, and individuals with mobility preferences who would greatly benefit from traditional bike-share options.\n2-Financial Equity: High per-ride costs and membership fees prevent working families, students, and daily commuters from relying on shared mobility as a realistic everyday transportation choice.\n\nKey Improvement Ideas:\n1-Balanced Fleet Requirements: Enforce strict fleet ratio requirements so accessible, non-electric and seated options are available across all neighbourhood hubs.\n2-Subsidized & Tiered Pass Options: Introduce low-income, senior, and student pass options tied to GRT transit passes to make bike-sharing an extension of public transit.\n3-Strategic Hub Placement: Expand docking hubs outside the downtown core into Ward 9 residential neighbourhoods, senior centres, and commercial plazas so micro-mobility is genuinely accessible across the entire city."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Winter active transportation requires proactive planning and proper equipment rather than treating cycling routes as secondary snow-dumping zones. Here are my key proposals to improve winter biking in Kitchener:\n1-Prevent Windrow Accumulation: Update snowplowing protocols so cleared snow from road lanes is not pushed directly into adjacent painted or protected bike lanes.\n2-Dedicated Equipment Investment: Support the allocation of specialized mini-sweepers and narrow plows tailored specifically for protected bike lanes and multi-use trails.\n3-Proactive Pre-Treatment: Implement eco-friendly liquid anti-icing/brine treatments on high-volume active transit corridors prior to major winter storms to prevent ice bonding.\n4-Transit Hub Clearance: Ensure priority clearance around ION light rail stations, major GRT bus stops, and bike parking facilities so commuters can reliably combine cycling with public transit year-round.\n5-Transparent Citizen Reporting: Improve responsiveness to winter hazard reports submitted through the City’s 311 service to address ice build-up or uncleared route gaps quickly."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Active transportation and micro-mobility are enjoyable, green, and valuable ways for youth, adults, and seniors to navigate Kitchener. To ensure safe co-existence on our roads, bike lanes, and multi-use trails, City Council should focus on proactive public education and clear communication.\nMy key recommendations include:\n1-Proactive Public Education & Awareness: Rather than relying strictly on punitive measures, the City should partner with local schools, post-secondary institutions, and community centres to host workshops on trail etiquette, speed awareness, and shared-road safety.\n2-Clear Regional Bylaw Harmonization: Standardize e-bike and micro-mobility rules across Kitchener, Waterloo, and Cambridge so cyclists can travel seamlessly across municipal borders without conflicting regulations.\n3-Sensible Device Classification: Clearly distinguish between lightweight pedal-assist e-bikes (permitted on bike lanes and multi-use trails with a 32 km/h cap) and heavier, moped-style electric vehicles that belong on road lanes.\n4-Senior & Pedestrian Protection: Establish clear courtesy guidelines and visible signage in high-density pedestrian areas (like Victoria Park and the Iron Horse Trail) so walking seniors, children, and pet owners feel safe and respected."
+      },
+      "standalone-budget": {
+        "comment": "While I am running for Kitchener City Council (Ward 9), closing infrastructure gaps is critical to making active transportation safe and usable across our city. Unsafe 200-metre gaps discourage daily cycling.\nAs City Councillor, I will advocate for strong City-Region collaboration to:\n1-Prioritize High-Impact Network Gaps: Target short, high-risk disconnects that bridge residential streets in Ward 9 to Regional arterial roads, ION light rail stations, and school zones.\n2-Cost-Effective Quick-Build Solutions: Utilize quick-build infrastructure (flexible bollards, painted buffers, and improved signage) to establish safe connections immediately, rather than waiting years for full road reconstruction.\n3-Synchronize Municipal & Regional Capital Plans: Align Kitchener's municipal trail/bike lane upgrades with Regional road projects so network connectivity is planned seamlessly across jurisdictions."
+      },
+      "bike-racks": {
+        "comment": "Secure bicycle parking is critical to encouraging daily cycling—residents are far more likely to ride for errands and commutes if they know their bike won't be stolen or damaged.\nMy key proposals to expand secure bike parking in Kitchener include:\n1-Update Zoning & Development By-laws: Modernize municipal building codes to require secure, sheltered, and accessible indoor bike storage facilities in all new multi-residential developments and major commercial plazas.\n2-Secure Lockers at Key Transit Hubs & Public Facilities: Partner with the Region and GRT to install electronic, secure bike lockers and covered cages at ION light rail stations, major bus hubs, community centres, libraries, and primary parklands in Ward 9.\n3-Commercial Business Matching Grants: Establish a municipal micro-grant program to help small businesses, local BIA members, and plaza owners install standardized, secure bike racks outside retail corridors.\n4-Retrofitting Public Spaces & Parklands: Convert underutilized paved areas near municipal facilities and neighbourhood hubs into dedicated, well-lit active transportation parking spots equipped with basic repair stands/pumps."
+      }
+    }
+  },
+  {
+    "id": "debbie-chapman",
+    "name": "Debbie Chapman",
+    "race": "kitchener-ward-9",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "I have supported Kitchener's Active Transportation Master Plan since its inception."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "While the City has done a lot of work, there is still more that can be done."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "I've heard from many residents that many of the trails are too narrow to accommodate the needs of rollers, cyclists and walkers. As new trails are built and older trails reconfigured, this should be taken into account."
+      },
+      "priorities": {
+        "comment": "There are gaps in the network that need to be closed. \nI would like to see more signage on the multi-use trails to ensure the safety of all users. Signs large enough to be seen by cyclists and low enough to be seen by walkers and rollers.\nReplace gravel trails with asphalt.\nFind ways to enforce ebike and escooter speeds on trails.\nWork with corporations/strip-malls to install bike racks on their premises.\nRequire bike check services at all events whether city run or otherwise."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "I don't have any ideas, but accessibility should be front of mind. To ensure great safety, education programs detailing speed limits of e-vehicles should be considered."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Last winter was particularly challenging due to the large amount of snow. I would like to see greater coordination between the bike lane ploughs and the street ploughs. Attention also has to be given to private driveway and parking lot entrances which, when cleared, often leave snow residue on the bike lanes, obstructing passage."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "32 km/hr seems awfully fast on some of the narrower trails around the Region. On street bike lanes, I think it works well. Safety for all users should be the focus."
+      },
+      "bike-racks": {
+        "comment": "I think the best way would be to introduce a bylaw requiring all new buildings to have bike racks. Such a bylaw already exists for new residential buildings. Perhaps the city could also introduce an incentive program to encourage existing plazas/businesses to install bike racks."
+      }
+    }
+  },
+  {
+    "id": "tim-willcox",
+    "name": "Tim Willcox",
+    "race": "kitchener-ward-9",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "everton-dixon",
+    "name": "Everton Dixon",
+    "race": "kitchener-ward-10",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "My campaign pledges for 12-Hour Winter Sidewalk Clearance"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Active transportation is essential infrastructure for a growing downtown core"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "focus on priority projects that improve safety, close sidewalk gaps"
+      },
+      "priorities": {
+        "comment": "Active transportation networks are only as useful as their winter maintenance. Ward 10 has the highest density of pedestrians, seniors, and transit riders in the city. I am fighting to reduce the municipal sidewalk snow-clearing window from 24 hours to 12 hours after a snowfall, ensuring residents using mobility devices, parents with strollers, and winter commuters aren't trapped or forced onto unplowed roads."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "I would like to invite you guys and your team to spearhead and source inviting multiple competitors into the city to create options and diversity, and not a single monopoly"
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Active transportation networks are only as useful as their winter maintenance. Ward 10 has the highest density of pedestrians, seniors, and transit riders in the city. I am fighting to reduce the municipal sidewalk snow-clearing window from 24 hours to 12 hours after a snowfall, ensuring residents using mobility devices, parents with strollers, and winter commuters aren't trapped or forced onto unplowed roads."
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "I would welcome you and your team to voice the concerns of the community on this issue, as it is not something I am familiar with, and I am open to being educated"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "In Downtown Kitchener, a cycling network is only as safe as its weakest link. When a protected lane suddenly drops off into traffic, it creates confusion for drivers and danger for cyclists. Staff should have the dedicated funding necessary to identify high-risk gaps and fix them immediately rather than leaving them unaddressed for years."
+      },
+      "bike-racks": {
+        "comment": "The City already owns and operates several parking garages and lots in Downtown Kitchener. We can easily convert underutilized corners of these municipal garages into fully enclosed, keycard- or app-accessible bike cages. Integrating access with existing transit cards (like GRT/EasyGO) would provide cyclists with low-cost, high-security parking right in the core."
+      },
+      "cambridge-wayfinding": {
+        "choice": "No"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "No",
+        "comment": "Candidate for Kitchener City Council, Ward 10."
+      }
+    }
+  },
+  {
+    "id": "sam-nabi",
+    "name": "Sam Nabi",
+    "race": "kitchener-ward-10",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Investments in active transportation are essential for creating connected, safe neighbourhoods where people of all ages and abilites can get around. These investments contribute to savings in healthcare, reduced social isolation, and improved mental health."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "As I knock on doors and speak with neighbours, there is near-univeral support for safe, connected trails across the city. The benefits of a connected network grow exponentially with each new expansion of our connected grid of routes. Lighting and safe crossing upgrades make it possible for children, those with disabilities, and other vulnerable road users to feel safe and travel independently with confidence."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "My top priority is to complete construction of the 8 City-Wide Routes in Kitchener's Cycling and Trails Master Plan, and to do so by 2030. This would require accelerating our pace of construction from roughly 1 route per year to 2 routes per year."
+      },
+      "priorities": {
+        "comment": "As mentioned above, accelerating completion of the city-wide routes is my top priority. These offer the most impact per dollar of investment and the widest support among residents, providing a connected network across the whole city for all ages and abilities.\n\nI will also advocate for municipal sidewalk snow-clearing, beginning with school zones and connecting to neighbourhood trails and transit stops, to allow children to walk and roll to school safely.\n\nMy third priority is to explore ways to reduce conflicts between pedestrians and e-scooters, as higher-speed vehicles become more commonplace on our trails."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "While this is a Regional responsibility, I support greater integration of multi-modal transportation options including Grand River Transit, ION, bikeshare, taxis, carshare, micromobility, and parking options. Better integration in trip planning and payment methods among these modes will help reduce car dependency and encourage flexibility in transportation options."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Municipal sidewalk snow clearing will create opportunities for better coordination in the timing of snow removal for sidewalks, trails, bus stops, and roads. Where on-road bike lanes exist, especially next to sidewalks without a boulevard separating them, I support increased snow hauling operations so the snow isn't simply pushed to the side and is actually removed.\n\nMore options for covered bike parking, especially near city facilities and transit stops, would also improve the winter cycling experience."
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "On multi-use trails where conflicts between e-bikes and pedestrians are most likely, I support a posted maximum speed of less than the full 32 km/hr, with physical design elements to encourage slower speeds. Our trails are not raceways, and all trail users have a responsibility to share the space safely, whether it's a human-powered bicycle or a motorized one. We need a combination of signage, education campaigns, and design considerations to make multi-use trails safe for all.\n\nI will also support continued targeted safety improvements to lane markings, physical protection, signage, and signals where bike lanes end and transition to mixed traffic; and where intersections handle large volumes of multi-modal traffic."
+      },
+      "bike-racks": {
+        "comment": "I support further public investment in bike racks on public rights-of-way and at city facilities, including sheltered bike parking. I would like to see as-of-right permissions for bike racks in front of local businesses, in the same way as we allow a-frame signs.\n\nBike lockers and cages can be good options for commuters or longer-term parking options within city parking garages, but I wouldn't necessarily support their use outside of these facilities."
+      }
+    }
+  },
+  {
+    "id": "peter-piluk",
+    "name": "Peter Piluk",
+    "race": "kitchener-ward-10",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Yes. I will continue to advocate and vote for funding for the the current plan."
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "Kitchener’s Active Transportation Master Plan is already approved and fully costed. My priority is execution and fiscal discipline: holding the line on established budgets. While I won't rule out targeted adjustments if conditions strictly require them, any proposed budget increase must face rigorous Council scrutiny. Our focus right now must be delivering the promised active transportation infrastructure efficiently, on time, and on budget."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "As someone living at Margaret and Queen in Ward 10, I see the success of our multi-use sidewalk daily. It represents a practical, high-impact design that should serve as a blueprint for future infrastructure projects across Kitchener."
+      },
+      "priorities": {
+        "comment": "My goal is to keep Kitchener focused on executing our existing Active Transportation Master Plan efficiently and on-budget. While the current framework works well for urban core neighborhoods like Ward 10, we must ensure it evolves to better support residents on the city's outskirts, where mobility challenges and connectivity needs are fundamentally different."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "I appreciated the concept behind Neuron, but in reality, scooters were constantly left blocking sidewalks and public spaces. Between low ridership and a confusing user experience, the execution missed the mark.\n\nMoving forward, micro-mobility should be managed through smart public-private partnerships that protect taxpayers from footing the bill. A structured monthly subscription model, like proposed, would make cost recovery far more predictable. Public transit doesn't exist to turn a profit, but every mobility initiative should be as financially self-sufficient as possible because that is the best way to ensure it long term survival.\n\nOne of the things we could do would be to include an hybrid GRT/Bike-Share monthly program. In my opinion, this is one of the best ways to encourage e-bike usage. This would require input from the Region."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "When I was younger, bikes were put away every fall. Today, people cycle and ride year-round, and city services need to keep pace with that shift. That doesn't mean taxpayers should foot the bill to clear every single residential sidewalk in Kitchener. Instead, we need a targeted approach. The city should focus its winter maintenance on heavily used multi-use paths and key arterial corridors, like the multi-use sidewalk along Margaret Avenue, keeping major active transit routes safe, clear, and connected all winter long."
+      },
+      "e-bikes": {
+        "comment": "I support what the provincial government is proposing, and Kitchener should align its bylaws accordingly. Differentiating lightweight e-bikes from heavier moped-style vehicles is practical and necessary for trail safety. As long as an e-bike meets the 32 km/h speed and 55 kg weight limits, giving it the same access as a standard bicycle keeps our active transit rules clear, safe, and consistent across the region."
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "I live and work downtown Kitchener. The single biggest reason I don't cycle is I had no place to park my bike. I would advocate for more fully enclosed bike lockers in the city. Waterloo has a great program for enclosed bike lockers (although I think they could have substantially more enclosures) and I would like to duplicate that in Kitchener."
+      }
+    }
+  },
+  {
+    "id": "aalaa-rahman",
+    "name": "Aalaa Rahman",
+    "race": "kitchener-ward-10",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "stephanie-stretch",
+    "name": "Stephanie Stretch",
+    "race": "kitchener-ward-10",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Council endorsed the Cycling and Trails Master Plan in October 2020. This plan has been guiding the investments in on-road and off-road cycling infrastructure. Infrastructure is added through stand-alone projects and full road reconstruction projects. East Avenue is a recent example of a road reconstruction project in Ward 10. The City is currently updating it's Transportation Master Plan and I would like to understand the scope of Staff's recommendation prior to committing."
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "I would like to see us move forward with more investment in active transportation. I think it’s important, though, to look at these investments in the context of the overall municipal budget and other priorities. Seeing the full budget picture would help me determine where additional investment makes the most sense and how strongly I can support it. (I would also like to look at opportunities to enhance active transportation infrastructure through funding opportunities from other levels of government, wherever possible)"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "The City of Kitchener Cycling and Trails Master Plan was developed by a community working group and engaged over 3,000 residents. The CTMP has comprehensively planned a city-wide network of All Ages and Abilities Infrastructure and the City has been implimenting the network based on the plan. I would want to work closely with staff if a new, unplanned opportunity came up. I would want to work closely with residents and staff to identify and respond to community needs. Ideally, a well-thought-out Active Transportation Master Plan, supported by an appropriate budget, should provide the framework for moving priorities forward rather than requiring individual initiatives to be proposed one at a time. That said, I am always open to learning, listening to new ideas, and responding to emerging community needs while leading in a way that reflects my values."
+      },
+      "priorities": {
+        "comment": "Over the next four years, my priorities are to expand active transportation routes and cycling infrastructure. A hope of mine is to see the launch of  Route 2 next year and Route 3 the following year, while continuing to incorporate cycling infrastructure into full road reconstruction projects. These plans will continue to be refined based on provincial changes and budgets but I hope to gain council support in seeing this all move forward in the medium term."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "We've taken a region-wide approach on purpose. The previous working centre model was limited in area and access. Hamilton was able to access transit funding to launch their bikeshare. As an area municipality we would have limited ability to take that approach, since we are not the transit operator. I like the principle of a municipal bike share model, I personally believe it would be more effective as a region-wide initiative, rather than a Kitchener initiative."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "The City of Kitchener has dedicated staff that clear the downtown cycling grid and many of the City's paved trails. These areas are frequently cleared faster than adjacent roadways."
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "The city of Kitchener Zoning By-Law requires secure bicycle parking in many types of new development. In addition, the City offers secure bike parking at several municipally operating parking garages."
+      }
+    }
+  },
+  {
+    "id": "ed-edwards",
+    "name": "Ed Edwards",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "joe-gowing",
+    "name": "Joe Gowing",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "As a sitting Regional Councillor, I have already supported investments in active transportation. I will continue supporting practical projects that improve safety, close important network gaps and provide good value for taxpayers."
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "As a sitting councillor, I have supported active transportation investments. I am open to further funding where there is a demonstrated safety need, strong public benefit and a clear maintenance plan. The goal should be better results, not simply higher spending."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "I have already raised active transportation ideas as a sitting Regional Councillor, including looking at safer alternatives to traditional on-road bicycle lanes. I will continue proposing practical initiatives such as separated routes, safer intersections, stronger transit connections and improved maintenance."
+      },
+      "priorities": {
+        "comment": "Over the next four years, I want the Region and local municipalities to create a safer and better-connected network. This means closing gaps between existing routes, separating cyclists from high-speed traffic wherever practical, improving crossings and intersections, connecting neighbourhoods to transit and major destinations, and maintaining priority routes throughout the winter.\n\nAs a sitting Regional Councillor, I have already supported active transportation investments and raised questions about how we can improve safety for everyone. I will continue working toward solutions that serve cyclists, pedestrians, motorists and people with mobility needs."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Before making that decision, I would want to review the available options, costs and results in other municipalities. If comparable communities are receiving better service, greater accessibility and more affordable pricing, Waterloo Region should expect and negotiate for the same value."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "If we invest in major cycling routes, they should be safe and usable year-round. Winter maintenance should be coordinated between the Region and local municipalities, with priority given to the busiest connections. We should also track recurring problem areas where snowbanks, ice or incomplete clearing force cyclists into traffic."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "E-bikes that meet the provincial bicycle classification should generally have the same access as regular bicycles. Rules should focus on vehicle weight, speed and safe operation rather than treating every e-bike like a moped.\n\nThe Region and local municipalities should establish consistent rules, clear signage and appropriate speed limits on busy shared trails. Enforcement should focus on unsafe behaviour, regardless of the type of bicycle being used."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "I would support targeted standalone projects where closing a critical gap creates a genuinely safe and continuous route. Projects should be prioritized using safety, expected use, cost and connectivity—not simply by how many kilometres can be added.\n\nThe Region should maintain a prioritized list of missing links, coordinate construction with local municipalities and consider separated routes or safer parallel streets where painted lanes are not appropriate. A network is only as useful as its least-safe gap."
+      },
+      "bike-racks": {
+        "comment": "The Region should begin by identifying locations where demand and theft concerns are greatest, particularly transit hubs and Regional facilities. Secure bicycle parking should be considered from the outset in new transit and capital projects rather than added later.\n\nThe Region can also coordinate with local municipalities, property owners and businesses to expand racks, lockers and enclosed parking where there is demonstrated demand, with clear responsibility for security and maintenance."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Yes"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Yes",
+        "comment": "Although this question is directed toward Cambridge candidates, Regional Council decisions affect transportation connections across the entire Region. I support exploring clear, consistent wayfinding that helps cyclists identify safer routes and navigate between municipalities. I would welcome more information about CycleWR’s proposal and how it could connect with a broader Regional network."
+      }
+    }
+  },
+  {
+    "id": "mac-graham",
+    "name": "Mac Graham",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "simon-guthrie",
+    "name": "Simon Guthrie",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "I would like to see gaps in the active network filled. Highway and bridge crossings are especially limited, and I would like to see more and safer options."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "I need to see best practices in other municipalities, and especially in Canadian contexts. I understand that we may be in the midst of negotiating new contracts right now, and I hope that it is being done transparently. If not, I will bring it into the open.\n\nIn building micro-mobility networks, we also have to accept that our region is still getting used to these opportunities. Just like roundabouts, there will be confusion and misunderstanding, as well as loud voices against. I will work to bridge these gaps. There will be ideas and opportunities that allow for a better integration of micro-mobility into our other transit options."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "I only say maybe, because I don't believe tha twe know what the costs would be. I expect we will have to prioritize on our way to a commitment as described here. Nevertheless, I've been impressed with some efforts at clearing. For example, the MUP pathways in Ward 1 Kitchener are usually cleared very quickly."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Yes, sort of. Even an e-bike as described can do damage to a pedestrian. So, we need to have a behaviour-oriented understanding amongst all users. This will probably have to include some bylaw development and enforcement."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "Infrastructure users are the best source of information for identifying critical gaps. Being cyclists and cycling advocates into the conversation (if they weren't already). There is also GIS data that can be accessed to help our understanding. Strava heatmaps are an example of this."
+      },
+      "bike-racks": {
+        "comment": "The city of Kitchener has bike cages in their parking garages, and I've been using these for a few years. They're excellent. But the system breaks as soon as I leave Kitchener. I would like to see a single system, like the one in Kitchener, expanded region-wide. If this means that the Region of Waterloo takes over bike parking from the lower-tier municipalities, then so be it!"
+      }
+    }
+  },
+  {
+    "id": "michael-harris",
+    "name": "Michael Harris",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "kim-huxted",
+    "name": "Kim Huxted",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "I would need to see the plan to make an informed decision"
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "I think we are doing a great job and creating active transportation routes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "If the proposals seem reasonable I would be happy to support those economically viable initiatives"
+      },
+      "priorities": {
+        "comment": "snow removal on all active transportation routes, rest stations, garbage and recyle bins"
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "more information is needed to make an informed decision, examples where and why they are not cleared is vital information"
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "We would have to find cuts somewhere else to support and significant allocation of the regional budget.  I think the Region is doing a great job at improving our active transportation routes and we need patience in completing all routes.  Should the cost be borne by all residents or the ones that use it.  Would you support a licence fee for cyclists if it meant we could complete more transportation routes?"
+      },
+      "bike-racks": {
+        "comment": "I think installing more bike racks could be helpful"
+      }
+    }
+  },
+  {
+    "id": "colleen-james",
+    "name": "Colleen James",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Integrated Mobility Master Plan (IMMP), which incorporates active transportation alongside transit, roads and other modes. The Region identifies the IMMP as supporting compact, complete communities and active transportation. We currently have a 10 year capital program."
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "We don't need to choose between roads and active transportation. Whenever we rebuild a road, we should build the complete transportation corridor and we should invest separately where critical walking and cycling connections are missing."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "As Regional Councillor, I have made improving how residents move around our community a priority. I have advocated for better pedestrian and active transportation connections, including work to improve the path and pedestrian connection at the GO station so residents can more safely and conveniently connect to regional transit. I have also supported safer street design and initiatives that prioritize pedestrians, cyclists and transit users.  I believe we should build on this work by continuing to close gaps in our active transportation network and ensuring that walking and cycling connections are considered whenever we invest in or redesign our streets. My focus is on practical investments that connect people to transit, schools, employment, businesses and community services.  Over the next four years, I will continue advocating for a transportation system that gives residents safe, accessible and realistic choices for getting around Waterloo Region."
+      },
+      "priorities": {
+        "comment": "Over the next four years, I would focus on making strategic investments in active transportation while recognizing the significant infrastructure funding pressures facing the Region. We need to prioritize projects that close important gaps and connect residents to transit, schools, employment areas and community services, rather than trying to build everything at once.\n\nI would also prioritize active transportation when roads are already being reconstructed, making sure we are not missing opportunities to build safe sidewalks, crossings and cycling connections as part of projects we are already funding. I would continue advocating for improvements like the pedestrian connection at the GO station and for safer street designs that work for people walking, cycling, wheeling and taking transit.\n\nMy goal would be a connected, accessible network built incrementally and responsibly, using existing capital projects, partnerships and available funding opportunities to maximize our investment. With the Region facing significant infrastructure funding gaps, we need to be ambitious about the outcome while being disciplined about how we get there."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "I support making shared mobility more affordable and accessible, including exploring lower-cost conventional bikes and affordable monthly memberships. However, transitioning to a municipal model could also create additional costs and operational responsibilities for taxpayers. Given the Region’s existing infrastructure funding pressures, I would want to better understand the full financial and operational implications, including public, private and hybrid models, before making a commitment. I believe this warrants further discussion and a clear business case before Council moves forward."
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "1. Complete-street requirements when roads are reconstructed, this is financially pragmatic because you're incorporating cycling improvements into projects already being funded.\nSafer intersections and crossings are probably more immediately meaningful to residents than simply adding kilometres of bike lanes.\nConsistent e-bike/micromobility regulations, particularly relevant given the Province's proposed changes and the Region's shared mobility program."
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "I support strategic standalone cycling investments where there are critical gaps or important connections that cannot reasonably wait for planned road reconstruction. However, given the Region’s significant infrastructure funding pressures, I would want to prioritize the highest-impact projects and review the available funding before committing to a significant new allocation."
+      },
+      "bike-racks": {
+        "comment": "We should explore partnerships with businesses, developers and our transit system to add bike racks and secure lockers where there is demonstrated demand. Where possible, bike parking should be incorporated into new developments and major infrastructure projects from the outset, rather than added later."
+      }
+    }
+  },
+  {
+    "id": "anna-meksavanh",
+    "name": "Anna Meksavanh",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "The Region of Waterloo should spend more on active transportation to meet its climate goals, improve safety, and keep pace with growing demand."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "If elected, I will gladly champion active transportation initiatives that accelerate the Region of Waterloo's updated corridor guidelines, prioritizing wider, off-street multi-use paths over on-street painted lanes when rebuilding regional roads. These multi-use expressways are a vital investment because they ensure safe, year-round access for residents of all ages and skill levels while remaining significantly easier to keep clear of snow during our winter months. Moving forward, my focus will be on closing the critical infrastructure gaps between our existing urban trail networks to establish a fully connected, seamless cycling expressway system that spans the entire region."
+      },
+      "priorities": {
+        "comment": "I would like to see, Regional Council:\n1) Champion off-street multi-use paths that provide safe, year-round access for riders of all ages and skill levels. By embracing the Region of Waterloo’s updated corridor guidelines, we can naturally shift away from stressful on-street lanes and toward these wider, completely separated paths every time a regional road is rebuilt. \n2) To ensure everyone feels confident using this growing network, we should pair these physical infrastructure improvements with a community education campaign, featuring weekly or monthly region-hosted guided bike rides to warmly introduce residents and newcomers to our paths and show them how to navigate the region safely."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "When our shared mobility contracts come up for renewal, I will support transitioning Waterloo Region to an affordable, municipal bike-share model like Toronto or Hamilton. This shift is highly feasible by combining Grand River Transit funds with federal active transportation grants to introduce more affordable pricing options to residents. By treating this system as a true extension of our public transit network, we can integrate it directly into the EasyGO card and build strong financial partnerships with local universities, student unions, school boards, and businesses to keep it affordable for everyone."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "I would like to champion a “One Region, One Map” transit and plow tracking system, by adding the Region’s internal fleet GPS data into the existing Kitchener and Waterloo Geotab portals. Also the Region already has the infrastructure and software for its large truck fleet, my campaign and council proposal will focus on expanding this existing technology to the smaller utility tractors that clear our off-street cycling expressways and multi-use paths. This direct, simple expansion ensures the same environmental protection, transparency, and 'smart salting' precision is applied to active transit as it is to car lanes.\n\nTo make this happen, I will push for a dedicated funding allocation within the regional transport budget specifically for active transit winter operations. This minor shift in capital funding will allow us to purchase the right equipment for smaller paths without putting a burden on local property taxes. By keeping these paths reliably clear, we can support our local environmental goals of reducing greenhouse gas emissions by making walking, rolling, and cycling a truly viable, year-round alternative to driving."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "I would support giving light, pedal-assist e-bikes the exact same path access as regular bicycles, provided they strictly meet the province's proposed criteria of a 32 km/hr speed cap and a 55 kg maximum weight. This creates a clear, sensible line that welcomes everyday commuters while keeping heavy, high-speed mopeds off our multi-use trails where families walk.\n\nTo have my support, I will advocate for the following pieces to be included:\n\n1) Update our regional regulations and back them up with actual enforcement to ensure our trails stay safe and comfortable. I will advocate for region-wide age and helmet restrictions on all power-assisted devices, and ensure we provide the necessary municipal resources to the Waterloo Regional Police Service (WRPS) so their Traffic Services and Road Safety Enforcement Teams can effectively monitor micromobility speeds and gear compliance.\n\n2) Regulations need supportive community education campaigns, and true safety also requires preventative education. I would like to see partnerships with the local school boards directly to build bike and e-bike safety campaigns. I would like the Region to have regular region-hosted guided bike rides to teach residents and newcomers how to navigate these shared paths safely.\n\n3) I would like to see clearly visible signs throughout the paths at rider eye level to remind riders of the laws, and information on where they can get more details. \n\nBy combining smart rules, school-based youth education, targeted police enforcement, and hands-on community education, we can ensure our growing trail network stays welcoming, safe, and comfortable for all users."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "I support dedicating a portion of the Regional budget to standalone cycling infrastructure projects. We cannot afford to wait years for scheduled road reconstruction just to fix basic network gaps if we want to achieve our community climate goals. Moving forward, we must view active transportation as a legitimate, core extension of Grand River Transit (GRT). By treating bike lanes and trails as vital first-mile/last-mile transit infrastructure, we can rightfully tap into broader public transit funding envelopes and federal transit grants to build a connected network today, rather than tomorrow."
+      },
+      "bike-racks": {
+        "comment": "To provide peace of mind to riders and make cycling truly practical, we should treat secure bike parking as vital public infrastructure. \n\n1) I would support expansion of Waterloo’s secure bike locker program and Kitchener’s downtown secure parking passes, by installing fully enclosed bike cages at every major ION light rail and Grand River Transit hub.\n\n2) I will advocate updating local planning bylaws to require new commercial buildings and residential developments to include indoor, secure bike storage spaces.\n\n3) I will champion matching grants to local businesses through our Business Improvement Areas (BIAs) to help them install sturdy, high-quality outdoor bike racks.\n\nWe can fund this expansion by tapping into existing senior government streams, such as the federal Active Transportation Fund (ATF) and the Canada Public Transit Fund, which explicitly cover end-of-trip facilities. By utilizing these available grants to place enclosed lockers across the region, we can give cyclists total peace of mind whenever they travel."
+      }
+    }
+  },
+  {
+    "id": "matt-rodrigues",
+    "name": "Matt Rodrigues",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Regional Roads should not be urban freeways that solely maximize for private automobile movements. As the Region begins to update its Integrated Mobility Plan in 2027, I will push to ensure that active transportation is a foundational consideration in all road reconstruction projects, and not considered as a 'nice to have'. The IMP will set the stage for future budget forecasts for active transportation - both in terms of capital and operating costs."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "I believe that we need to prioritize maintaining and upgrading our existing roads before building new. Projects like the new multi-use trail on Fairway Road between Lackner and Pebble Creek is an example of a high-impact project that benefits students travelling to school each day."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "A top priority for this next term of Council will be to continue and grow our program to make school zones on Regional Roads safer for vulnerable road users. Parents should feel confident letting their kids travel to school, whether walking or rolling, and not face barriers at busy Regional Roads."
+      },
+      "priorities": {
+        "comment": "In the next term of Council, in addition to making school zones safer, we need to complete our roundabout safety pilot project and determine an action plan to retrofit priority roundabouts each year going forward with safer crosswalks (i.e., raised crossings, flashing lights). With Bill 60 limiting our ability to remove vehicle lanes for active transportation infrastructure, we need to re-focus on quick-win projects in the interim."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "I am very supportive of exploring a true municipal bike-share model that works for the Region of Waterloo. The initial roll-out of micro-mobility in our community was supported largely because there were little to no costs to taxpayers to introduce and maintain the service. The future roll-out of a municipal bike-share model would need to be appropriate scaled, target strategic rollout, and ideally be integrated with GRT fare payment systems to support roll-out. I note my response as a \"Maybe\" as I would want to understand the full costs of the system at a time when our ability to expand AAA cycling infrastructure has been limited by the Province."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Our snow clearing results in Winter 2025/2026 left a lot to be desired and many in our community unable to get around in the days following major storms. I have supported motions at Regional Council to improve our transit stop snow clearing practices, including the use of incentives and penalties for service quality. In Kitchener, the City takes the lead on snow clearing on Regional Roads, multi-use paths and a limited number of sidewalks. The Region and City need to explore ways to continually improve our service standards for on-road bike lanes, including snow loading."
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "I wholly support the reallocation of our transportation capital budget to standalone active transportation projects. For example, in 2025 the Regional added a multi-use trail on Fairway Road between Lackner and Pebblecreek. In 2026, I requested that staff include an extension of this trail to the new Notre Dame Secondary School in 2027. I look forward to our new Integrated Mobility Plan which will help guide our decision-making in completing the Regional cycling network.\n\nThe Province's Bill 60 has greatly limited our ability to add cycling infrastructure where we need to remove a lane of vehicle traffic. I was very disappointed that this Provincial law removed our ability to add interim painted bike lanes on Benton Street during an upcoming re-surfacing in 2026."
+      },
+      "bike-racks": {
+        "comment": "While our role at the Regional is limited in this space, I support the inclusion of more bike racks and secure bike storage at major transit stops. I am encouraged that the new Kitchener Central Transit Hub will include expanded bike parking for commuters."
+      }
+    }
+  },
+  {
+    "id": "eve-elizabeth-simson",
+    "name": "Eve Elizabeth Simson",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "kevin-white",
+    "name": "Kevin White",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "There may be opportunities to amend/improve the plan, or encourage greater ambition in it, but I certainly see no reason not to support it."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "While accessibility and mobility has to remain a priority, reducing the number of vehicles on the road while increasing the amount of active transportation would be a benefit for safety, community building, and health across the Region."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "I'm not going to claim expertise on any one issue or area of concern, so I don't have a specific proposal in mind, but I would certainly be willing to advocate for a well-informed proposal from the community that I can align with the Region's core value of care for people and the land we share."
+      },
+      "priorities": {
+        "comment": "I think strengthening public transit is a very significant component for this. Cycling, scootering, walking, etc., are all great options, but they tend to be options in warmer months and for persons that do not require assistance with mobility. I think I would like to find ways to encourage more options for remote work (allowing people to remain in localized neighbourhoods, making transportation closer and less demanding on time) and certainly to expand the accessibility of active transportation options we have, including trails, multi-use paths, and protected bike lanes (regardless of what the province seems to think). Really, I think we need to be reducing car traffic overall, and that can be difficult when we're dealing with legacies of decades of planning and development that did not intentionally focus on this. Trying to retrofit a system can be difficult, but I believe the Region can play a role in setting a tone for the municipalities. Quite frankly, I think with seven mayors around the horseshoe, there should be more integrated approaches that can be made in collaboration, but directed by Regional values, specifically: care for people and the land we share. Active transportation considers both, and so I see no reason why the Region cannot strongly encourage its municipalities to foster safe, accessible, and desirable active transportation routes throughout the Region."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "While we always have to consider the overall cost to residents, especially at a time when the province is more or less hostile to the public good and continuously downloading responsibilities to its municipalities, privatization of public services has rarely, if ever, worked well. Pay-for-use models continually disenfranchise those with lower incomes. A publicly owned option, I believe, would be far more preferable, equitable, and more customizable to meet individual community needs. I'd like to find ways to increase active transportation options within individual communities and neighbourhoods through informal bike sharing programs, and perhaps the local government can help create some infrastructure (accessible bike locks, storage sheds for winter months, etc., possibly in partnership with local bike organizations to service and repair bikes as well) to support."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "I believe these concerns have been raised at council recently, but it is a bit unclear to me how this could be strictly enforced, especially during severe weather events. I would like to see a much greater commitment to snow clearing in the winter time. The Charles/Cedar intersection near the Kitchener Market during the winter months, for example, was so poorly cleared that it took community volunteers to help each other up the hill and around snowbanks just to get to the Ion stop, which I found rather negligent, but there are several components to this, and it may be a bit inaccurate to assign blame to a single entity for this and other events like it. Nevertheless, the local government does have a significant responsibility for this, and I think in alignment with \"care for people and the land we share\", equitable snow clearing would be quite clear. It may also be an issue where we do have to rely on some volunteer support. Community members are already responsible for the sidewalks around their own properties, but it might be possible to coordinate resources to support the clearing of certain intersections or areas at a very local community level. If the Region has a way to cost-effectively support and/or incentivize that, I think that would be a great initiative, but again, volunteering is unpaid labour, and we have to consider the ethics of that as well. On the other hand, perhaps councillors need to find themselves in volunteer roles more often, too. If we're going to set an example that pushes us at all toward a post-growth economy (which will be vital in the face of the climate crisis), maybe we need to really start encouraging mutual aid networks in providing these services now, and finding a way to make that commitment to each other on a social/cultural basis. A bit of a rambling answer!"
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "As development across the municipalities continues and road infrastructure is reconsidered in established areas, I think redesigning transportation networks with alternative transportation in mind will be important. Traffic calming measures and other features that are likely to reduce car traffic overall will be a part of that conversation, and perhaps that can include wider bike lanes (so that faster bikes/scooters can safely pass with ease) or enhanced protection for bike lanes."
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "The budget is rather restricted, but I'd like to see a much more integrated cycling network throughout the Region. As it is, I love biking on the trails, but it has taken me quite a while to get comfortable biking through the downtown, and even biking along the trail connecting with Caroline St., for example, can be a little bumpy and uncomfortable when I'm in a rush. I'm also a bit surprised that some hazards remain for a long time, such as a major pothole along the multi-use path on Victoria Street. I'd like to see smoother paths with infrastructure (and art) along the way that make sense for encouraging civic participation in community. We need more ways to get out and do things that don't require individuals to make additional payments, and figuring out ways to support accessible community hubs along active transportation trails could be a part of that."
+      },
+      "bike-racks": {
+        "comment": "Securely locking a bike remains a concern. The only bike I've ever had stolen was from directly in front of city hall. I think it would be nice to see accessible bike locks more available across the Region, but maybe that could also be done without having to pave additional spaces or restrict areas on sidewalks that might reduce accessibility. The repurposing of some parking lot areas might be a consideration."
+      }
+    }
+  },
+  {
+    "id": "mike-wisniewski",
+    "name": "Mike Wisniewski",
+    "race": "kitchener-regional-councillor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "I'm not familiar enough with the Active Transportation Master Plan to provide an educated response."
+      },
+      "spend-more": {
+        "choice": "No",
+        "comment": "More of a \"Probably not\" than a \"Hard NO\". Generally speaking, I'm more of a small government kind of guy."
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "If a local citizen or interest group needs a government barrier to active transportation removed, that would be the kind of thing I could see myself doing."
+      },
+      "priorities": {
+        "comment": "I'm running for Regional Council because of an issue I'm having with a local business that also happens to have a contract with the Region of Waterloo.\nThat business has asked me to take my patronage of their service\nelsewhere while refusing to provide an explanation as to why.\nMy position is that Waterloo Taxi Ltd., if they wish to keep their\nMobilityPlus contract, has to provide me, and Waterloo Taxi's\nshareholders, an explanation as to why I was told to take my business elsewhere."
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "Don't bike in the winter, maybe?"
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "If there's something in the by-laws prohibiting bike racks, I'd probably be willing to help that. If a private property wants to install racks, who is government to stand in the way of that."
+      }
+    }
+  },
+  {
+    "id": "jeyas-balaskanthan",
+    "name": "Jeyas Balaskanthan",
+    "race": "waterloo-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Active transportation is a key component to building a vibrant economic and social environment for each part of the City of Waterloo."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "I am committed to looking at ways to increase active transportation options for our community, within the bounds of what is feasible in our budgeting exercise, as active transportation is a key part of bringing customers to our business community."
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "1. Education, promotion and communication to ensure that are citizens are informed about the trails, routes and infrastructure that are available to them.\n\n2. Safety for cyclists and pedestrians through proper maintenance of (painted) bike lanes and the introduction of night-time lighting on all trails."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "We absolutely need to find a new solution to shared mobility that brings costs in line with solutions offered in neighbouring cities, and takes advantage of the innovative solutions offered by our local innovation and mobility companies."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "We need to find a balance between safe winter biking and the budget constraints we face as a city. In consultation with stakeholders, I am committed to developing a winter bike safety strategy that identifies priority routes for winter snow clearing. And part and parcel of this, we need more responsive winter road maintenance to ensure all roads, including bike lanes, are properly maintained."
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "While I support mechanisms to increase the use of active transportation options by all city residents, we need to do so in a manner that ensures the safety of all users. I commit to learning more and engaging on this issue so I can make an informed decision with your input."
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "The cost, budget and safety implications of decisions related to cycling and gap infrastructure should be evaluated on a case by case basis. Where safety and volume considerations merit immediate consideration, I will support it."
+      },
+      "bike-racks": {
+        "comment": "Currently, our bike racks in the City of Waterloo, in particular Uptown, are underutilized. This is due to poor placement and weak visibility and advertising. I will work with cycling stakeholders to identify more effective locations and promotion."
+      }
+    }
+  },
+  {
+    "id": "jamie-hari",
+    "name": "Jamie Hari",
+    "race": "waterloo-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "jerry-jiang",
+    "name": "Jerry Jiang",
+    "race": "waterloo-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "dorothy-mccabe",
+    "name": "Dorothy McCabe",
+    "race": "waterloo-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "I have already made this a priority in my first term of office."
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "Waterloo already has 270km of active transportation trails and bike lanes."
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "As a Mayor sitting on Regional Council, I will support continued investment in Grand River Transit and the LRT Phase 2."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "On trails, LRT and bus routes"
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "The maximum speed on trails should be lower than 32km/h. That's very fast when going by a pedestrian."
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "This is work that is ongoing."
+      },
+      "bike-racks": {
+        "comment": "Bike lock ups in the core areas of the cities that have a common fob for safe lockups for bikes.  Possibly with a membership"
+      }
+    }
+  },
+  {
+    "id": "shannon-weber",
+    "name": "Shannon Weber",
+    "race": "waterloo-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "shawn-humes",
+    "name": "Shawn Humes",
+    "race": "waterloo-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "We need to prioritize more investment into segregated active transportation corridors"
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "The spending on active transportation should fit the metric needs of our users"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "More investment on segregated lanes."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "I think the bike share plan needs to be reviewed to consider equitability, ridership need, and affordability."
+      },
+      "snow-clearing": {
+        "choice": "No",
+        "comment": "I’m concerned with marrying these agendas when municipalities already struggle with road clearing. Investment would have to be made if a segregated bike system existed, but we don’t have the breadth of such a system."
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "Better parking options at local plazas are a need."
+      }
+    }
+  },
+  {
+    "id": "ying-jiang",
+    "name": "Ying Jiang",
+    "race": "waterloo-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Yes. I support funding Waterloo’s Active Transportation Master Plan because safe and connected walking and cycling infrastructure is an important part of a healthy, accessible and livable community.  I would support implementation based on clear priorities, safety needs, available data, long-term value and responsible use of public funds. I would also want active transportation investments to connect neighbourhoods with schools, parks, trails, community facilities and transit, while considering accessibility and winter maintenance."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Yes. I believe Waterloo should continue to invest in active transportation where there are clear safety, connectivity and community benefits.  Additional investment should focus on closing important gaps in the network, improving safe crossings and connections, and making walking and cycling practical for more residents. I would support reviewing usage data, safety information and project costs to ensure that additional spending delivers good value for taxpayers."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Yes. I would be willing to bring forward specific initiatives based on resident feedback, safety concerns, available data and identified gaps in the active transportation network.  Potential priorities could include safer connections between neighbourhoods, schools, parks, trails and transit; improved pedestrian crossings; secure bicycle parking; practical winter maintenance; and better integration of walking and cycling with public transit.  I would welcome working with residents, cycling organizations, municipal staff and other stakeholders to identify practical initiatives that can make a measurable difference."
+      },
+      "priorities": {
+        "comment": "Over the next four years, I would like Council to focus on:\n\nBuilding a safer, more connected network — close key gaps and improve connections between neighbourhoods, schools, parks, trails, community facilities and transit.\nImproving pedestrian and cycling safety — address high-risk crossings, intersections and routes using collision data, traffic data and resident feedback.\nBetter maintenance — improve winter maintenance of priority walking and cycling routes so that active transportation remains a practical option throughout the year.\nSupporting everyday cycling and walking — provide secure bicycle parking and facilities at transit hubs, schools, community facilities and other major destinations.\nMaking evidence-based investments — prioritize projects based on safety, connectivity, accessibility, usage, community needs and long-term value for taxpayers. \nMy goal is not simply to build more infrastructure, but to create a safe, connected and practical transportation network that residents can actually use in their everyday lives."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "I support exploring a transition to a more accessible and affordable municipal bike-share model, including lower-cost non-electric bicycles and affordable membership options.\n\nA successful bike-share system should serve a broad range of residents, including seniors, families, students and people who may not feel comfortable using e-scooters. Providing seated, non-electric bicycles would give residents more transportation choices and improve accessibility.\n\nI would also like to see the Region evaluate the system based on actual usage, cost, safety and community needs. If public funding is involved, we should ensure that the model provides good value for taxpayers while remaining affordable for users.\n\nOther improvements I would consider include:\n\nBetter integration with ION and bus transit;\nConvenient bike-share stations near major destinations, schools, community facilities and trails;\nSecure and accessible bicycle parking;\nA range of bicycle options suitable for different ages and abilities; and\nRegularly reviewing usage data and resident feedback to adjust the system and improve utilization.\n\nMy goal would be a bike-share system that is affordable, accessible, practical and well-used, rather than simply having more shared vehicles on the street."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Major cycling routes should be cleared within the same 24-hour standard as roads, with particular attention to preventing snow from being pushed into bike lanes.\n\nI would also support clear winter maintenance priorities, better coordination between road and cycling-route clearing, and regular monitoring after major snow events. Safe and reliable cycling should be part of our year-round transportation system."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "I support allowing properly classified, non-licenced e-bikes to have the same access as regular bicycles when they meet clear safety standards, including a maximum motor-assisted speed of 32 km/hr and a maximum weight of 55 kg.\n\nE-bikes can make cycling more accessible to seniors, people with mobility or fitness limitations, and residents who need to travel longer distances. At the same time, safety for pedestrians, cyclists and other road users must remain a priority.\n\nI would also support clear and consistent rules across the Region, appropriate speed limits on busy multi-use trails, better signage and public education, and stronger enforcement against unsafe riding. The goal should be to make cycling more accessible while keeping our trails and cycling routes safe for everyone."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "I support dedicated Regional funding for standalone cycling infrastructure projects to address critical gaps in the existing network, rather than always waiting for major road reconstruction.\n\nA cycling route is only as useful as its weakest connection. Even a short unsafe gap can discourage residents from cycling and prevent an otherwise good route from functioning as a practical transportation option.\n\nFuture planning should focus on creating continuous, connected routes between neighbourhoods, schools, transit, employment areas, parks and major destinations. I would also support prioritizing projects based on safety, connectivity and the number of residents who could benefit, while coordinating with municipalities to avoid duplication and make the best use of tax dollars.\n\nThe goal should be a cycling network that people can use confidently from beginning to end—not a collection of disconnected bike lanes."
+      },
+      "bike-racks": {
+        "comment": "I believe the municipality can make cycling more practical by treating secure bicycle parking as an important part of transportation infrastructure.\n\nI would support installing more bike racks at transit stops, community centres, libraries, parks, shopping areas, schools and other major destinations, with secure and weather-protected bicycle parking where demand is higher.\n\nFor higher-density areas and major transit connections, enclosed bike lockers or secure bike cages could provide additional protection from theft and weather. The municipality could also work with businesses, property owners and developers to encourage or require appropriate bicycle parking in new developments.\n\nBike parking should be conveniently located, well-lit, accessible and designed for different types of bicycles, including e-bikes and cargo bikes. Making it easier to securely park a bicycle will give residents greater confidence to choose cycling for everyday trips."
+      }
+    }
+  },
+  {
+    "id": "venkat-kondam",
+    "name": "Venkat Kondam",
+    "race": "waterloo-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Need to undestand what it constitutes"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Additional alternative and sustainable options in addition to and complementing current transport options"
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "I like to know more on this deal and how we ended up in a not so good deal compared to Toronto or Hamilton"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "that is because some cycle lanes are having concrete barriers, or sticks which prevent snow plows to plow completely. this has to be studied to see how best the snow removal can be served"
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "for newer subdivisions, ensure cycle lanes are not directly in line with active road lanes. they can be on side walks to ensure safety"
+      },
+      "bike-racks": {
+        "comment": "more bike racks at city properties, libraries, malls etc"
+      }
+    }
+  },
+  {
+    "id": "moraa-mochama",
+    "name": "Moraa Mochama",
+    "race": "waterloo-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "janice-moore",
+    "name": "Janice Moore",
+    "race": "waterloo-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "khaled-berbash",
+    "name": "Khaled Berbash",
+    "race": "waterloo-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "asma-al-wahsh",
+    "name": "Asma Al-Wahsh",
+    "race": "waterloo-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "hans-roach",
+    "name": "Hans Roach",
+    "race": "waterloo-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "strongly support active transportation and believe cycling should be a safe, practical and accessible transportation option for people of all ages and abilities. A well-designed active transportation network improves safety, provides residents with more transportation choices, supports healthy communities and helps connect neighbourhoods to schools, workplaces, transit, shopping and recreation.  I would support funding our Active Transportation Master Plan, with an emphasis on completing important network gaps, improving safety at intersections and ensuring infrastructure is properly maintained. I also believe we need to listen carefully to residents and design projects thoughtfully so that active transportation investments work well for cyclists, pedestrians, transit users, drivers and the broader community."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "I believe we should continue increasing investment in active transportation, particularly where it improves safety, closes gaps in the network and gives people a realistic alternative to driving.  The strongest investments are those that create connected routes, safer intersections and better access to schools, workplaces, transit, parks and community destinations. Active transportation is not just about cycling infrastructure — it is about giving residents more safe, affordable and healthy ways to move around our community."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "I would be willing to bring forward specific active transportation initiatives where they can improve safety, connectivity and accessibility in our community. I am especially interested in closing gaps in the cycling network, improving dangerous intersections and crossings, and creating better connections between neighbourhoods, schools, trails, transit and community destinations.  I also believe good ideas can come directly from residents and cycling advocates, and I would welcome opportunities to work with groups such as CycleWR to identify practical improvements that Council can act on."
+      },
+      "priorities": {
+        "comment": "1) Close the gaps in the network so cycling and walking routes are connected, practical and safe from neighbourhoods to schools, transit, workplaces and shopping.\n\n2) Improve safety at intersections and crossings, especially in areas with higher traffic volumes and around schools and community facilities.\n\n3) Maintain what we build by ensuring bike lanes, trails and sidewalks receive reliable year-round maintenance, including snow clearing."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "I support moving toward a true public bike-share model that is affordable, accessible and designed for broad community use — not simply maximum revenue. That should include lower-cost traditional bikes, affordable memberships, equitable station coverage and options that work for seniors and people who are less comfortable using e-scooters.\n\nI would also like to see clear performance targets for ridership, affordability and accessibility so we can measure whether the system is actually giving residents a practical transportation alternative."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "If cycling is going to be a practical year-round transportation option, major cycling routes should be cleared to a standard comparable to our roads.\n\nI would also support identifying a priority winter cycling network, improving ice control at intersections and crossings, and ensuring snow is not simply pushed from roads into bike lanes. Clear, predictable maintenance standards would make winter cycling much safer and more reliable."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "I support treating conventional, bicycle-style e-bikes much like regular bicycles when they meet reasonable speed and weight limits. E-bikes can make cycling accessible to more people, particularly seniors, commuters and people who may not otherwise be able to travel longer distances by bicycle.\n\nI would also support clear, easy-to-understand rules, appropriate speed expectations on shared trails, and stronger education and enforcement aimed at higher-powered vehicles that behave more like mopeds or motorcycles. The goal should be to encourage safe e-bike use without unnecessarily limiting people who simply need a little assistance to cycle."
+      },
+      "bike-racks": {
+        "comment": "Yes. I would support expanding secure bicycle parking at City facilities, transit hubs, recreation centres, libraries, parks and major commercial areas, with enclosed lockers or cages where longer-term parking is needed.\n\nI would also support working with developers and businesses to include high-quality bike parking in new projects, and exploring grants or cost-sharing programs to help retrofit existing locations. Secure parking is a relatively small investment that can make cycling much more practical."
+      }
+    }
+  },
+  {
+    "id": "victoria-robertson",
+    "name": "Victoria Robertson",
+    "race": "waterloo-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Yes, I strongly believe in active transport, and support Waterloo's plan. I believe there is space for more ambitious planning, and significant advocacy to the Regional level for additional improvements."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Yes, I believe strongly in active transportation, and it is a significant part of my platform. I believe there is space to continue investing in separated trails and paths, as well as improved safety measures and education for both cyclists and drivers."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Yes, absolutely. Ideally, all roads beyond minor local roads (especially Glenforrest, Sprucehill, Lake Louise, Pinery Trail, Northlake, Fern Cres) would have separated bike, foot, and car traffic; and I'd like to propose including this in the long-term planning, as roads get rebuilt over time. I also would love to improve our trails network and would propose better signage and lighting. I would also love to include cycling education in the programming the city already runs (Day of Play, Lumen, Winterloo, etc)"
+      },
+      "priorities": {
+        "comment": "In Ward 3, the biggest impediments are the gaps in the network on Regional roads, and the speeding on minor collectors within neighbourhoods (Northlake, Lake Louise, Glenforrest, etc). Traffic control and enforcement would be an excellent place to improve things in the area specifically. I would also strongly encourage including protected 2-way bike lanes on both sides of many more of our major roads, and better snow clearing in the winter."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Public options are always going to be cheaper than private ones, and I feel strongly that bike-shares are an excellent way to increase sustainable mobility choices in the city. Especially in somewhere like Waterloo, it’s so important, and encourages students to make sustainable transportation choices.\nI’d like to integrate bike-share membership with GRT payment, to further encourage multi-modal transport (especially important for anyone trying to get in or out of Ward 3). This would include bikeshares intentionally near ION stops, and potentially a proposal to integrate the fare systems."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "I am personally an avid winter cyclist but I understand why many people are not. Across the city we need better and more consistent plowing, ESPECIALLY through the University of Waterloo section of multi-use Trail. \nBetter lighting on our bike trails, again especially though campus but also in the Forwell Trail area and on the south sections of the Iron Horse, immediately before the Kitchener city boundary. \nEducation on how to make winter cycling comfortable and safe would also help. \nLastly, I find that in winter particularly, bike parking is prohibitive to where I can ride, since without a roof, bike racks are full of snow, and the likelihood of weather happening while I’m at my destination is much more likely."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "One of the biggest concerns I see/hear regarding bike use is places in which cyclists have to choose between sharing with pedestrians and sharing with cars. Especially for younger or more inexperienced riders, having to share a path with pedestrians can be nerve-wracking. I’d like to see more ways to solve this problem, while also keep bikes safely protected from cars. \nOr just make every road 40kph"
+      },
+      "bike-racks": {
+        "comment": "I would support encouraging this work, and I think that pushing corporations to include effective bike parking and shelters, in addition to or even at the cost of car parking would be very helpful. The city could also offer lower-cost engineering assessments to do this work."
+      }
+    }
+  },
+  {
+    "id": "diane-freeman",
+    "name": "Diane Freeman",
+    "race": "waterloo-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "I have been a champion of active transportation initiatives at the City of Waterloo since I was first elected in 2006"
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "I think we need to balance the financial needs of the City."
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Continued progress in advancing the City Transportation Master Plan."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "I support the use of policy tools such as requirements for new developments to provide bike parking as part of official plan and zoning approvals."
+      }
+    }
+  },
+  {
+    "id": "travis-restoule",
+    "name": "Travis Restoule",
+    "race": "waterloo-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "syed-tirmizi",
+    "name": "Syed Tirmizi",
+    "race": "waterloo-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "eda-dede",
+    "name": "Eda Dede",
+    "race": "waterloo-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "scott-piatkowski",
+    "name": "Scott Piatkowski",
+    "race": "waterloo-ward-5",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "A plan without funding is not a plan, but more of a dream. While I have no problem with dreaming, I'm more interested in implementing a plan."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "I'm the former Chair of the Regional Cycling Advisory Committee, so I've been advocating for this for many years. That won't change if I am elected."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Yes. See below."
+      },
+      "priorities": {
+        "comment": "One of my signature policy proposals is to advocate for a dedicated pedestrian and cycling bridge over the Conestoga Parkway, connecting the two parts of Ward 5. Read about it here:\n\nFacebook: https://www.facebook.com/permalink.php?story_fbid=pfbid0t36jJy4aStS9hHV7HzDHRvV8rMPNDgKPS2iJjm3xdJfjdufbocorNL4SWpJp7YKMl&id=61589333936758\n\nLinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7491118754765041665/?actorCompanyId=113231635"
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "My concern with Neuron (beyond those concerns mentioned above) is that the scooters were often scattered randomly (by users) on sidewalks or multi-use trails when not in use. This affected the mobility and safety of pedestrians and wheelchair users. I would like to see this addressed when shared mobility contracts come up for renewal."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Better infrastructure, particularly more multi-use trails (including a dedicated cycling connection over the Conestoga Parkway)."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "It should be illegal to modify an e-bike that is designed to meet the speed and weight criteria noted above in order to circumvent licensing requirements or restrictions on where they can be used."
+      },
+      "bike-racks": {
+        "comment": "This could be a condition of zone changes or site approval for new buildings."
+      }
+    }
+  },
+  {
+    "id": "andrew-portwine",
+    "name": "Andrew Portwine",
+    "race": "waterloo-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "marty-rempel",
+    "name": "Marty Rempel",
+    "race": "waterloo-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "victoria-richardson",
+    "name": "Victoria Richardson",
+    "race": "waterloo-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "damian-mikhail",
+    "name": "Damian Mikhail",
+    "race": "waterloo-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "william-davis",
+    "name": "William Davis",
+    "race": "waterloo-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "mary-lou-roe",
+    "name": "Mary Lou Roe",
+    "race": "waterloo-ward-6",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Yes. I have supported active transportation initiatives throughout my first term and will continue to invest in safer streets. I am committed to Vision Zero and to traffic calming measures that improve safety for cyclists, pedestrians, and all road users."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "I support continued investment in active transportation and taking advantage of opportunities to fill gaps as roads and neighbourhoods are renewed. I’ve supported projects like the separated cycling routes on Davenport and Lexington, and I want to see Ward 6 benefit from new connections, including linking the west-side trails with Laurel Trail."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "I will continue to advocate for active transportation and raise missing links in our network when opportunities arise. Whether it’s a City road reconstruction, a new development, or a Regional project, I’ll advocate for active transportation to be considered early and for the best possible connections to be achieved. We need to take advantage of these opportunities to fill gaps and build a safer, more connected network for residents."
+      },
+      "priorities": {
+        "comment": "Continue to invest in active transportation and advance the Transportation Master Plan Update. We need to build on the progress we’ve made, identify and fill missing links in the network, and create more complete streets. I also support continuing to advance Vision Zero so residents have safe, connected options to walk, cycle, and move around our community."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "I support a more affordable bike-share model. As this is a Regional service, the Region will make the decision on the next contract, and I would support this direction."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "I support continued investment in winter maintenance for active transportation. I supported improvements to sidewalk snow clearing to improve accessibility and mobility, and I’m pleased with the progress we’ve made. I would support reviewing the costs and benefits of a 24-hour standard for major cycling routes as part of the City’s ongoing winter maintenance planning."
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "Waterloo has secure bike parking, including the bike lockers at the Waterloo Parking Garage and Willis Way ION station. I would support continuing to monitor demand and expanding bike racks and secure bike parking where needed, particularly at transit connections and other key destinations."
+      }
+    }
+  },
+  {
+    "id": "abdullah",
+    "name": "Abdullah",
+    "race": "waterloo-ward-7",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "julie-wright",
+    "name": "Julie Wright",
+    "race": "waterloo-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "The Active Transportation Strategy is scheduled for a refresh in 2027."
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "I'd like to see the strategic review to determine what our next priorities should be."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "I have been advocating for active transportation for more than a decade in Uptown Waterloo."
+      },
+      "priorities": {
+        "comment": "I would like to see standardized trail crossings - from signage to raised PXOs - along the Spur Line, Iron Horse, and Waterloop to fully harmonize with City of Kitchener. I'd like to see where there are broken connections or areas where better infrastructure would enable younger or new cyclists to feel more comfortable."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Neuron was a nightmare for Uptown Waterloo and required constant vigilance and advocacy with Region of Waterloo staff."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "After two very harsh back-to-back winters, I don't want to promise something I can't deliver on. It's very difficult to meet expectations on snow clearing so I'd rather look at what is working and why and try to expand and deepen our successes."
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "Our residential side streets in Uptown have a max speed limit of 30. I would need to see a lower speed limit for e-bikes. Overall, I'd like to see a set of rules that are harmonized and implemented across the Region rather than a piecemeal patchwork."
+      },
+      "standalone-budget": {
+        "comment": "n/a"
+      },
+      "bike-racks": {
+        "comment": "Yes to more bike lockers and cages! I also support incentivizing business owners to offer more bicycle parking."
+      },
+      "cambridge-wayfinding-more": {
+        "comment": "n/a"
+      }
+    }
+  },
+  {
+    "id": "jim-erb",
+    "name": "Jim Erb",
+    "race": "waterloo-regional-councillor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "We can only put so much pressure on the tax levy and consequently any expansion of active transportation needs to be weighed against other expenditures."
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "Depending what they are and at what cost."
+      },
+      "priorities": {
+        "comment": "Continue to enhance the trail system throughout the Region and wherever the Region or local municipality is developing new roads, be certain that lanes for biking/rolling or walking are included."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "I hope the staff at the Region can hopefully negogiate a better deal with our new provider."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Snow removal for all areas that move people is a challenge. All decisions to enhance current services need to be balanced with other needs presented at budget time."
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "I would support this initiative if the municipal staffs in conjuction with bylaw enforcement are confident it is something that can be enforced and is safe for those on the trails who are not using power-assisted bikes."
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "Only if the expansion can be accomodated in the budget, then my answer would be yes."
+      },
+      "bike-racks": {
+        "comment": "I would need to consult with staff, however it is important to remember that the Region does not own the majority of the properties in the seven partner municipalities, and consequently this would be the responsbility of the seven partner municipalities."
+      }
+    }
+  },
+  {
+    "id": "chantal-huinink",
+    "name": "Chantal Huinink",
+    "race": "waterloo-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "soobok-lee",
+    "name": "Soobok Lee",
+    "race": "waterloo-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "lindsay-manary",
+    "name": "Lindsay Manary",
+    "race": "waterloo-regional-councillor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Yes, there is a need for it!!"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "I will support the expansion of trails and sidewalk connectivity to public transportation stops, and I will push for proper snow clearing so they can be safely used year‑round.\n\nAlthough not directly related to the active transportation plan, I support the extension of LRT Phase 3. Limiting road traffic while improving connections to employment, education, and social opportunities will strengthen economic stability and reduce carbon footprint. With the LRT, we can incorporate walking, rolling, and cycling into major connectivity points by supporting and strengthening the active transportation plan."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Expand and optimize station locations (high density residential areas, major transportation depots for LRT & Conventional Bus Stops, community centers, Libraries and hospitals, post secondary schools and high traffic shopping areas\n\nPrioritizing snow removal so they can be used year round and utilizing winter ready gear (tires/fenders)"
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Utilizing winter ready gear such as bigger tires, fenders etc. and develop and offer a winter riding education session to be held at community centres"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "I am still very concerned about speed, especially in school zones and high‑pedestrian areas. We need stronger measures to ensure that drivers slow down and that vulnerable road users are protected.\n\nWe also need to look closely at obstructions on shared paths — including poorly placed signage, poles, and other barriers — that reduce visibility and create unnecessary hazards for people walking, rolling, and cycling.\n\nAnti‑slip surfaces must be incorporated more effectively, particularly in high‑traffic areas and on routes that connect to transit, schools, and community services. Safe, predictable surfaces are essential for year‑round active transportation."
+      },
+      "standalone-budget": {
+        "choice": "No",
+        "comment": "I cannot say that I will or won’t support a significant allocation of the budget at this time, because it depends on budgeting and the urgent needs in our community. Even if I want to see certain projects move forward, I cannot fast‑track them if there are other critical issues that require budget dollars, such as food insecurity and homelessness. My responsibility is to balance priorities and ensure that the most urgent needs are addressed first."
+      },
+      "bike-racks": {
+        "comment": "Install bike racks and secure storage at all major connection points, ie. near major employment areas, schools, and shopping districts. These are the locations where people most often need reliable bike parking.\n\nWe also need to integrate bike storage areas into new development projects — both commercial and residential — so that secure, accessible bike parking becomes a standard part of how we build our communities."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Yes"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Yes"
+      }
+    }
+  },
+  {
+    "id": "chris-moser",
+    "name": "Chris Moser",
+    "race": "waterloo-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "rami-said",
+    "name": "Rami Said",
+    "race": "waterloo-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sarvesh-pratap-singh",
+    "name": "Sarvesh Pratap Singh",
+    "race": "waterloo-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "ryan-bolender",
+    "name": "Ryan Bolender",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "tony-chavez",
+    "name": "Tony Chavez",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "scott-hamilton",
+    "name": "Scott Hamilton",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "ihtsham-haq",
+    "name": "Ihtsham Haq",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "jan-liggett",
+    "name": "Jan Liggett",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "ken-roche",
+    "name": "Ken Roche",
+    "race": "cambridge-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "jeff-donkersgoed",
+    "name": "Jeff Donkersgoed",
+    "race": "cambridge-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Cambridge has many attractive leisure routes for cyclists, such as the Cambridge to Paris Rail Trail, the Grand Trunk Trail through Blair, and the Mill Run Trail. However, we currently struggle to encourage cycling for everyday transportation due to our unique geography - the three core areas are separated by distance, rivers and Highway 401 - and because many residents do not feel safe sharing roads with motor vehicles. Cambridge will therefore need to invest in a connected network of protected cycling infrastructure, including separated bike lanes and multi-use trails, so that our cycling network reaches a AAA (All Ages and Abilities) standard. Becoming a more bike-friendly city will help us reduce greenhouse-gas emissions, as outlined in TransformWR's climate action goals, while also contributing to a healthier and more active community."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "bike-racks": {
+        "comment": "The City of Cambridge's Cycling Master Plan specifically calls for secure bicycle parking, including lockers, bicycle rooms and cages, as well as a program to prioritize bicycle parking in public rights-of-way and at trails. The current challenge is to adequately fund and implement these recommendations. One possible approach would be to work with the City's arts and culture programs to incorporate public art into bicycle infrastructure, making it more attractive while creating opportunities to leverage existing public-art initiatives and funding. Local artists and community organizations could be invited to design or contribute to bicycle lockers and cages that reflect Cambridge's history and the unique identities of its neighbourhoods."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Yes"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Yes"
+      }
+    }
+  },
+  {
+    "id": "saleem-shaikh",
+    "name": "Saleem Shaikh",
+    "race": "cambridge-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "helen-shwery",
+    "name": "Helen Shwery",
+    "race": "cambridge-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "david-craig",
+    "name": "David Craig",
+    "race": "cambridge-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "mike-devine",
+    "name": "Mike Devine",
+    "race": "cambridge-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "mark-linton",
+    "name": "Mark Linton",
+    "race": "cambridge-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "matt-rogers",
+    "name": "Matt Rogers",
+    "race": "cambridge-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "Though I do think our ATMP isn't nearly ambitious enough."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "It's objectively the most efficient way to move the most people for the lowest dollar-amount."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "I've been to the bike parking garages in the Netherlands. We need to figure how to incentivize and build those facilities to the same level of care and quality."
+      },
+      "priorities": {
+        "comment": "A lot of people have concerns around e-bikes. We need to update our by-laws and have an enforcement blitz to dissuade the illegally modified ones, whose presence and prominence hurts those respecting the rules. And as above, a bike parking facilities strategy should be implemented, and facilities built to make biking places for work, shopping, etc., just as convenient, safe, and guaranteed as it is in a car right now."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "As I'm sure everyone is aware, it's mainly an issue of accessibility. Toronto increased bike share stations and bikes, and there was a direct and dramatic uptick in rides. That's one of the problems we've experienced in Cambridge specifically, so I'd love to see an in-house (Region-owned and operated) system that is able to provide great access across all 3 of the cities."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "In the current political climate, it's the cost that is the issue. If we have better cycling infrastructure, it's easier to clear it without having to worry about snow from roads impacting cycling infrastructure. If we standardize MUP/MUT, cycle track, and path widths, specialized equipment (yes, upfront cost to purchase) can efficiently and reliably keep these routes clear. I'd also be curious to see how feasible it'd be to have a packed-snow-covered route rather than trying to clear it down to bare asphalt - akin to the strategy undertaken in Oulu, Finland in the winter. Not sure if we have a reliable amount of snow to pursue that."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Not an idea, but an observation. There's a push to make e-scooter illegal to those under 16 - the demographic I most often see getting around the suburbs on them. E-bikes are the logical replacement for e-scooters in that scenario, though I wish we'd stop trying to punish kids for trying to be independent."
+      },
+      "bike-racks": {
+        "comment": "I'd like to fund an evaluation of a bike parking strategy. As mentioned earlier, I've been to NL and seen the bike garages (with my mouth hanging slightly ajar). While I wouldn't expect that from Day 1, I'd like to see similarly safe and reliable facilities at major nodes, transit stops, community facilities, and incorporated into new mixed-use and medium- to high-density developments."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Yes"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "No",
+        "comment": "I've served as Vice Chair on CCTAC for several years, so I'm very familiar and supportive of this initiative. I would love to see some of the routes move ahead promptly."
+      }
+    }
+  },
+  {
+    "id": "kiran-abid",
+    "name": "Kiran Abid",
+    "race": "cambridge-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "corey-kimpson",
+    "name": "Corey Kimpson",
+    "race": "cambridge-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "shaun-spalding",
+    "name": "Shaun Spalding",
+    "race": "cambridge-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "ross-earnshaw",
+    "name": "Ross Earnshaw",
+    "race": "cambridge-ward-4",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Capital projects for MUT trials and bike paths are planned years in advance and budget funds are committed as they may be available.  I am generally content with the long range planning for active transportation networks in Cambridge but there is some \"low hanging fruit\" for low cost improvements like better signage and painted route markings on streets for wayfinding purposes."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "See above response re low cost improvements with modest budget impact."
+      },
+      "priorities": {
+        "comment": "Better connectivity of trails and bike paths to establish a practical network of routes for commuters, recreational riders, and other trail users (runners, pedestrians) throughout the city.  Bring an end to the trails and paths that end abruptly without any indication of where/how to reconnect to the system."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "In my view, bike share and transit systems should \"dovetail\" for maximum benefit to both users and the environment.  I realize that the GRT is a regional responsibility but I wonder if there might not be some opportunity to coordinate the two systems to the benefit of both?"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "To explain my response:  At a recent workshop for Cambridge Council, we received a report from our works department and conducted discussions about improvements to snow clearing performance after last winter (which was a disaster for roads and bike lanes alike).  Staff received the requests and recommendations from council and will make a report in 2027.  I will bide my time until that report is in hand but I am anticipating that it will address the shortcomings for bike trails and paths as well as roads, sidewalks, driveways and intersections."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Age restrictions on the use of e-bikes, public education programs through WRPS, better enforcement of helmet laws."
+      },
+      "bike-racks": {
+        "comment": "As always, getting attention for such ideas entails budgetary constraints.  Our CCTAC explored bike lockers and identified possible locations for a pilot project but the initiative suffered a premature death and never came before council for consideration.  I continue to believe that a pilot project in a couple of locations (like the Farmers' Market and the bus station) would be a good way to test the concept."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Yes"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "No",
+        "comment": "I'm behind this idea 100% and answered \"no\" to the second question because our CCTAC already has this information and supported wayfinding signage during the last term of council.  We even selected two proposed wayfinding routes in high need areas for a roll out of the concept but, again, the matter never came before council.  I'd be prepared to champion it (see my above comments about \"low hanging fruit\")"
+      }
+    }
+  },
+  {
+    "id": "ahmad-jawad-malik",
+    "name": "Ahmad Jawad Malik",
+    "race": "cambridge-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "david-o-hara",
+    "name": "David O'Hara",
+    "race": "cambridge-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sheri-roberts",
+    "name": "Sheri Roberts",
+    "race": "cambridge-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "nazim-shah",
+    "name": "Nazim Shah",
+    "race": "cambridge-ward-5",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "randy-carter",
+    "name": "Randy Carter",
+    "race": "cambridge-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "adam-cooper",
+    "name": "Adam Cooper",
+    "race": "cambridge-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "barbara-harrington",
+    "name": "Barbara Harrington",
+    "race": "cambridge-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "chris-mccormick",
+    "name": "Chris McCormick",
+    "race": "cambridge-ward-6",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "tasneem-chhadiya",
+    "name": "Tasneem Chhadiya",
+    "race": "cambridge-ward-7",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "manuel-da-silva",
+    "name": "Manuel da Silva",
+    "race": "cambridge-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Working with our school boards to encourage more walking buses.  Review actual school bus capacity and to ensure buses are not on our streets half full."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Not sure that I can offer input at this time but definitely and conversation I would be interested in having."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "I have seen this as a problem not only in our municipality but in surrounding areas as well.  Some conversation required about this."
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "comment": "N/A"
+      },
+      "bike-racks": {
+        "comment": "This needs to be a consideration as we add more bike paths in our communities."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Maybe"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Yes",
+        "comment": "I would need to be better aware of the overall impact."
+      }
+    }
+  },
+  {
+    "id": "kristen-danson",
+    "name": "Kristen Danson",
+    "race": "cambridge-ward-7",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "david-guerin",
+    "name": "David Guerin",
+    "race": "cambridge-ward-7",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "dani-ieso",
+    "name": "Dani Ieso",
+    "race": "cambridge-ward-7",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "I support a practical Active Transportation Master Plan that makes walking and cycling safer and better connected. Investments should focus on projects that improve safety, accessibility and connections between neighbourhoods, trails, schools, businesses and transit."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "Yes, where the investment provides clear benefits. I support safer bike routes, improved trails and better separation between cyclists, pedestrians and vehicles where possible. Active transportation should give residents more safe and convenient ways to move around Cambridge while ensuring taxpayer dollars are spent responsibly."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Yes. I would bring forward practical initiatives that improve safety and connectivity, especially where bike routes or trails suddenly end or force cyclists into unsafe traffic."
+      },
+      "priorities": {
+        "comment": "My priorities would be creating safer and better-connected cycling routes, improving existing trails, fixing missing connections, and separating cyclists from high-speed vehicle traffic where practical. I also want safer crossings, better lighting and secure bicycle parking. Active transportation should connect neighbourhoods with schools, parks, businesses, transit and our downtown areas so cycling and walking become realistic everyday transportation choices for people of all ages and abilities."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "I would like to see bike-share stations expanded beyond the downtown cores and connected to transit stops, parks, trails, schools and major neighbourhoods. We should also consider family and low-income memberships, secure bike parking, more regular non-electric bikes to keep costs affordable, and a simple system that does not require everyone to have a smartphone or credit card. I would also like Cambridge to receive its fair share of bikes and stations so the system works across the entire Region."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "Major cycling routes should be treated as year-round transportation infrastructure. Beyond clearing snow within 24 hours, I support removing snowbanks that block bike lanes and intersections, better salting and ice control, improved winter lighting, and keeping connections to transit and trails clear. We should also coordinate road, sidewalk and bike-route clearing so one snowplow does not undo the work of another."
+      },
+      "e-bikes": {
+        "comment": "Regulations should clearly distinguish bicycles and normal pedal-assist e-bikes from heavier, faster motorized vehicles. I also support clear speed rules on shared trails, better signage, safe passing requirements, and stronger enforcement against vehicles blocking bike lanes. The rules should protect pedestrians and cyclists while still encouraging people of different ages and abilities to use cycling as transportation."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "We should prioritize closing critical gaps instead of building isolated sections of bike lanes that suddenly end. New cycling infrastructure should connect neighbourhoods to schools, parks, businesses, transit, trails and downtown areas. I also support identifying dangerous intersections and missing links first, and coordinating projects between Cambridge and the Region so we build one connected network rather than separate pieces."
+      },
+      "bike-racks": {
+        "comment": "I support installing more secure bike racks at parks, recreation centres, libraries, downtown areas, transit stops and other public facilities. For high-use locations, enclosed lockers or secure bike cages should also be considered, especially for people leaving bicycles for longer periods. The City could also work with businesses and developers to include secure bicycle parking in new developments and encourage upgrades at existing properties."
+      },
+      "cambridge-wayfinding": {
+        "choice": "Yes"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Yes",
+        "comment": "I support practical, affordable improvements that can make cycling safer now. Signed wayfinding routes are a good way to help cyclists, especially families and less experienced riders, find safer alternatives to busy streets. I would be interested in reviewing CycleWR’s proposed Cambridge routes and identifying where this approach could have the greatest benefit."
+      }
+    }
+  },
+  {
+    "id": "john-teat",
+    "name": "John Teat",
+    "race": "cambridge-ward-7",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "chris-alward",
+    "name": "Chris Alward",
+    "race": "cambridge-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "cody-botelho",
+    "name": "Cody Botelho",
+    "race": "cambridge-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "nicolas-ermeta",
+    "name": "Nicolas Ermeta",
+    "race": "cambridge-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "george-fiddick",
+    "name": "George Fiddick",
+    "race": "cambridge-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "arpan-pandit",
+    "name": "Arpan Pandit",
+    "race": "cambridge-ward-8",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "salman-arefin",
+    "name": "Salman Arefin",
+    "race": "cambridge-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "bryan-causarano-bolton",
+    "name": "Bryan Causarano-Bolton",
+    "race": "cambridge-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "doug-craig",
+    "name": "Doug Craig",
+    "race": "cambridge-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "prakash-venkataraman",
+    "name": "Prakash Venkataraman",
+    "race": "cambridge-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "pam-wolf",
+    "name": "Pam Wolf",
+    "race": "cambridge-regional-councillor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "terry-knarr",
+    "name": "Terry Knarr",
+    "race": "north-dumfries-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe"
+      },
+      "spend-more": {
+        "choice": "No"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "priorities": {
+        "comment": "Depends on what the community as a whole wants"
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "No"
+      },
+      "standalone-budget": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "Not at this time without further study"
+      }
+    }
+  },
+  {
+    "id": "rod-rolleman",
+    "name": "Rod Rolleman",
+    "race": "north-dumfries-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Multi use trail ultimately connecting to Kitchener trails"
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "I’m not sure how this would work in a rural municipality"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Don’t have these in our Township"
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "I would like to look at the amount being spent and the proposed amount"
+      }
+    }
+  },
+  {
+    "id": "travis-knox",
+    "name": "Travis Knox",
+    "race": "north-dumfries-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "prabhjap-sandhu",
+    "name": "Prabhjap Sandhu",
+    "race": "north-dumfries-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "derrick-ostner",
+    "name": "Derrick Ostner",
+    "race": "north-dumfries-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "kishan-patel",
+    "name": "Kishan Patel",
+    "race": "north-dumfries-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Yes"
+      },
+      "standalone-budget": {
+        "choice": "Yes"
+      }
+    }
+  },
+  {
+    "id": "qavi-aziz",
+    "name": "Qavi Aziz",
+    "race": "north-dumfries-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "I support responsible investment in active transportation where it improves safety, accessibility and connectivity for residents. Funding decisions should be based on community needs, available resources and sound long-term planning."
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "I would support additional investment where there is a demonstrated need and clear benefit to residents, particularly for safety and connectivity. Any increased spending should be balanced with other municipal priorities and undertaken responsibly."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Yes. I would be willing to bring forward practical initiatives based on resident feedback, safety needs and opportunities to improve connections within our communities."
+      },
+      "priorities": {
+        "comment": "My priorities would be improving safety for pedestrians and cyclists, addressing gaps in existing routes, and creating better connections between neighbourhoods, parks, community facilities and local businesses. In a rural municipality like North Dumfries, solutions should reflect both village and rural needs. I would also support working with the Region and other partners where collaboration can improve safety and connectivity while making responsible use of municipal resources."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "I support making shared mobility more affordable, accessible and useful to people of different ages and abilities. Before choosing a particular operating model, I would want to review its costs, usage, accessibility and long-term financial sustainability. I would also encourage options beyond e-scooters, including affordable bicycles and e-bikes, and better connections with transit and community destinations."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Winter safety should be considered for everyone using our transportation network. I support prioritizing major cycling routes for timely snow clearing, particularly where they connect neighbourhoods, schools, community facilities and other frequently used destinations. I would also support better coordination between the Township and Region, clear maintenance priorities, and ensuring that snow from road clearing does not unnecessarily obstruct cycling routes."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "I support making cycling more accessible to people of different ages and abilities, including seniors and those who may benefit from e-bikes. Regulations should be clear and consistent, with appropriate speed and weight limits, clear signage, public education and reasonable enforcement to ensure cyclists, pedestrians and other users can safely and respectfully share trails and pathways."
+      },
+      "bike-racks": {
+        "comment": "I would support identifying municipal facilities, parks, recreation areas and other frequently used community destinations where secure bicycle parking would be beneficial. Installing well-designed bike racks can be a practical and cost-effective first step, while enclosed lockers or other secure options could be considered at locations where there is sufficient demand. I would also encourage partnerships with local businesses and community organizations to expand bicycle parking throughout the community."
+      }
+    }
+  },
+  {
+    "id": "sherri-hughes",
+    "name": "Sherri Hughes",
+    "race": "north-dumfries-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "denise-vanderhorst",
+    "name": "Denise Vanderhorst",
+    "race": "north-dumfries-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "alida-wilms",
+    "name": "Alida Wilms",
+    "race": "north-dumfries-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "barb-elliott",
+    "name": "Barb Elliott",
+    "race": "north-dumfries-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "jonathan-bos",
+    "name": "Jonathan Bos",
+    "race": "north-dumfries-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "natasha-salonen",
+    "name": "Natasha Salonen",
+    "race": "wilmot-mayor",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "I have supported the Regional Active Tranportation Master Plan and am supportive of the idea, however, without seeing a final document I do not want to pre-assume my support."
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "I absoultely think that active transportation is an important element to complete, healthy, and vibrant communities. However, spending more at this moment in time at a township level no, because much of our active transit network is through our trail connections and we have been innovative in securing those lands as donations and currently spend a proportionate amount in line with our planning for this network. However, pending an updated plan the costs required to implement is important which potentially could mean more spending. Also wanting to note that this is one element of our infastruucture network as again would need to look at the spending reletive to other priorities and needs in the township."
+      },
+      "propose-initiatives": {
+        "choice": "Maybe"
+      },
+      "priorities": {
+        "comment": "Wilmot is about to start our trails master plan (currently in the 2027 budget) and this includes building out or active transit network. I believe that this master plan will be fundamental in cohesively building out the townships active transit network with a plan including the needed financial plan to support our active transit networks. Seeing our trails and active transit connections built out will not only improve connectivity for users of the system but add to the vibrance of our community."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "I have been supportive of the Neuron shared micro-mobility contract at the region since we first introduced it. I agree that there are both limitations and areas for improvement. However, I am fundamentally not quick to support having the Region add directly to it's services that are not required through legislation to provide. So without seeing a proposal I would be hard pressed to say I would commit to a municipal bike share model. However, certainly open to exploring alternatives that are better cost effective for residents and make sense for the corporation which could be regional ownership or a different partner."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "On regional road for painted cycling routes, yes. In the township on regional roads that the region did not consult the township on the increased level of service probably not simply due to our capacity constraints to meet the legislative minimum regquirements for snow removal adding the bike lanes that the region has created in Wilmot is not the top priority for our budget."
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "I would like to better understand the experiences from both residents who would be sharing the cycle routes with e-bikes and those who currently use e-bikes in the region. I do agree there are great benefits for people with mobility limitations to be able to use e-bikes. However, looking at other jurisdictions across the province it is clear that regulating speeds and weights of e-bikes is rather difficult to enforce or catch those violating the rules. I would be intersted in learning more about the issue and possible options that municiplaities could consider."
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "The regional budget has a significant number of pressures, I would be supportive of staff bringing forward a proposal of standalone cycling infrastructure projects but again without seeing the whole budget proposed I could not speak to my potential support. I do think that staff even collecting and providing this information to council would be beneficial as there may be efficiencies or low cost high return projects that could go ahead and potential grant / other funding opportunities could be explored if we actually know what projects exsist."
+      },
+      "bike-racks": {
+        "comment": "Honestly, in Wilmot this has yet to be a request that has been asked, I am open to solutions that cyclists have on this matter."
+      }
+    }
+  },
+  {
+    "id": "stephanie-goertz",
+    "name": "Stephanie Goertz",
+    "race": "wilmot-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "kristopher-wilkinson",
+    "name": "Kristopher Wilkinson",
+    "race": "wilmot-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "clive-woolner",
+    "name": "Clive Woolner",
+    "race": "wilmot-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "stewart-cressman",
+    "name": "Stewart Cressman",
+    "race": "wilmot-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "kiera-upward",
+    "name": "Kiera Upward",
+    "race": "wilmot-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "peter-varga",
+    "name": "Peter Varga",
+    "race": "wilmot-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "alan-dicknoether",
+    "name": "Alan Dicknoether",
+    "race": "wilmot-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "I am not sure how much is currently being spent in Wilmot Township."
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "Connecting the township to KW. As a regular cyclist, I find the ride from Wilmot to KW dnagerous as there are areas along Snyder's rd and along Erb's rd that are dangerous."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Maybe"
+      },
+      "e-bikes": {
+        "choice": "Maybe",
+        "comment": "I feel that 32 km/hr is quite fast to be on a bike lane."
+      },
+      "standalone-budget": {
+        "choice": "Maybe",
+        "comment": "Please see my answer to a previous question which addresses this issue."
+      },
+      "bike-racks": {
+        "comment": "Not currently but am open to suggestions."
+      }
+    }
+  },
+  {
+    "id": "michael-roth",
+    "name": "Michael Roth",
+    "race": "wilmot-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "lucy-lantz",
+    "name": "Lucy Lantz",
+    "race": "wilmot-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "harvir-sidhu",
+    "name": "Harvir Sidhu",
+    "race": "wilmot-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "kevin-sundberg",
+    "name": "Kevin Sundberg",
+    "race": "wilmot-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "tammy-gaudun-gies",
+    "name": "Tammy Gaudun Gies",
+    "race": "wilmot-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "steven-martin",
+    "name": "Steven Martin",
+    "race": "wilmot-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "krista-straus",
+    "name": "Krista Straus",
+    "race": "wilmot-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sam-hiemstra",
+    "name": "Sam Hiemstra",
+    "race": "wilmot-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "jeff-bell",
+    "name": "Jeff Bell",
+    "race": "wilmot-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "scott-dunstall",
+    "name": "Scott Dunstall",
+    "race": "wilmot-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "chane-ballantyne",
+    "name": "Chane Ballantyne",
+    "race": "woolwich-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "evan-burgess",
+    "name": "Evan Burgess",
+    "race": "woolwich-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "glenn-fern",
+    "name": "Glenn Fern",
+    "race": "woolwich-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "eric-schwindt",
+    "name": "Eric Schwindt",
+    "race": "woolwich-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "nathan-cadeau",
+    "name": "Nathan Cadeau",
+    "race": "woolwich-ward-1",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Maybe"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "bike-share": {
+        "choice": "Maybe"
+      },
+      "snow-clearing": {
+        "choice": "No"
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "cambridge-wayfinding": {
+        "choice": "Yes"
+      },
+      "cambridge-wayfinding-more": {
+        "choice": "Yes"
+      }
+    }
+  },
+  {
+    "id": "paula-ferguson",
+    "name": "Paula Ferguson",
+    "race": "woolwich-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "jason-godglick",
+    "name": "Jason Godglick",
+    "race": "woolwich-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "tony-stevens",
+    "name": "Tony Stevens",
+    "race": "woolwich-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "tina-weltz",
+    "name": "Tina Weltz",
+    "race": "woolwich-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "sheryl-tilley",
+    "name": "Sheryl Tilley",
+    "race": "woolwich-ward-2",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Maybe",
+        "comment": "depends on cost to the taxpayer. My focus is to stop escalating taxes"
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "what do you suggest we stop funding in order to spend more on active transportation?"
+      },
+      "propose-initiatives": {
+        "choice": "Maybe",
+        "comment": "only they are financially self sustaining through user fees"
+      },
+      "priorities": {
+        "comment": "A thorough cost/benefit analysis, including but no limited to the extra expenses incurred for snow removal around bikes lanes, traffic congestion, loss of parking where applicable, and safety issues. If expense is to be borne by all taxpayers, then what is the return on investment for all taxpayers? Or should this be user fee specific? A sustained inquiry period is also necessary to ensure we are listening to the majority of taxpayers and not a minority interest, in order to make informed decisions."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Involve the public libraries in bike lending!"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "Again, given the fact that escalating property taxes are NOT sustainable, what do you suggest we stop funding order to fund snow clearing for bikes? One needs to consider core government programs (infrastructure, health, etc.) against non-core programs in order to make informed funding allocations that mitigate the tax burden."
+      },
+      "e-bikes": {
+        "choice": "No",
+        "comment": "Any vehicle that is not 100% dependent on human propulsion and uses the road, regardless of speed or weight, needs to be licensed along with the driver. The same could be said for horse and buggies."
+      },
+      "bike-racks": {
+        "comment": "Maybe bike clubs could buy bike racks and install them where they are needed. You are the users, you know where they need to go - get permission from the land owner and do it."
+      }
+    }
+  },
+  {
+    "id": "bonnie-bryant",
+    "name": "Bonnie Bryant",
+    "race": "woolwich-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "jeff-carruthers",
+    "name": "Jeff Carruthers",
+    "race": "woolwich-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "janet-cox",
+    "name": "Janet Cox",
+    "race": "woolwich-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "I'm very much in favour of funding active transportation, but I would want to be sure that the funding is strategic and effective.  I'm particularly interested in connecting communities safely."
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "There should be routes through the township that allow enough space for cyclists (and buggies) and motorists to share the same road.  Lines are ok, and signage helpful, but there needs to be enough paved width for safety.  This may be accomplished with a mix of regional and township roads.  The routes should provide a paved piece of lane, not shared with cars,  to safely connect all settlements in the Township and into the cities."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "Realistically as a Township councillor I will have no vote at the region, and could only provide input to the mayor who may or may not be receptive."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "I feel like this is a complicated question.  If the weather gets too bad, maybe it's best to switch to skiis.  I would support proper and  timely clearing in the shoulder seasons for sure.  I would support extending the effective clearing season, and seeing utilization.  I'm not sure how relevant this would be to the Woolwich Township situation.  I think winter biking may only be practical in the dense urban areas."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "I would really like to see safe connections between communities.  As an example of what is NOT good...when Shantz Station Rd was re-paved, the width of the roadway was decreased, and the white line moved farther from the centre, and there is no longer a wide enough space on the shoulder, outside the white line, to cycle safely."
+      },
+      "bike-racks": {
+        "comment": "I wonder if AI surveillance technology could help monitor, and alert when bikes are being cut off of racks, instead of properly unlocked by their rightful owners.  It's a tough problem.  Employers and stores could be encouraged or even incentivized to provide supervised internal space."
+      }
+    }
+  },
+  {
+    "id": "eryn-koncir",
+    "name": "Eryn Koncir",
+    "race": "woolwich-ward-3",
+    "website": "",
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "I support implementing the Active Transportation Master Plan where projects demonstrate clear safety, connectivity and community benefit, while considering affordability and competing infrastructure priorities."
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "I support appropriate investment in active transportation, but I don’t believe simply spending more should be the goal. We should prioritize projects that improve safety and close meaningful gaps in the network, coordinate them with planned road and development work where possible, and make sure residents receive good value for their tax dollars."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "Yes. I would support practical, community-driven initiatives that improve pedestrian and cycling safety and connectivity, particularly where growing communities have gaps in sidewalks, trails or safe connections to schools, parks and community amenities."
+      },
+      "priorities": {
+        "comment": "Focus on completing the most important gaps in our existing network rather than building disconnected infrastructure. Priorities should include safer connections between neighbourhoods, schools, parks and community amenities; addressing pedestrian and cycling safety on higher-speed roads; and ensuring active transportation is incorporated efficiently into new development and planned road reconstruction. In a large rural township, solutions also need to recognize that different communities have different transportation needs and that investments should be practical, equitable and financially responsible."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "I’m open to considering a municipal bike-share model if the evidence shows it would provide better affordability, accessibility and value for residents. Before committing to a particular operating model, I would want to understand the costs to taxpayers, demonstrated demand, expected utilization and how it would serve communities across the Region—not only the urban core."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "I support reliable winter maintenance of major cycling routes, particularly routes that serve as important transportation connections. Before committing to a specific 24-hour service standard, I would want to understand the additional cost, operational requirements and actual winter usage. Any enhanced standard should be targeted, practical and provide good value for taxpayers.\n\nPrioritize the highest-use and most important cycling connections rather than applying the same service level everywhere. Where possible, winter maintenance should be coordinated with road clearing so bike lanes are not used for snow storage, and problem locations such as intersections, crossings and trail connections should receive particular attention. Clear service standards and timely communication about route conditions would also help residents make safe travel decisions."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "Yes. I support treating conventional, bicycle-style e-bikes similarly to regular bicycles where they meet appropriate provincial safety, speed and weight standards. E-bikes can make cycling more accessible to more residents, including older adults and people travelling longer distances. Regulations should still prioritize pedestrian safety and allow appropriate restrictions on particular trails or locations where conflicts arise.\n\nClear and consistent rules across municipalities would help residents understand where different types of e-bikes and other mobility devices can safely operate. I would also support reviewing speed limits on shared-use trails, improving signage where cyclists and pedestrians share space, and ensuring regulations distinguish conventional e-bikes from heavier or faster motorized vehicles."
+      },
+      "bike-racks": {
+        "comment": "I would support adding secure bicycle parking at municipal facilities, parks, community centres and other high-use destinations where there is demonstrated demand. Where possible, bike racks should be incorporated into new developments and facility upgrades rather than added later at greater cost. For locations with higher usage or longer-term parking needs, enclosed lockers or cages could be considered based on demand, available space and cost."
+      }
+    }
+  },
+  {
+    "id": "joe-nowak",
+    "name": "Joe Nowak",
+    "race": "wellesley-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "chris-martin",
+    "name": "Chris Martin",
+    "race": "wellesley-mayor",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "shelley-wagner",
+    "name": "Shelley Wagner",
+    "race": "wellesley-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "chris-van-bargen",
+    "name": "Chris van Bargen",
+    "race": "wellesley-ward-2",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "derek-brick",
+    "name": "Derek Brick",
+    "race": "wellesley-ward-3",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "claude-hergott",
+    "name": "Claude Hergott",
+    "race": "wellesley-ward-4",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  }
+]

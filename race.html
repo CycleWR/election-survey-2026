@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="assets/img/cyclewr-logo.png">
+  <title>Candidate responses · CycleWR 2026 Candidate Survey</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="./"><img src="assets/img/cyclewr-logo.png" alt="CycleWR" width="90" height="47"><span class="brand-sub">2026 Candidate Survey</span></a>
+      <nav aria-label="Main">
+        <a href="./">Find your ward</a>
+        <a href="about.html">About the survey</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="wrap race-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb" id="breadcrumb"></nav>
+    <h1 id="race-title">Loading…</h1>
+    <p id="race-summary" class="race-summary"></p>
+    <div id="ballot" class="ballot"></div>
+
+    <nav class="mode-toggle" aria-label="Browse responses">
+      <span class="mode-label">Browse by:</span>
+      <a class="mode" id="mode-topic" href="#topic">Topic</a>
+      <a class="mode" id="mode-candidate" href="#candidate">Candidate</a>
+    </nav>
+    <div class="view-tabs" role="tablist" aria-label="Topics" id="tabs"></div>
+    <section id="panel" class="panel" role="tabpanel" tabindex="-1"></section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Responses are published as submitted by candidates. CycleWR does not endorse candidates.</p>
+    </div>
+  </footer>
+
+  <script type="module" src="assets/js/race.js"></script>
+</body>
+</html>

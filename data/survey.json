@@ -1,0 +1,160 @@
+{
+  "title": "CycleWR 2026 Municipal Candidate Survey",
+  "topics": [
+    {
+      "id": "plan",
+      "title": "Active Transportation Plan",
+      "description": "Funding the plan, spending priorities and leadership on council.",
+      "questions": [
+        {
+          "id": "master-plan",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Maybe"
+          ],
+          "text": "If elected, will you vote to fund your municipality’s Active Transportation Master Plan?"
+        },
+        {
+          "id": "spend-more",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Maybe"
+          ],
+          "text": "Do you think we should be spending more on active transportation?"
+        },
+        {
+          "id": "propose-initiatives",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Maybe"
+          ],
+          "text": "If elected, would you be willing to propose specific active transportation initiatives to your council?"
+        },
+        {
+          "id": "priorities",
+          "type": "open",
+          "text": "What are the two or three most important things you would like your municipal Council to accomplish over the next four years to support active transportation?"
+        }
+      ]
+    },
+    {
+      "id": "bike-share",
+      "title": "Shared Mobility",
+      "description": "Moving to a municipal bike-share model.",
+      "questions": [
+        {
+          "id": "bike-share",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Maybe"
+          ],
+          "text": "When our shared mobility contracts are next up for renewal, will you support transitioning the Region of Waterloo to a true municipal bike-share model - similar to Hamilton or Toronto - with cheaper non-electric options, and affordable monthly memberships?"
+        }
+      ]
+    },
+    {
+      "id": "snow",
+      "title": "Snow Clearing",
+      "description": "Clearing major cycling routes as quickly as roads.",
+      "questions": [
+        {
+          "id": "snow-clearing",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Maybe"
+          ],
+          "text": "Will you support the funding required to achieve a snow clearing standard for major cycling routes within the same time frame (maximum of 24 hours) as we have for roads?"
+        }
+      ]
+    },
+    {
+      "id": "e-bikes",
+      "title": "E-bikes",
+      "description": "Giving low-speed, lightweight e-bikes the same access as regular bikes.",
+      "questions": [
+        {
+          "id": "e-bikes",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Maybe"
+          ],
+          "text": "The Province is proposing a new class structure for power-assisted e-bikes that would exclude moped and motorcycle-type bikes (these would require licences). For the e-bikes that do not require licences, would you support the municipalities giving the same access as a regular bike, provided they fulfill two key criteria - maximum speed from the motor of 32 km/hr and maximum weight of 55 kilograms?"
+        }
+      ]
+    },
+    {
+      "id": "infrastructure",
+      "title": "Cycling Infrastructure Budget (Regional)",
+      "description": "Standalone projects to fill the most critical gaps in the cycling network.",
+      "questions": [
+        {
+          "id": "standalone-budget",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Maybe"
+          ],
+          "text": "Would you support a significant allocation of the Regional budget for “standalone” cycling infrastructure projects? The expectation is that staff will identify the most critical gaps in the cycling network that could be filled now, rather than waiting for the next major roadwork on that section of road?"
+        }
+      ]
+    },
+    {
+      "id": "bike-parking",
+      "title": "Bike Parking",
+      "description": "Ideas for bike racks and secure bike storage.",
+      "questions": [
+        {
+          "id": "bike-racks",
+          "type": "open",
+          "text": "Do you have ideas on how your municipality could better support installing more bike racks and/or fully enclosed bike lockers or cages?"
+        }
+      ]
+    },
+    {
+      "id": "cambridge-wayfinding",
+      "title": "Cambridge Wayfinding",
+      "description": "CycleWR's wayfinding proposal for Cambridge. Asked of Cambridge candidates only.",
+      "questions": [
+        {
+          "id": "cambridge-wayfinding",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Maybe"
+          ],
+          "text": "Would you support the CycleWR Cambridge wayfinding proposal?",
+          "municipalities": [
+            "cambridge"
+          ]
+        },
+        {
+          "id": "cambridge-wayfinding-more",
+          "type": "choice",
+          "choices": [
+            "Yes",
+            "No",
+            "Maybe"
+          ],
+          "text": "Would you like to hear more about the CycleWR Cambridge wayfinding proposal?",
+          "municipalities": [
+            "cambridge"
+          ]
+        }
+      ]
+    }
+  ]
+}
