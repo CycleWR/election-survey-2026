@@ -8,6 +8,7 @@ ROOT = Path(__file__).resolve().parent.parent
 cfg = json.loads((ROOT / "config/survey.json").read_text())
 cols = cfg["candidateColumns"]
 questions = [q for t in cfg["topics"] for q in t["questions"]]
+first = lambda c: c if isinstance(c, str) else c[0]  # config may list alternative column names
 random.seed(2026)
 
 WARDS = {"Kitchener": 10, "Waterloo": 7, "Cambridge": 8, "Wilmot": 4, "Woolwich": 3, "Wellesley": 4}
@@ -24,9 +25,9 @@ for city, n in WARDS.items():
 
 header = [cols["name"], cols["municipality"], cols["office"]]
 for q in questions:
-    header.append(q["column"])
+    header.append(first(q["column"]))
     if q.get("commentColumn"):
-        header.append(q["commentColumn"])
+        header.append(first(q["commentColumn"]))
 
 rows, k = [], 0
 for city, position in races:
@@ -38,11 +39,11 @@ for city, position in races:
                 if q.get("municipalities") and city.lower() not in q["municipalities"]:
                     continue
                 if q["type"] == "choice":
-                    row[q["column"]] = random.choice(q["choices"])
+                    row[first(q["column"])] = random.choice(q["choices"])
                     if q.get("commentColumn"):
-                        row[q["commentColumn"]] = ANSWER if random.random() > .5 else ""
+                        row[first(q["commentColumn"])] = ANSWER if random.random() > .5 else ""
                 elif random.random() > .1:
-                    row[q["column"]] = ANSWER
+                    row[first(q["column"])] = ANSWER
         rows.append(row)
 
 out = ROOT / "sample-data/responses.csv"

@@ -22,14 +22,28 @@ def slug(s):
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
 
 
+def norm(header):
+    """Column names match regardless of case and spacing ("Plan Support  Comments " == "plan support comments")."""
+    return re.sub(r"\s+", " ", header or "").strip().casefold()
+
+
+def names(spec):
+    """A config column is one header name, or a list of accepted alternatives."""
+    return [spec] if isinstance(spec, str) else list(spec)
+
+
+def cell(row, spec):
+    return next((row[norm(n)] for n in names(spec) if norm(n) in row), "")
+
+
 def parse_csv(text):
     reader = csv.DictReader(io.StringIO(text))
-    rows = [{(k or "").strip(): (v or "").strip() for k, v in r.items()} for r in reader]
-    return [h.strip() for h in reader.fieldnames or []], rows, text
+    rows = [{norm(k): (v or "").strip() for k, v in r.items() if k is not None} for r in reader]
+    return [h.strip() for h in reader.fieldnames or []], rows
 
 
 def read_tabs(cfg, sources):
-    """Yields (label, header, rows, raw text) for each sheet tab (--sheet) or local CSV file."""
+    """Yields (label, header, rows) for each sheet tab (--sheet) or local CSV file."""
     if sources == ["--sheet"]:
         s = cfg["sheet"]
         for tab in s["tabs"]:
@@ -80,20 +94,21 @@ def main(sources):
     wanted = [cols["name"]] + [q[k] for t in cfg["topics"] for q in t["questions"]
                                for k in ("column", "commentColumn") if q.get(k)]
     rows = []
-    for label, header, tab_rows, raw in read_tabs(cfg, sources):
-        missing = [c for c in wanted if c not in header]
+    for label, header, tab_rows in read_tabs(cfg, sources):
+        have = {norm(h) for h in header}
+        missing = [" or ".join(map(repr, names(c))) for c in wanted if not any(norm(n) in have for n in names(c))]
         if missing:
+            # Actions logs are public: report column names only, never cell contents.
             sys.exit(f"Columns not found in {label} (check config/survey.json):\n  " + "\n  ".join(missing)
-                     + f"\n\n{label} has columns:\n  " + "\n  ".join(repr(h) for h in header)
-                     + "\n\nFirst rows, as downloaded:\n" + "\n".join(raw.splitlines()[:15]))
+                     + f"\n\n{label} has columns:\n  " + "\n  ".join(repr(h) for h in header))
         rows += [(label, i, r) for i, r in enumerate(tab_rows, start=2)]
 
     races, candidates, problems, seen = {}, [], [], {}
     for label, i, row in rows:
-        name = row.get(cols["name"], "")
+        name = cell(row, cols["name"])
         if not name:
             continue
-        race_text = " ".join(row.get(cols[k], "") for k in ("municipality", "office", "ward") if cols.get(k))
+        race_text = " ".join(cell(row, cols[k]) for k in ("municipality", "office", "ward") if cols.get(k))
         race = parse_race(race_text, munis)
         if not race:
             problems.append(f"{label} row {i} ({name}): can't tell which race from '{race_text}'")
@@ -103,8 +118,8 @@ def main(sources):
         answers = {}
         for t in cfg["topics"]:
             for q in t["questions"]:
-                value = row.get(q["column"], "")
-                comment = row.get(q["commentColumn"], "") if q.get("commentColumn") else ""
+                value = cell(row, q["column"])
+                comment = cell(row, q["commentColumn"]) if q.get("commentColumn") else ""
                 a = {}
                 if q["type"] == "choice" and value:
                     a["choice"] = normalise_choice(value, q.get("choices", []))
@@ -120,7 +135,7 @@ def main(sources):
             candidates.remove(seen[cid])
             problems.append(f"{label} row {i} ({name}): duplicate name, keeping this later row")
         c = {"id": cid, "name": name, "race": race["id"],
-             "website": row.get(cols.get("website", ""), ""),
+             "website": cell(row, cols["website"]) if cols.get("website") else "",
              "responded": bool(answers), "answers": answers}
         seen[cid] = c
         candidates.append(c)

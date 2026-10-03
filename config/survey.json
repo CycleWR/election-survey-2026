@@ -1,5 +1,5 @@
 {
-  "_comment": "Maps Google Sheet columns to the site. 'column' / 'commentColumn' must match the sheet's header text exactly; 'text' is what the site shows. Only columns listed here are published. 'municipalities' limits a question to those races. 'sheet.tabs' lists the tabs to read (by gid, from the tab's URL); every tab must have the same columns.",
+  "_comment": "Maps Google Sheet columns to the site. 'column' / 'commentColumn' must match the sheet's header text (case and spacing are ignored; a list gives accepted alternative names); 'text' is what the site shows. Only columns listed here are published. 'municipalities' limits a question to those races. 'sheet.tabs' lists the tabs to read (by gid, from the tab's URL); every tab must have the same columns.",
   "title": "CycleWR 2026 Municipal Candidate Survey",
   "sheet": {
     "id": "1oPc6fr3bI8jDjanTKZd0au883PLSHxkArxZsk992R9g",
@@ -89,7 +89,10 @@
           ],
           "column": "Do you think we should be spending more on active transportation?",
           "text": "Do you think we should be spending more on active transportation?",
-          "commentColumn": "Active Transportation Plan Support Comments"
+          "commentColumn": [
+            "Active Transportation Plan Support Comments",
+            "Active Transportation Plan Comments"
+          ]
         },
         {
           "id": "propose-initiatives",
