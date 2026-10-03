@@ -667,14 +667,6 @@
     "answers": {}
   },
   {
-    "id": "mohamed-askalany",
-    "name": "Mohamed Askalany",
-    "race": "kitchener-ward-9",
-    "website": "",
-    "responded": false,
-    "answers": {}
-  },
-  {
     "id": "debbie-chapman",
     "name": "Debbie Chapman",
     "race": "kitchener-ward-9",
@@ -1099,8 +1091,42 @@
     "name": "Anna Meksavanh",
     "race": "kitchener-regional-councillor",
     "website": "",
-    "responded": false,
-    "answers": {}
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "The Region of Waterloo should spend more on active transportation to meet its climate goals, improve safety, and keep pace with growing demand."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "If elected, I will gladly champion active transportation initiatives that accelerate the Region of Waterloo's updated corridor guidelines, prioritizing wider, off-street multi-use paths over on-street painted lanes when rebuilding regional roads. These multi-use expressways are a vital investment because they ensure safe, year-round access for residents of all ages and skill levels while remaining significantly easier to keep clear of snow during our winter months. Moving forward, my focus will be on closing the critical infrastructure gaps between our existing urban trail networks to establish a fully connected, seamless cycling expressway system that spans the entire region."
+      },
+      "priorities": {
+        "comment": "I would like to see, Regional Council:\n1) Champion off-street multi-use paths that provide safe, year-round access for riders of all ages and skill levels. By embracing the Region of Waterloo’s updated corridor guidelines, we can naturally shift away from stressful on-street lanes and toward these wider, completely separated paths every time a regional road is rebuilt. \n2) To ensure everyone feels confident using this growing network, we should pair these physical infrastructure improvements with a community education campaign, featuring weekly or monthly region-hosted guided bike rides to warmly introduce residents and newcomers to our paths and show them how to navigate the region safely."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "When our shared mobility contracts come up for renewal, I will support transitioning Waterloo Region to an affordable, municipal bike-share model like Toronto or Hamilton. This shift is highly feasible by combining Grand River Transit funds with federal active transportation grants to introduce more affordable pricing options to residents. By treating this system as a true extension of our public transit network, we can integrate it directly into the EasyGO card and build strong financial partnerships with local universities, student unions, school boards, and businesses to keep it affordable for everyone."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "I would like to champion a “One Region, One Map” transit and plow tracking system, by adding the Region’s internal fleet GPS data into the existing Kitchener and Waterloo Geotab portals. Also the Region already has the infrastructure and software for its large truck fleet, my campaign and council proposal will focus on expanding this existing technology to the smaller utility tractors that clear our off-street cycling expressways and multi-use paths. This direct, simple expansion ensures the same environmental protection, transparency, and 'smart salting' precision is applied to active transit as it is to car lanes.\n\nTo make this happen, I will push for a dedicated funding allocation within the regional transport budget specifically for active transit winter operations. This minor shift in capital funding will allow us to purchase the right equipment for smaller paths without putting a burden on local property taxes. By keeping these paths reliably clear, we can support our local environmental goals of reducing greenhouse gas emissions by making walking, rolling, and cycling a truly viable, year-round alternative to driving."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "I would support giving light, pedal-assist e-bikes the exact same path access as regular bicycles, provided they strictly meet the province's proposed criteria of a 32 km/hr speed cap and a 55 kg maximum weight. This creates a clear, sensible line that welcomes everyday commuters while keeping heavy, high-speed mopeds off our multi-use trails where families walk.\n\nTo have my support, I will advocate for the following pieces to be included:\n\n1) Update our regional regulations and back them up with actual enforcement to ensure our trails stay safe and comfortable. I will advocate for region-wide age and helmet restrictions on all power-assisted devices, and ensure we provide the necessary municipal resources to the Waterloo Regional Police Service (WRPS) so their Traffic Services and Road Safety Enforcement Teams can effectively monitor micromobility speeds and gear compliance.\n\n2) Regulations need supportive community education campaigns, and true safety also requires preventative education. I would like to see partnerships with the local school boards directly to build bike and e-bike safety campaigns. I would like the Region to have regular region-hosted guided bike rides to teach residents and newcomers how to navigate these shared paths safely.\n\n3) I would like to see clearly visible signs throughout the paths at rider eye level to remind riders of the laws, and information on where they can get more details. \n\nBy combining smart rules, school-based youth education, targeted police enforcement, and hands-on community education, we can ensure our growing trail network stays welcoming, safe, and comfortable for all users."
+      },
+      "standalone-budget": {
+        "choice": "Yes",
+        "comment": "I support dedicating a portion of the Regional budget to standalone cycling infrastructure projects. We cannot afford to wait years for scheduled road reconstruction just to fix basic network gaps if we want to achieve our community climate goals. Moving forward, we must view active transportation as a legitimate, core extension of Grand River Transit (GRT). By treating bike lanes and trails as vital first-mile/last-mile transit infrastructure, we can rightfully tap into broader public transit funding envelopes and federal transit grants to build a connected network today, rather than tomorrow."
+      },
+      "bike-racks": {
+        "comment": "To provide peace of mind to riders and make cycling truly practical, we should treat secure bike parking as vital public infrastructure. \n\n1) I would support expansion of Waterloo’s secure bike locker program and Kitchener’s downtown secure parking passes, by installing fully enclosed bike cages at every major ION light rail and Grand River Transit hub.\n\n2) I will advocate updating local planning bylaws to require new commercial buildings and residential developments to include indoor, secure bike storage spaces.\n\n3) I will champion matching grants to local businesses through our Business Improvement Areas (BIAs) to help them install sturdy, high-quality outdoor bike racks.\n\nWe can fund this expansion by tapping into existing senior government streams, such as the federal Active Transportation Fund (ATF) and the Canada Public Transit Fund, which explicitly cover end-of-trip facilities. By utilizing these available grants to place enclosed lockers across the region, we can give cyclists total peace of mind whenever they travel."
+      }
+    }
   },
   {
     "id": "matt-rodrigues",
