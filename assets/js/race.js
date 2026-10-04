@@ -15,9 +15,11 @@ if (!race) {
   const responders = candidates.filter((c) => c.responded);
   const nonResponders = candidates.filter((c) => !c.responded);
   const muni = data.municipalities.get(race.municipality);
-  // Some questions only apply to certain municipalities (e.g. Cambridge wayfinding).
+  // Some questions only apply to certain municipalities (Cambridge wayfinding) or offices (Regional budget).
+  const applies = (q) => (!q.municipalities || q.municipalities.includes(race.municipality))
+    && (!q.offices || q.offices.includes(race.office));
   const topics = data.survey.topics
-    .map((t) => ({ ...t, questions: t.questions.filter((q) => !q.municipalities || q.municipalities.includes(race.municipality)) }))
+    .map((t) => ({ ...t, questions: t.questions.filter(applies) }))
     .filter((t) => t.questions.length);
 
   // ---- Header ----

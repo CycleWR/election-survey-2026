@@ -107,7 +107,12 @@
             "No",
             "Maybe"
           ],
-          "text": "Would you support a significant allocation of the Regional budget for “standalone” cycling infrastructure projects? The expectation is that staff will identify the most critical gaps in the cycling network that could be filled now, rather than waiting for the next major roadwork on that section of road?"
+          "text": "Would you support a significant allocation of the Regional budget for “standalone” cycling infrastructure projects? The expectation is that staff will identify the most critical gaps in the cycling network that could be filled now, rather than waiting for the next major roadwork on that section of road?",
+          "offices": [
+            "Regional Chair",
+            "Mayor",
+            "Regional Councillor"
+          ]
         }
       ]
     },
