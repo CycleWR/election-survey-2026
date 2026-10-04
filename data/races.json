@@ -125,6 +125,13 @@
       "name": "Regional Councillor (Waterloo)"
     },
     {
+      "id": "waterloo-ward-1",
+      "municipality": "waterloo",
+      "office": "Ward Councillor",
+      "ward": 1,
+      "name": "Waterloo Ward 1 Councillor"
+    },
+    {
       "id": "waterloo-ward-2",
       "municipality": "waterloo",
       "office": "Ward Councillor",

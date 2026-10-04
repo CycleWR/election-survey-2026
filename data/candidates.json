@@ -1411,6 +1411,22 @@
     "answers": {}
   },
   {
+    "id": "sandra-hanmer",
+    "name": "Sandra Hanmer",
+    "race": "waterloo-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
+    "id": "joel-botter",
+    "name": "Joel Botter",
+    "race": "waterloo-ward-1",
+    "website": "",
+    "responded": false,
+    "answers": {}
+  },
+  {
     "id": "shawn-humes",
     "name": "Shawn Humes",
     "race": "waterloo-ward-2",
