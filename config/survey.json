@@ -1,5 +1,5 @@
 {
-  "_comment": "Maps Google Sheet columns to the site. 'column' / 'commentColumn' must match the sheet's header text (case and spacing are ignored; a list gives accepted alternative names); 'text' is what the site shows. Only columns listed here are published. 'municipalities' limits a question to those races. 'sheet.tabs' lists the tabs to read (by gid, from the tab's URL); every tab must have the same columns.",
+  "_comment": "Maps Google Sheet columns to the site. 'column' / 'commentColumn' must match the sheet's header text (case and spacing are ignored; a list gives accepted alternative names); 'text' is what the site shows. Only columns listed here are published. 'municipalities' / 'offices' limit a question to races in those municipalities / for those offices. 'sheet.tabs' lists the tabs to read (by gid, from the tab's URL); every tab must have the same columns.",
   "title": "CycleWR 2026 Municipal Candidate Survey",
   "sheet": {
     "id": "1oPc6fr3bI8jDjanTKZd0au883PLSHxkArxZsk992R9g",
@@ -186,7 +186,12 @@
           ],
           "column": "Would you support a significant allocation of the Regional budget for “standalone” cycling infrastructure projects? The expectation is that staff will identify the most critical gaps in the cycling network that could be filled now, rather than waiting for the next major roadwork on that section of road?",
           "text": "Would you support a significant allocation of the Regional budget for “standalone” cycling infrastructure projects? The expectation is that staff will identify the most critical gaps in the cycling network that could be filled now, rather than waiting for the next major roadwork on that section of road?",
-          "commentColumn": "Standalone Budget Comments"
+          "commentColumn": "Standalone Budget Comments",
+          "offices": [
+            "Regional Chair",
+            "Mayor",
+            "Regional Councillor"
+          ]
         }
       ]
     },
