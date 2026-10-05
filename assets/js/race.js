@@ -132,7 +132,8 @@ if (!race) {
     const hash = decodeURIComponent(location.hash.slice(1));
     let key = null;
     let html;
-    const byCandidate = hash.startsWith('candidate');
+    // Candidate view is the default when the link doesn't pick a view.
+    const byCandidate = hash === '' || hash.startsWith('candidate');
     if (byCandidate) {
       html = renderCandidates(hash.split('=')[1]);
     } else if (hash === 'topic=all') {
