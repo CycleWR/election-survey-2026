@@ -886,12 +886,49 @@
     }
   },
   {
-    "id": "aalaa-rahman",
-    "name": "Aalaa Rahman",
+    "id": "aalaa-rehman",
+    "name": "Aalaa Rehman",
     "race": "kitchener-ward-10",
     "website": "",
-    "responded": false,
-    "answers": {}
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "I think it’s crucial to advocate for the continued expansion of safe, connected infrastructure for walking and cycling. Active transportation is not simply recreational infrastructure, although it is definitely wonderful to offer that recreational aspect; it is vital transportation infrastructure, and it offers our residents more avenues and affordable ways to get where they need to go, whether it be work, school, transit, parks, local businesses, etc. They strengthen our communities."
+      },
+      "spend-more": {
+        "choice": "Yes",
+        "comment": "For me, the question is not simply just how much we spend, but whether we are truly building a transportation network that works for residents no matter how they choose to get around our city. Residents should feel safe and comfortable whether they walk, drive, cycle, take public transit, etc. Investing in active transportation will actually help to close these gaps in equity for our residents, can create more safety (whether it be at intersections, on our roads, at the crosswalks, in shared lanes, etc), offer more accessible avenues to explore different forms of transit and make a significant difference in our resident’s daily lives.  This issue actually also is an affordability issue; having somewhat of a ‘monopoly’ that residents may only feel safe driving, even though this can be a rather expensive form of transportation. Reliable alternatives to driving can reduce these high costs, especially for students, young people, seniors who may no longer be driving, and households that may not be able to afford relying on a car, among others. I would support responsible investment alongside careful evaluation of where it can have the greatest impact."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "This issue is actually really personal for me. When I was a child (around 12), I was injured by a distracted driver while biking to my elementary school. I know personally how a single person’s moment can become another person’s hardship. When we think about active transportation, specifically cycling, both infrastructure and awareness are crucial to make cycling feel safe. I would like to work with UW, ULaurier, and Conestoga College to explore incorporating cycling and road-safety awareness into student orientation, particularly as many students may be beginning to drive or becoming more independent in how they travel, and may tend to either being distracted while driving or may not be looking out for cyclists.   I would also like to support local organizations that encourage young people to develop a love for cycling and learn to ride safely. When I attended Suddaby Public School, a nonprofit visited our school, provided me with a bike and helmet, and taught us how to bike safely. That experience is what inspired my own love of cycling, and I would like more young people to have opportunities like that. When we educate people, it provides more agency.   Alongside education, I would advocate for practical safety improvements, including protected bike lanes where appropriate, dedicated bicycle signals at busy intersections, and better winter clearing of cycling infrastructure. Winter clearing is especially crucial across all modes of active transportation; as someone who takes public transit often and walks often, this city is practically untravellable without driving, because the sidewalks, crosswalks, bike lanes, etc are not cleared."
+      },
+      "priorities": {
+        "comment": "As I stated in the previous section, those three are what I’d really like to focus on. To list them more succinctly:\n1. It needs to be a priority to make the infrastructure for walking and cycling safer. In the summer, walking is safe enough, but in the winter it can get to be extremely slippery with the uncleared areas. Where appropriate, I would support physical separation between cycling lanes and vehicle traffic through barriers or other protective designs, as well as dedicated bicycle signals and safer intersections. People should not have to feel that they are taking a significant risk simply by choosing to bike.\n2. Active transportation needs to be a year-round option, and that means winter maintenance seriously must be reconsidered by the city. Bike lanes and pedestrian routes need to be properly cleared and maintained after snowfalls, particularly on routes connecting neighbourhoods to schools, transit and major destinations. If we want people to consider cycling and walking as real transportation options, those options need to remain usable AND safe throughout the winter.\n3. We need to invest in awareness and a culture of cycling. Infrastructure is only part of road safety. I would like to collaborate with universities, schools and local nonprofits to promote safe driving and cycling practices and to give more people opportunities to learn to ride safely."
+      },
+      "bike-share": {
+        "choice": "Yes",
+        "comment": "I absolutely would advocate for a transition to a more affordable, accessible municipal bike-share model, including affordable monthly memberships and a meaningful supply of standard, non-electric bicycles. This service cannot be only privatized, because it recklessly drives up the cost in a way we see makes this completely inaccessible compared to other cities. Shared mobility should be a transportation option for residents of different ages and abilities, not something that primarily serves people who are comfortable using e-scooters."
+      },
+      "snow-clearing": {
+        "choice": "Yes",
+        "comment": "I will say it again and again: if we want walking and cycling to be genuine transportation options, they need to remain safe and usable throughout the winter. I would support funding to ensure major cycling routes are cleared within the same maximum 24-hour timeframe as roads, while also advocating for better clearing of pedestrian routes, crossings and connections to transit (such as buses, which can be extremely dangerous for many in the winter when ice mars the ground). Winter maintenance should prioritize the routes people actually rely on to get to work, school, transit and essential services."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "E-bikes can make cycling more accessible to people who may find traditional cycling difficult, including older adults and people travelling longer distances. I would want regulations to clearly distinguish the lower-speed bicycles from vehicles that function more like mopeds or motorcycles, while continuing to prioritize safety for cyclists and pedestrians."
+      },
+      "standalone-budget": {
+        "comment": "N/A: City Councillor Ward 10 Candidate!"
+      },
+      "bike-racks": {
+        "comment": "I would support expanding secure and accessible bicycle parking throughout Ward 10, particularly near transit stations, major destinations, schools, workplaces and municipal facilities. The City should look at opportunities to use existing public space and underutilized municipal facilities for secure bike parking or bike cages, rather than always requiring entirely new infrastructure. For residents to choose cycling as transportation, they need to know that they have somewhere safe and convenient to leave their bike when they arrive."
+      },
+      "cambridge-wayfinding-more": {
+        "comment": "N/A: Kitchener candidate"
+      }
+    }
   },
   {
     "id": "stephanie-stretch",
@@ -3078,8 +3115,39 @@
     "name": "Steven Haase",
     "race": "woolwich-ward-2",
     "website": "",
-    "responded": false,
-    "answers": {}
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes",
+        "comment": "I am an avid user of active transportation and want to support it as much as possible."
+      },
+      "spend-more": {
+        "choice": "Maybe",
+        "comment": "We need to maintain what we currently have, and many volunteer groups (i.e. Elmira Lions) do a great job with our local trails and other means of active transport. I would support further spending that measurably cuts the need for driving trips and other non-active modes of transport."
+      },
+      "propose-initiatives": {
+        "choice": "Yes",
+        "comment": "I believe in the power of community and presence. Initiatives can include large group rides and events to raise awareness for riders, rollers, and walkers of all kinds."
+      },
+      "priorities": {
+        "comment": "Enhancing the existing paths between destinations like the St. Jacobs market and village, as well as St Jacobs village to Elmira. Those are not desirable paths (other than Health Valley trail but that could use some love, and better signage for moving people from the market to town)."
+      },
+      "bike-share": {
+        "choice": "Maybe",
+        "comment": "This is a Regional contract, but I like cheaper non-electric bikes and affordable memberships, especially for older riders who aren't comfortable on e-scooters. If a municipal model can work without a big new cost to taxpayers, I'd support it."
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "In a rural township, I'd start with the routes that carry real winter traffic, like school routes and the village cores. I'd want to see the cost before committing to a blanket standard, then clear the busiest routes on the same schedule as the roads beside them."
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "I'd pair wider access with simple trail etiquette signs so walkers and riders know how to share the space."
+      },
+      "bike-racks": {
+        "comment": "I'd start simple, with good racks where people actually go: the St. Jacobs village core, the Market, parks, the library and the Woolwich Memorial Centre. We could invite local businesses to sponsor racks outside their doors, which keeps the cost down and helps their customers."
+      }
+    }
   },
   {
     "id": "bonnie-bryant",
