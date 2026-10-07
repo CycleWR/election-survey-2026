@@ -81,6 +81,33 @@ def parse_race(text, municipalities):
     return {"id": f"{muni['id']}-{suffix}", "municipality": muni["id"], "office": office, "name": name}
 
 
+RIDE_STATUSES = [  # (status id, words that mean it), checked in order
+    ("not-requested", ("not requested", "no request", "declined", "no")),
+    ("complete", ("complete", "completed", "done", "finished")),
+    ("requested", ("requested", "in progress", "scheduled", "pending", "waiting", "booked")),
+]
+
+
+def parse_ride(row, rcfg, label, i, name, problems):
+    """Rides with Candidates status from the optional ride columns, or None if not filled in."""
+    status_text = re.sub(r"[\s\-–]+", " ", cell(row, rcfg["statusColumn"])).strip().lower()
+    url = cell(row, rcfg["linkColumn"]).strip() if rcfg.get("linkColumn") else ""
+    summary = cell(row, rcfg["summaryColumn"]).strip() if rcfg.get("summaryColumn") else ""
+    if url and not re.match(r"https?://", url, re.I):
+        problems.append(f"{label} row {i} ({name}): ride link isn't a web address, ignored")
+        url = ""
+    status = (next((sid for sid, words in RIDE_STATUSES if status_text in words), None)
+              or next((sid for sid, words in RIDE_STATUSES  # e.g. "Requested - waiting"
+                       if any(len(w) > 3 and w in status_text for w in words)), None))
+    if status_text and not status:
+        problems.append(f"{label} row {i} ({name}): unknown ride status '{status_text}'")
+    if not status and url:
+        status = "complete"  # a blog post link means the ride happened
+    if not status:
+        return None
+    return {k: v for k, v in (("status", status), ("url", url), ("summary", summary)) if v}
+
+
 def normalise_choice(value, choices):
     for c in choices:
         if value.lower() == c.lower():
@@ -137,6 +164,9 @@ def main(sources):
         c = {"id": cid, "name": name, "race": race["id"],
              "website": cell(row, cols["website"]) if cols.get("website") else "",
              "responded": bool(answers), "answers": answers}
+        ride = parse_ride(row, cfg["rides"], label, i, name, problems) if cfg.get("rides") else None
+        if ride:
+            c["ride"] = ride
         seen[cid] = c
         candidates.append(c)
 

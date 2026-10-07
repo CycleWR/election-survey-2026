@@ -41,10 +41,47 @@ if (!race) {
       ${relatedRaces.map((r) => `<a class="pill" href="${raceUrl(r.id)}">${esc(r.name)}</a>`).join('')}`;
   }
 
+  // ---- Rides with Candidates (from the optional ride columns in the sheet) ----
+  const ridesActive = data.candidates.some((c) => c.ride);
+  const RIDE_LABEL = {
+    'not-requested': 'Did not request a ride',
+    requested: 'Ride requested – not yet completed',
+    complete: 'Ride completed',
+  };
+  const rideLink = (r) => (r && /^https?:\/\//i.test(r.url || '')
+    ? `<a class="ride-link" href="${esc(r.url)}" rel="noopener" target="_blank">Read about the ride →</a>` : '');
+  const rideChip = (r) => (r
+    ? `<span class="ride-chip ride-${r.status}">${RIDE_LABEL[r.status]}</span>`
+    : '<span class="ride-chip">No information yet</span>');
+
+  function rideBox(c) {
+    if (!ridesActive || !c.ride) return '';
+    return `<aside class="ride-box ride-${c.ride.status}">
+      <p class="ride-title"><a href="about.html#rides">Rides with Candidates</a></p>
+      ${rideChip(c.ride)}
+      ${c.ride.summary ? `<div class="ride-summary">${paragraphs(c.ride.summary)}</div>` : ''}
+      ${rideLink(c.ride)}
+    </aside>`;
+  }
+
+  function renderRides() {
+    return `<h2>Rides with Candidates</h2>
+      <p class="topic-desc">Each candidate's ride status, with a link to the blog post once the ride is complete. <a href="about.html#rides">About Rides with Candidates</a></p>
+      <ul class="answers">${candidates.map((c) => `<li class="answer">
+        ${selectable(c) ? `<a class="cand-name" href="#candidate=${encodeURIComponent(c.id)}">${esc(c.name)}</a>`
+          : `<span class="cand-name">${esc(c.name)}</span>`}
+        <div>${rideChip(c.ride)} ${rideLink(c.ride)}</div>
+      </li>`).join('')}</ul>`;
+  }
+
+  // A candidate can be opened if they answered the survey or have a ride to show.
+  const selectable = (c) => c.responded || (ridesActive && c.ride && c.ride.status !== 'not-requested');
+
   // ---- Topic tabs (shown in "by topic" mode) ----
-  // Plus an "All topics" tab that shows every question on one page.
+  // Plus "Rides with Candidates" (when the sheet has ride info) and an "All topics" tab.
   $('tabs').innerHTML = topics.map((t) =>
     `<a role="tab" class="tab" href="#topic=${t.id}" data-key="topic=${t.id}">${esc(t.title)}</a>`).join('')
+    + (ridesActive ? '<a role="tab" class="tab" href="#topic=rides" data-key="topic=rides">Rides with Candidates</a>' : '')
     + '<a role="tab" class="tab tab-all" href="#topic=all" data-key="topic=all">All topics</a>';
 
   // Colour answers by their first word, so "Yes, with conditions" still reads as a yes.
@@ -85,8 +122,9 @@ if (!race) {
   }
 
   function renderAllTopics() {
-    if (!responders.length) return `<p>No candidates in this race have responded yet.</p>${nonResponderNote()}`;
-    return topics.map((t) => `<section class="all-topic">${renderTopic(t, false)}</section>`).join('') + nonResponderNote();
+    const rides = ridesActive ? `<section class="all-topic">${renderRides()}</section>` : '';
+    if (!responders.length) return `${rides}<p>No candidates in this race have responded to the survey yet.</p>${nonResponderNote()}`;
+    return topics.map((t) => `<section class="all-topic">${renderTopic(t, false)}</section>`).join('') + rides + nonResponderNote();
   }
 
   // Quick "3 Yes · 1 Unsure" tally for multiple-choice questions.
@@ -103,11 +141,12 @@ if (!race) {
 
   function renderCandidates(selectedId) {
     if (!candidates.length) return '<p>No candidates are registered for this race yet.</p>';
-    // Non-responders are shown greyed out and can't be selected: they have no answers to show.
-    const selected = responders.find((c) => c.id === selectedId) || responders[0];
-    const picker = `<div class="cand-picker" role="list">${candidates.map((c) => (c.responded
+    // Candidates with nothing to show (no survey answers, no ride) are greyed out and can't be selected.
+    const selected = candidates.find((c) => c.id === selectedId && selectable(c))
+      || responders[0] || candidates.find(selectable);
+    const picker = `<div class="cand-picker" role="list">${candidates.map((c) => (selectable(c)
       ? `<a role="listitem" class="cand-pick ${c === selected ? 'is-selected' : ''}"
-           href="#candidate=${encodeURIComponent(c.id)}" ${c === selected ? 'aria-current="true"' : ''}>${esc(c.name)}</a>`
+           href="#candidate=${encodeURIComponent(c.id)}" ${c === selected ? 'aria-current="true"' : ''}>${esc(c.name)}${c.responded ? '' : ' <small>(no survey response)</small>'}</a>`
       : `<span role="listitem" class="cand-pick no-response" title="Did not respond to the survey">
            ${esc(c.name)} <small>(no response)</small></span>`)).join('')}</div>`;
     if (!selected) return `${picker}<p>No candidates in this race have responded yet.</p>`;
@@ -116,7 +155,8 @@ if (!race) {
       <div class="cand-card">
         <h2>${esc(selected.name)}</h2>
         ${/^https?:\/\//i.test(selected.website) ? `<p><a href="${esc(selected.website)}" rel="noopener" target="_blank">Campaign website</a></p>` : ''}
-        ${topics.map((t) => `
+        ${rideBox(selected)}
+        ${!selected.responded ? '<p class="muted">Did not respond to the survey.</p>' : topics.map((t) => `
         <section class="cand-topic">
           <h3>${esc(t.title)}</h3>
           ${t.questions.map((q) => `<div class="qa">
@@ -136,6 +176,9 @@ if (!race) {
     const byCandidate = hash === '' || hash.startsWith('candidate');
     if (byCandidate) {
       html = renderCandidates(hash.split('=')[1]);
+    } else if (hash === 'topic=rides' && ridesActive) {
+      key = hash;
+      html = renderRides();
     } else if (hash === 'topic=all') {
       key = hash;
       html = renderAllTopics();
