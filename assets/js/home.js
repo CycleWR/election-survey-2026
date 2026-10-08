@@ -26,6 +26,9 @@ document.getElementById('race-directory').innerHTML = html;
 
 // ---- Map ----
 const geo = await fetch('data/wards.geojson').then((r) => r.json());
+// Wards traced from municipal maps (not on the open data portal); fetch_wards.py doesn't touch this file.
+const extra = await fetch('data/wards-extra.geojson').then((r) => (r.ok ? r.json() : { features: [] }), () => ({ features: [] }));
+geo.features.push(...extra.features);
 if (geo.placeholder) document.getElementById('placeholder-note').hidden = false;
 const mapped = new Set(geo.features.map((f) => f.properties.municipality));
 const unmapped = [...data.municipalities.values()].filter((m) => m.id !== 'region' && !mapped.has(m.id));
@@ -34,7 +37,7 @@ if (unmapped.length) {
     `${new Intl.ListFormat('en').format(unmapped.map((m) => m.name))} ${unmapped.length > 1 ? "aren't" : "isn't"} on the map — choose your race from the list below.`;
 }
 
-const colours = { kitchener: '#2f6f1a', waterloo: '#1f5fa8' };
+const colours = { kitchener: '#2f6f1a', waterloo: '#1f5fa8', wellesley: '#b5531c' };
 const colour = (f) => colours[f.properties.municipality] || '#6b5ca5';
 
 const map = L.map('map', { scrollWheelZoom: false });
