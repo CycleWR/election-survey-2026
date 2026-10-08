@@ -37,7 +37,7 @@ if (unmapped.length) {
     `${new Intl.ListFormat('en').format(unmapped.map((m) => m.name))} ${unmapped.length > 1 ? "aren't" : "isn't"} on the map — choose your race from the list below.`;
 }
 
-const colours = { kitchener: '#2f6f1a', waterloo: '#1f5fa8', wellesley: '#b5531c', woolwich: '#8a3f8f', wilmot: '#a0761b', 'north-dumfries': '#1d7f7a' };
+const colours = { kitchener: '#2f6f1a', waterloo: '#1f5fa8', wellesley: '#b5531c', woolwich: '#8a3f8f', wilmot: '#a0761b', 'north-dumfries': '#1d7f7a', cambridge: '#a3315a' };
 const colour = (f) => colours[f.properties.municipality] || '#6b5ca5';
 
 const map = L.map('map', { scrollWheelZoom: false });
