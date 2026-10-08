@@ -40,7 +40,7 @@ ROW open data portal ──▶ scripts/fetch_wards.py ──▶ data/wards.geojs
 - Question `type` is `"choice"` (with `choices`, shown as coloured Yes/No/Unsure chips, optional
   `commentColumn`) or `"open"` (free text).
 - Wards with no candidates in the sheet yet are greyed out on the map.
-- Cambridge and the townships have no boundary data, so they appear in the race list but not on the map.
+- Cambridge and the townships have no boundary data, so they appear in the race list but not on the map. Links to every municipality's own ward map (Kitchener, Waterloo, Cambridge and the townships) sit above the map in `index.html`.
 
 Generated files (don't edit by hand): `data/survey.json`, `data/races.json`, `data/candidates.json`, `data/wards.geojson`.
 
