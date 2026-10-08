@@ -24,7 +24,7 @@ Candidates are listed alphabetically by surname. Non-responders are shown as "Di
 ```
 Google Sheet ──(GitHub Action "Update data", every 6h or on demand)──▶ scripts/build_data.py ──▶ data/*.json ──▶ site
 ROW open data portal ──▶ scripts/fetch_wards.py ──▶ data/wards.geojson (Kitchener + Waterloo)
-Municipal ward maps (PDF/ArcGIS) ──(traced once)──▶ data/wards-extra.geojson (Wellesley)
+Municipal ward maps (PDF/ArcGIS) ──(downloaded once)──▶ data/wards-extra.geojson (Wellesley, Woolwich, Wilmot, North Dumfries)
 ```
 
 - **`config/survey.json`** is the one file to edit by hand. It maps each sheet column (by exact header text)
