@@ -24,6 +24,7 @@ Candidates are listed alphabetically by surname. Non-responders are shown as "Di
 ```
 Google Sheet ──(GitHub Action "Update data", every 6h or on demand)──▶ scripts/build_data.py ──▶ data/*.json ──▶ site
 ROW open data portal ──▶ scripts/fetch_wards.py ──▶ data/wards.geojson (Kitchener + Waterloo)
+Municipal ward maps (PDF/ArcGIS) ──(downloaded once)──▶ data/wards-extra.geojson (Cambridge, Wellesley, Woolwich, Wilmot, North Dumfries)
 ```
 
 - **`config/survey.json`** is the one file to edit by hand. It maps each sheet column (by exact header text)
@@ -40,7 +41,7 @@ ROW open data portal ──▶ scripts/fetch_wards.py ──▶ data/wards.geojs
 - Question `type` is `"choice"` (with `choices`, shown as coloured Yes/No/Unsure chips, optional
   `commentColumn`) or `"open"` (free text).
 - Wards with no candidates in the sheet yet are greyed out on the map.
-- Cambridge and the townships have no boundary data, so they appear in the race list but not on the map.
+- Links to every municipality's official ward map sit above the map in `index.html`, for anyone who wants the official source.
 
 Generated files (don't edit by hand): `data/survey.json`, `data/races.json`, `data/candidates.json`, `data/wards.geojson`.
 
