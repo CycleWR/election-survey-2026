@@ -41,7 +41,7 @@ ROW open data portal ──▶ scripts/fetch_wards.py ──▶ data/wards.geojs
   `commentColumn`) or `"open"` (free text).
 - Wards with no candidates in the sheet yet are greyed out on the map.
 - **Rides with Candidates** (optional columns): **Ride Status** (`Not requested`, `Requested` / `In progress`, or
-  `Complete`), **Ride Blog Post** (link to the cyclewr.ca post) and **Ride Summary** (short text shown on the site).
+  `Complete`), and **Ride Blog Post** (link to the cyclewr.ca post).
   A blog post link on its own counts as Complete. Until the sheet has these columns, ride information is hidden.
 - Cambridge and the townships have no boundary data, so they appear in the race list but not on the map.
 

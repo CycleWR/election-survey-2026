@@ -57,7 +57,7 @@ if (!race) {
   function rideBox(c) {
     if (!ridesActive || !c.ride) return '';
     return `<aside class="ride-box ride-${c.ride.status}">
-      <p class="ride-title"><a href="about.html#rides">Rides with Candidates</a></p>
+      <p class="ride-title"><a href="https://cyclewr.ca/ride-with-candidates/" rel="noopener" target="_blank">Rides with Candidates</a></p>
       ${rideChip(c.ride)}
       ${c.ride.summary ? `<div class="ride-summary">${paragraphs(c.ride.summary)}</div>` : ''}
       ${rideLink(c.ride)}
@@ -66,7 +66,7 @@ if (!race) {
 
   function renderRides() {
     return `<h2>Rides with Candidates</h2>
-      <p class="topic-desc">Each candidate's ride status, with a link to the blog post once the ride is complete. <a href="about.html#rides">About Rides with Candidates</a></p>
+      <p class="topic-desc">Each candidate's ride status, with a link to the blog post once the ride is complete. <a href="https://cyclewr.ca/ride-with-candidates/" rel="noopener" target="_blank">About Rides with Candidates</a></p>
       <ul class="answers">${candidates.map((c) => `<li class="answer">
         ${selectable(c) ? `<a class="cand-name" href="#candidate=${encodeURIComponent(c.id)}">${esc(c.name)}</a>`
           : `<span class="cand-name">${esc(c.name)}</span>`}
