@@ -244,5 +244,21 @@
         }
       ]
     }
-  ]
+  ],
+  "rides": {
+    "_comment": "Optional Rides with Candidates columns; rows without them just show no ride info. Status values: Not requested / Requested (or In progress) / Complete. A blog post link alone counts as Complete.",
+    "statusColumn": [
+      "Ride Status",
+      "Ride with Candidates Status"
+    ],
+    "linkColumn": [
+      "Ride Blog Post",
+      "Ride Blog Post Link",
+      "Blog Post Link",
+      "Ride Link"
+    ],
+    "summaryColumn": [
+      "Ride Summary"
+    ]
+  }
 }

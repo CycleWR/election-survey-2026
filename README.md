@@ -41,6 +41,9 @@ Municipal ward maps (PDF/ArcGIS) ──(downloaded once)──▶ data/wards-ext
 - Question `type` is `"choice"` (with `choices`, shown as coloured Yes/No/Unsure chips, optional
   `commentColumn`) or `"open"` (free text).
 - Wards with no candidates in the sheet yet are greyed out on the map.
+- **Rides with Candidates** (optional columns): **Ride Status** (`Not requested`, `Requested` / `In progress`, or
+  `Complete`), and **Ride Blog Post** (link to the cyclewr.ca post).
+  A blog post link on its own counts as Complete. Until the sheet has these columns, ride information is hidden.
 - Links to every municipality's official ward map sit above the map in `index.html`, for anyone who wants the official source.
 
 Generated files (don't edit by hand): `data/survey.json`, `data/races.json`, `data/candidates.json`, `data/wards.geojson`.

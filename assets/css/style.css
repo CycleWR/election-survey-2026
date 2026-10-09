@@ -42,6 +42,8 @@ a { color: var(--green-dark); }
 .hero { background: var(--green-tint); border-top: 6px solid var(--lime); padding: 40px 0 32px; border-bottom: 1px solid var(--line); }
 .hero h1 { font-size: clamp(1.7rem, 4vw, 2.6rem); line-height: 1.15; margin: 0 0 12px; }
 .lede { font-size: 1.1rem; max-width: 60ch; margin: 0 0 12px; }
+.lede-rides { max-width: 66ch; margin: 0 0 12px; }
+.ride-row { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 12px; }
 .election-date { margin: 0; }
 h2 { margin-top: 36px; }
 #map { height: 520px; border-radius: var(--radius); border: 1px solid var(--line); background: #e9eeeb; }
@@ -135,3 +137,16 @@ h2 { margin-top: 36px; }
 /* "All topics": separate each topic's block clearly. */
 .all-topic + .all-topic { border-top: 3px solid var(--lime); margin-top: 32px; }
 .tab-all { font-style: italic; }
+
+/* Rides with Candidates */
+.ride-box { border-left: 4px solid var(--line); background: var(--bg); border-radius: 6px; padding: 10px 14px; margin: 12px 0 20px; }
+.ride-box.ride-complete { border-left-color: var(--lime); }
+.ride-box.ride-requested { border-left-color: #e0b84d; }
+.ride-title { margin: 0 0 6px; font-size: .8rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; }
+.ride-title a { color: var(--muted); }
+.ride-summary p { margin: 8px 0; }
+.ride-chip { display: inline-block; padding: 1px 10px; border-radius: 999px; font-size: .85rem; font-weight: 700; background: #eceff0; color: var(--muted); }
+.ride-chip.ride-complete { background: var(--yes-bg); color: var(--yes); }
+.ride-chip.ride-requested { background: var(--unsure-bg); color: var(--unsure); }
+.ride-link { display: inline-block; font-weight: 600; }
+.ride-box .ride-link { margin: 6px 0 0; display: block; }

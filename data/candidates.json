@@ -47,6 +47,10 @@
         "choice": "Yes",
         "comment": "I have thought about this. That is what led me to the Schneider's Creek watershed park idea. Wayfinding is critical especially for routes that are not on the traditional road network."
       }
+    },
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/david-alton/"
     }
   },
   {
@@ -55,7 +59,10 @@
     "race": "kitchener-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "wali-khan",
@@ -63,7 +70,10 @@
     "race": "kitchener-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "manikantan-nair",
@@ -106,6 +116,10 @@
       "bike-racks": {
         "comment": "Yes. I would support expanding secure bicycle parking based on demonstrated demand and location. The City could work with businesses, apartment buildings, transit stations, schools and community facilities to identify locations where secure bike parking is needed. We should encourage more standard bike racks where appropriate, and covered, enclosed or locked bike storage at higher-demand locations. I would also explore incentives or partnerships with private property owners to add secure bicycle parking.\nMy approach is to identify where the demand exists, prioritize those locations, and invest accordingly."
       }
+    },
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/manikantan-nair/"
     }
   },
   {
@@ -114,7 +128,10 @@
     "race": "kitchener-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "berry-vrbanovic",
@@ -122,7 +139,10 @@
     "race": "kitchener-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "cindy-ward",
@@ -130,7 +150,10 @@
     "race": "kitchener-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "elizabeth-bate",
@@ -167,6 +190,10 @@
       "bike-racks": {
         "comment": "I think ensuring bicycles are able to be parked and kept safe is important and I would encourage more secure bicycle parking in all municipal lots, including bike lockers in underground lots."
       }
+    },
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/elizabeth-bate/"
     }
   },
   {
@@ -175,7 +202,10 @@
     "race": "kitchener-ward-1",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "haile-kiflai",
@@ -183,7 +213,10 @@
     "race": "kitchener-ward-1",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "zahid-mian-mahmood",
@@ -191,7 +224,10 @@
     "race": "kitchener-ward-1",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "soran-ibrahim",
@@ -199,7 +235,10 @@
     "race": "kitchener-ward-2",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "derrick-rabethge",
@@ -207,7 +246,10 @@
     "race": "kitchener-ward-2",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "dave-schnider",
@@ -215,7 +257,10 @@
     "race": "kitchener-ward-2",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "shawn-bradshaw",
@@ -223,7 +268,10 @@
     "race": "kitchener-ward-3",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "joanne-delaney-fraser",
@@ -231,7 +279,10 @@
     "race": "kitchener-ward-3",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "jason-denault",
@@ -239,7 +290,10 @@
     "race": "kitchener-ward-3",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "lurdes-jordao",
@@ -247,7 +301,10 @@
     "race": "kitchener-ward-3",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "ismail-mohamed",
@@ -255,7 +312,10 @@
     "race": "kitchener-ward-3",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "matt-parker",
@@ -294,6 +354,10 @@
       "cambridge-wayfinding-more": {
         "choice": "Yes"
       }
+    },
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/matt-parker/"
     }
   },
   {
@@ -302,7 +366,10 @@
     "race": "kitchener-ward-4",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "ibraheem-kappaya",
@@ -340,6 +407,9 @@
       "bike-racks": {
         "comment": "Having my own bike stolen TWICE since 2022, this is something I myself deeply feel passionate to work on."
       }
+    },
+    "ride": {
+      "status": "not-requested"
     }
   },
   {
@@ -348,7 +418,10 @@
     "race": "kitchener-ward-4",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "vikki-poirier",
@@ -383,6 +456,10 @@
       "bike-racks": {
         "comment": "I’m still learning about Kitchener’s current approach to secure bike parking, but I would be interested in exploring where the gaps are and what more the City can reasonably do. That could include additional racks, lockers, or secure bike cages at City facilities, parks, community centers, and key transit connections, as well as opportunities to work with businesses and new developments.\nAs a parent raising an avid young cyclist, I worry about my grandson’s bike being stolen. I’m committed to listening, learning, and exploring practical, fiscally responsible solutions that make cycling a safer and more realistic option."
       }
+    },
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/vikki-poirier/"
     }
   },
   {
@@ -391,7 +468,10 @@
     "race": "kitchener-ward-4",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "nate-bahlbi",
@@ -399,7 +479,10 @@
     "race": "kitchener-ward-5",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "dimple-birdee",
@@ -407,7 +490,10 @@
     "race": "kitchener-ward-5",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "muhammad-miqdad-hudda",
@@ -415,7 +501,10 @@
     "race": "kitchener-ward-5",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "jon-massimi",
@@ -423,7 +512,11 @@
     "race": "kitchener-ward-5",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/jon-massimi/"
+    }
   },
   {
     "id": "rich-peers",
@@ -466,6 +559,9 @@
       "bike-racks": {
         "comment": "I would support more bike racks at key destinations, along with secure, covered or enclosed bike storage where there is enough demand. Working with businesses, schools, property managers and the Region could also help expand secure bike parking beyond municipal properties.\n\nI’d also like to see the City explore bike parking requirements for new developments"
       }
+    },
+    "ride": {
+      "status": "not-requested"
     }
   },
   {
@@ -474,7 +570,10 @@
     "race": "kitchener-ward-5",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "sumit-selhi",
@@ -482,7 +581,10 @@
     "race": "kitchener-ward-5",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "fitz-vanderpool",
@@ -490,7 +592,10 @@
     "race": "kitchener-ward-5",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "tracy-weiler",
@@ -498,7 +603,10 @@
     "race": "kitchener-ward-5",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "amber-louise-culley",
@@ -506,7 +614,11 @@
     "race": "kitchener-ward-6",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/amber-louise-culley/"
+    }
   },
   {
     "id": "paul-singh",
@@ -514,7 +626,10 @@
     "race": "kitchener-ward-6",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "brooklin-wallis",
@@ -549,6 +664,10 @@
       "bike-racks": {
         "comment": "Installing some protected bike lockers, à la Uptown Waterloo, is a must! We should also install secured bike storage areas like the ones we have downtown in other city community hubs, such as Fairview Mall."
       }
+    },
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/in-progress-ride-with-candidates-brooklin-wallis-kitchener-ward-6/"
     }
   },
   {
@@ -557,7 +676,10 @@
     "race": "kitchener-ward-7",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "richie-nanan",
@@ -594,6 +716,10 @@
       "bike-racks": {
         "comment": "The inability to securely lock a bicycle safely is a definite concern. This is particularly why I cannot use my bicycle as much as I would enjoy because of the lack of bike parking.\n\nMy candidacy encompasses this issue in terms of: promoting and supporting community wellbeing, advancing pedestrian-compromised infrastructures and improving infrastructure planning. \n\nI would encourage City Council to have a dialogue regarding the installation of more bike-securing options, whether it be racks, lockers or cages. The statistic's show that over 5400+ bike thefts happened between 2019-2024 and only 8% were recovered and/or returned.\n\nI not only have a idea, but also, a solution to the issues at hand;\nI am a part of a dedicated team that is currently developing a user-based platform that will record, report and rate bike/micro-mobilty secure locations/facilities (eg. Bike racks, locker); the platform, coming soon, will be called \"Bikelockd\". On this \"Bikelockd' platform users will be able to see where current bike-secured features are located throughout our region, see existing bike routes, and users will be able to record and share rack/locker locations, share pictures of the securing features, share experiences and a means of reporting theft within the community. \n\n\"Bikelockd\" is coming soon."
       }
+    },
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/richie-nanan/"
     }
   },
   {
@@ -632,6 +758,10 @@
       "bike-racks": {
         "comment": "I certainly feel this difficulty!  I cycle about 80% of all my trips in good weather, and many destinations lack good bicycle parking.  I would consider having the city give grants to businesses to install bike racks.  Presumably, these might marginally boost customer volumes for them too."
       }
+    },
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/nikki-rollick/"
     }
   },
   {
@@ -640,7 +770,10 @@
     "race": "kitchener-ward-8",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "margaret-johnston",
@@ -648,7 +781,10 @@
     "race": "kitchener-ward-8",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "philip-molto",
@@ -656,7 +792,10 @@
     "race": "kitchener-ward-8",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "carly-pettinger",
@@ -664,7 +803,11 @@
     "race": "kitchener-ward-8",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/carly-pettinger/"
+    }
   },
   {
     "id": "mohamed-askalany",
@@ -706,6 +849,10 @@
       "bike-racks": {
         "comment": "Secure bicycle parking is critical to encouraging daily cycling—residents are far more likely to ride for errands and commutes if they know their bike won't be stolen or damaged.\nMy key proposals to expand secure bike parking in Kitchener include:\n1-Update Zoning & Development By-laws: Modernize municipal building codes to require secure, sheltered, and accessible indoor bike storage facilities in all new multi-residential developments and major commercial plazas.\n2-Secure Lockers at Key Transit Hubs & Public Facilities: Partner with the Region and GRT to install electronic, secure bike lockers and covered cages at ION light rail stations, major bus hubs, community centres, libraries, and primary parklands in Ward 9.\n3-Commercial Business Matching Grants: Establish a municipal micro-grant program to help small businesses, local BIA members, and plaza owners install standardized, secure bike racks outside retail corridors.\n4-Retrofitting Public Spaces & Parklands: Convert underutilized paved areas near municipal facilities and neighbourhood hubs into dedicated, well-lit active transportation parking spots equipped with basic repair stands/pumps."
       }
+    },
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/mohamed-askalany/"
     }
   },
   {
@@ -745,6 +892,10 @@
       "bike-racks": {
         "comment": "I think the best way would be to introduce a bylaw requiring all new buildings to have bike racks. Such a bylaw already exists for new residential buildings. Perhaps the city could also introduce an incentive program to encourage existing plazas/businesses to install bike racks."
       }
+    },
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/debbie-chapman/"
     }
   },
   {
@@ -753,7 +904,10 @@
     "race": "kitchener-ward-9",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "everton-dixon",
@@ -803,6 +957,10 @@
         "choice": "No",
         "comment": "Candidate for Kitchener City Council, Ward 10."
       }
+    },
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/everton-dixon/"
     }
   },
   {
@@ -842,6 +1000,10 @@
       "bike-racks": {
         "comment": "I support further public investment in bike racks on public rights-of-way and at city facilities, including sheltered bike parking. I would like to see as-of-right permissions for bike racks in front of local businesses, in the same way as we allow a-frame signs.\n\nBike lockers and cages can be good options for commuters or longer-term parking options within city parking garages, but I wouldn't necessarily support their use outside of these facilities."
       }
+    },
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/sam-nabi/"
     }
   },
   {
@@ -883,6 +1045,9 @@
       "bike-racks": {
         "comment": "I live and work downtown Kitchener. The single biggest reason I don't cycle is I had no place to park my bike. I would advocate for more fully enclosed bike lockers in the city. Waterloo has a great program for enclosed bike lockers (although I think they could have substantially more enclosures) and I would like to duplicate that in Kitchener."
       }
+    },
+    "ride": {
+      "status": "not-requested"
     }
   },
   {
@@ -928,6 +1093,9 @@
       "cambridge-wayfinding-more": {
         "comment": "N/A: Kitchener candidate"
       }
+    },
+    "ride": {
+      "status": "requested"
     }
   },
   {
@@ -966,6 +1134,9 @@
       "bike-racks": {
         "comment": "The city of Kitchener Zoning By-Law requires secure bicycle parking in many types of new development. In addition, the City offers secure bike parking at several municipally operating parking garages."
       }
+    },
+    "ride": {
+      "status": "requested"
     }
   },
   {
@@ -974,7 +1145,10 @@
     "race": "kitchener-regional-councillor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "joe-gowing",
@@ -1024,6 +1198,10 @@
         "choice": "Yes",
         "comment": "Although this question is directed toward Cambridge candidates, Regional Council decisions affect transportation connections across the entire Region. I support exploring clear, consistent wayfinding that helps cyclists identify safer routes and navigate between municipalities. I would welcome more information about CycleWR’s proposal and how it could connect with a broader Regional network."
       }
+    },
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/joe-gowing/"
     }
   },
   {
@@ -1032,7 +1210,10 @@
     "race": "kitchener-regional-councillor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "simon-guthrie",
@@ -1072,6 +1253,10 @@
       "bike-racks": {
         "comment": "The city of Kitchener has bike cages in their parking garages, and I've been using these for a few years. They're excellent. But the system breaks as soon as I leave Kitchener. I would like to see a single system, like the one in Kitchener, expanded region-wide. If this means that the Region of Waterloo takes over bike parking from the lower-tier municipalities, then so be it!"
       }
+    },
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/simon-guthrie/"
     }
   },
   {
@@ -1080,7 +1265,10 @@
     "race": "kitchener-regional-councillor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "kim-huxted",
@@ -1121,6 +1309,9 @@
       "bike-racks": {
         "comment": "I think installing more bike racks could be helpful"
       }
+    },
+    "ride": {
+      "status": "not-requested"
     }
   },
   {
@@ -1163,6 +1354,9 @@
       "bike-racks": {
         "comment": "We should explore partnerships with businesses, developers and our transit system to add bike racks and secure lockers where there is demonstrated demand. Where possible, bike parking should be incorporated into new developments and major infrastructure projects from the outset, rather than added later."
       }
+    },
+    "ride": {
+      "status": "requested"
     }
   },
   {
@@ -1205,6 +1399,10 @@
       "bike-racks": {
         "comment": "To provide peace of mind to riders and make cycling truly practical, we should treat secure bike parking as vital public infrastructure. \n\n1) I would support expansion of Waterloo’s secure bike locker program and Kitchener’s downtown secure parking passes, by installing fully enclosed bike cages at every major ION light rail and Grand River Transit hub.\n\n2) I will advocate updating local planning bylaws to require new commercial buildings and residential developments to include indoor, secure bike storage spaces.\n\n3) I will champion matching grants to local businesses through our Business Improvement Areas (BIAs) to help them install sturdy, high-quality outdoor bike racks.\n\nWe can fund this expansion by tapping into existing senior government streams, such as the federal Active Transportation Fund (ATF) and the Canada Public Transit Fund, which explicitly cover end-of-trip facilities. By utilizing these available grants to place enclosed lockers across the region, we can give cyclists total peace of mind whenever they travel."
       }
+    },
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/anna-meksavanh/"
     }
   },
   {
@@ -1247,6 +1445,10 @@
       "bike-racks": {
         "comment": "While our role at the Regional is limited in this space, I support the inclusion of more bike racks and secure bike storage at major transit stops. I am encouraged that the new Kitchener Central Transit Hub will include expanded bike parking for commuters."
       }
+    },
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/matt-rodrigues/"
     }
   },
   {
@@ -1255,7 +1457,10 @@
     "race": "kitchener-regional-councillor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "kevin-white",
@@ -1298,6 +1503,9 @@
       "bike-racks": {
         "comment": "Securely locking a bike remains a concern. The only bike I've ever had stolen was from directly in front of city hall. I think it would be nice to see accessible bike locks more available across the Region, but maybe that could also be done without having to pave additional spaces or restrict areas on sidewalks that might reduce accessibility. The repurposing of some parking lot areas might be a consideration."
       }
+    },
+    "ride": {
+      "status": "requested"
     }
   },
   {
@@ -1338,6 +1546,10 @@
       "bike-racks": {
         "comment": "If there's something in the by-laws prohibiting bike racks, I'd probably be willing to help that. If a private property wants to install racks, who is government to stand in the way of that."
       }
+    },
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/mike-wisniewski/"
     }
   },
   {
@@ -1380,6 +1592,10 @@
       "bike-racks": {
         "comment": "Currently, our bike racks in the City of Waterloo, in particular Uptown, are underutilized. This is due to poor placement and weak visibility and advertising. I will work with cycling stakeholders to identify more effective locations and promotion."
       }
+    },
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/jeyas-balaskanthan/"
     }
   },
   {
@@ -1388,7 +1604,10 @@
     "race": "waterloo-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "jerry-jiang",
@@ -1396,7 +1615,10 @@
     "race": "waterloo-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "dorothy-mccabe",
@@ -1437,6 +1659,10 @@
       "bike-racks": {
         "comment": "Bike lock ups in the core areas of the cities that have a common fob for safe lockups for bikes.  Possibly with a membership"
       }
+    },
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/dorothy-mccabe/"
     }
   },
   {
@@ -1445,7 +1671,11 @@
     "race": "waterloo-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/shannon-weber/"
+    }
   },
   {
     "id": "sandra-hanmer",
@@ -1453,7 +1683,10 @@
     "race": "waterloo-ward-1",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "joel-botter",
@@ -1461,7 +1694,11 @@
     "race": "waterloo-ward-1",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/joel-botter/"
+    }
   },
   {
     "id": "shawn-humes",
@@ -1498,6 +1735,10 @@
       "bike-racks": {
         "comment": "Better parking options at local plazas are a need."
       }
+    },
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/shawn-humes/"
     }
   },
   {
@@ -1541,6 +1782,10 @@
       "bike-racks": {
         "comment": "I believe the municipality can make cycling more practical by treating secure bicycle parking as an important part of transportation infrastructure.\n\nI would support installing more bike racks at transit stops, community centres, libraries, parks, shopping areas, schools and other major destinations, with secure and weather-protected bicycle parking where demand is higher.\n\nFor higher-density areas and major transit connections, enclosed bike lockers or secure bike cages could provide additional protection from theft and weather. The municipality could also work with businesses, property owners and developers to encourage or require appropriate bicycle parking in new developments.\n\nBike parking should be conveniently located, well-lit, accessible and designed for different types of bicycles, including e-bikes and cargo bikes. Making it easier to securely park a bicycle will give residents greater confidence to choose cycling for everyday trips."
       }
+    },
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/ying-jiang/"
     }
   },
   {
@@ -1578,6 +1823,10 @@
       "bike-racks": {
         "comment": "more bike racks at city properties, libraries, malls etc"
       }
+    },
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/venkat-kondam/"
     }
   },
   {
@@ -1586,7 +1835,11 @@
     "race": "waterloo-ward-2",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/mochama-waterloo/"
+    }
   },
   {
     "id": "janice-moore",
@@ -1594,7 +1847,11 @@
     "race": "waterloo-ward-2",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/janice-moore/"
+    }
   },
   {
     "id": "khaled-berbash",
@@ -1602,7 +1859,11 @@
     "race": "waterloo-ward-2",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/khaled-berbash/"
+    }
   },
   {
     "id": "asma-al-wahsh",
@@ -1610,7 +1871,10 @@
     "race": "waterloo-ward-2",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "hans-roach",
@@ -1649,6 +1913,9 @@
       "bike-racks": {
         "comment": "Yes. I would support expanding secure bicycle parking at City facilities, transit hubs, recreation centres, libraries, parks and major commercial areas, with enclosed lockers or cages where longer-term parking is needed.\n\nI would also support working with developers and businesses to include high-quality bike parking in new projects, and exploring grants or cost-sharing programs to help retrofit existing locations. Secure parking is a relatively small investment that can make cycling much more practical."
       }
+    },
+    "ride": {
+      "status": "not-requested"
     }
   },
   {
@@ -1688,6 +1955,10 @@
       "bike-racks": {
         "comment": "I would support encouraging this work, and I think that pushing corporations to include effective bike parking and shelters, in addition to or even at the cost of car parking would be very helpful. The city could also offer lower-cost engineering assessments to do this work."
       }
+    },
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/victoria-robertson/"
     }
   },
   {
@@ -1723,6 +1994,9 @@
       "bike-racks": {
         "comment": "I support the use of policy tools such as requirements for new developments to provide bike parking as part of official plan and zoning approvals."
       }
+    },
+    "ride": {
+      "status": "not-requested"
     }
   },
   {
@@ -1731,7 +2005,10 @@
     "race": "waterloo-ward-4",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "syed-tirmizi",
@@ -1739,7 +2016,10 @@
     "race": "waterloo-ward-4",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "eda-dede",
@@ -1747,7 +2027,11 @@
     "race": "waterloo-ward-5",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/eda-dede/"
+    }
   },
   {
     "id": "scott-piatkowski",
@@ -1786,6 +2070,10 @@
       "bike-racks": {
         "comment": "This could be a condition of zone changes or site approval for new buildings."
       }
+    },
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/scott-piatkowski/"
     }
   },
   {
@@ -1794,7 +2082,10 @@
     "race": "waterloo-ward-5",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "marty-rempel",
@@ -1802,7 +2093,10 @@
     "race": "waterloo-ward-5",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "victoria-richardson",
@@ -1810,7 +2104,11 @@
     "race": "waterloo-ward-5",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/victoria-richardson/"
+    }
   },
   {
     "id": "damian-mikhail",
@@ -1818,7 +2116,10 @@
     "race": "waterloo-ward-6",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "william-davis",
@@ -1826,7 +2127,10 @@
     "race": "waterloo-ward-6",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "mary-lou-roe",
@@ -1864,6 +2168,10 @@
       "bike-racks": {
         "comment": "Waterloo has secure bike parking, including the bike lockers at the Waterloo Parking Garage and Willis Way ION station. I would support continuing to monitor demand and expanding bike racks and secure bike parking where needed, particularly at transit connections and other key destinations."
       }
+    },
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/mary-lou-roe/"
     }
   },
   {
@@ -1872,7 +2180,10 @@
     "race": "waterloo-ward-7",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "julie-wright",
@@ -1917,6 +2228,10 @@
       "cambridge-wayfinding-more": {
         "comment": "n/a"
       }
+    },
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/julie-wright/"
     }
   },
   {
@@ -1959,6 +2274,10 @@
       "bike-racks": {
         "comment": "I would need to consult with staff, however it is important to remember that the Region does not own the majority of the properties in the seven partner municipalities, and consequently this would be the responsbility of the seven partner municipalities."
       }
+    },
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/jim-erb/"
     }
   },
   {
@@ -1967,7 +2286,11 @@
     "race": "waterloo-regional-councillor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/chantal-huinink/"
+    }
   },
   {
     "id": "soobok-lee",
@@ -1975,7 +2298,10 @@
     "race": "waterloo-regional-councillor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "lindsay-manary",
@@ -2022,6 +2348,9 @@
       "cambridge-wayfinding-more": {
         "choice": "Yes"
       }
+    },
+    "ride": {
+      "status": "requested"
     }
   },
   {
@@ -2030,7 +2359,10 @@
     "race": "waterloo-regional-councillor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "rami-said",
@@ -2038,7 +2370,10 @@
     "race": "waterloo-regional-councillor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "sarvesh-pratap-singh",
@@ -2046,7 +2381,11 @@
     "race": "waterloo-regional-councillor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/servesh-pratap/"
+    }
   },
   {
     "id": "ryan-bolender",
@@ -2054,7 +2393,10 @@
     "race": "cambridge-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "tony-chavez",
@@ -2062,7 +2404,10 @@
     "race": "cambridge-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "scott-hamilton",
@@ -2070,7 +2415,10 @@
     "race": "cambridge-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "ihtsham-haq",
@@ -2078,7 +2426,10 @@
     "race": "cambridge-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "jan-liggett",
@@ -2086,7 +2437,10 @@
     "race": "cambridge-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "ken-roche",
@@ -2094,7 +2448,10 @@
     "race": "cambridge-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "jeff-donkersgoed",
@@ -2133,6 +2490,10 @@
       "cambridge-wayfinding-more": {
         "choice": "Yes"
       }
+    },
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/jeff-donkersgoed/"
     }
   },
   {
@@ -2141,7 +2502,10 @@
     "race": "cambridge-ward-1",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "helen-shwery",
@@ -2149,7 +2513,10 @@
     "race": "cambridge-ward-1",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "david-craig",
@@ -2157,7 +2524,10 @@
     "race": "cambridge-ward-2",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "mike-devine",
@@ -2165,7 +2535,10 @@
     "race": "cambridge-ward-2",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "mark-linton",
@@ -2173,7 +2546,10 @@
     "race": "cambridge-ward-2",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "matt-rogers",
@@ -2219,6 +2595,10 @@
         "choice": "No",
         "comment": "I've served as Vice Chair on CCTAC for several years, so I'm very familiar and supportive of this initiative. I would love to see some of the routes move ahead promptly."
       }
+    },
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/matt-rogers/"
     }
   },
   {
@@ -2227,7 +2607,10 @@
     "race": "cambridge-ward-3",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "corey-kimpson",
@@ -2235,7 +2618,10 @@
     "race": "cambridge-ward-3",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "shaun-spalding",
@@ -2243,7 +2629,10 @@
     "race": "cambridge-ward-3",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "ross-earnshaw",
@@ -2288,6 +2677,10 @@
         "choice": "No",
         "comment": "I'm behind this idea 100% and answered \"no\" to the second question because our CCTAC already has this information and supported wayfinding signage during the last term of council.  We even selected two proposed wayfinding routes in high need areas for a roll out of the concept but, again, the matter never came before council.  I'd be prepared to champion it (see my above comments about \"low hanging fruit\")"
       }
+    },
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/ross-earnshaw/"
     }
   },
   {
@@ -2296,7 +2689,10 @@
     "race": "cambridge-ward-4",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "david-o-hara",
@@ -2304,7 +2700,10 @@
     "race": "cambridge-ward-4",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "sheri-roberts",
@@ -2312,7 +2711,10 @@
     "race": "cambridge-ward-5",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "nazim-shah",
@@ -2320,7 +2722,10 @@
     "race": "cambridge-ward-5",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "randy-carter",
@@ -2328,7 +2733,10 @@
     "race": "cambridge-ward-6",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "adam-cooper",
@@ -2336,7 +2744,10 @@
     "race": "cambridge-ward-6",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "barbara-harrington",
@@ -2344,7 +2755,10 @@
     "race": "cambridge-ward-6",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "chris-mccormick",
@@ -2352,7 +2766,10 @@
     "race": "cambridge-ward-6",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "tasneem-chhadiya",
@@ -2360,7 +2777,10 @@
     "race": "cambridge-ward-7",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "manuel-da-silva",
@@ -2405,6 +2825,9 @@
         "choice": "Yes",
         "comment": "I would need to be better aware of the overall impact."
       }
+    },
+    "ride": {
+      "status": "not-requested"
     }
   },
   {
@@ -2413,7 +2836,10 @@
     "race": "cambridge-ward-7",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "david-guerin",
@@ -2421,7 +2847,10 @@
     "race": "cambridge-ward-7",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "dani-ieso",
@@ -2470,6 +2899,9 @@
         "choice": "Yes",
         "comment": "I support practical, affordable improvements that can make cycling safer now. Signed wayfinding routes are a good way to help cyclists, especially families and less experienced riders, find safer alternatives to busy streets. I would be interested in reviewing CycleWR’s proposed Cambridge routes and identifying where this approach could have the greatest benefit."
       }
+    },
+    "ride": {
+      "status": "not-requested"
     }
   },
   {
@@ -2478,7 +2910,10 @@
     "race": "cambridge-ward-7",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "chris-alward",
@@ -2486,7 +2921,10 @@
     "race": "cambridge-ward-8",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "cody-botelho",
@@ -2494,7 +2932,10 @@
     "race": "cambridge-ward-8",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "nicolas-ermeta",
@@ -2502,7 +2943,10 @@
     "race": "cambridge-ward-8",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "george-fiddick",
@@ -2510,7 +2954,11 @@
     "race": "cambridge-ward-8",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/george-fiddick/"
+    }
   },
   {
     "id": "arpan-pandit",
@@ -2518,7 +2966,11 @@
     "race": "cambridge-ward-8",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/arpan-pandit/"
+    }
   },
   {
     "id": "salman-arefin",
@@ -2526,7 +2978,11 @@
     "race": "cambridge-regional-councillor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/salman-arefin/"
+    }
   },
   {
     "id": "bryan-causarano-bolton",
@@ -2534,7 +2990,11 @@
     "race": "cambridge-regional-councillor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/bryan-causarano-bolton/"
+    }
   },
   {
     "id": "doug-craig",
@@ -2542,7 +3002,10 @@
     "race": "cambridge-regional-councillor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "prakash-venkataraman",
@@ -2550,7 +3013,10 @@
     "race": "cambridge-regional-councillor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "pam-wolf",
@@ -2558,7 +3024,10 @@
     "race": "cambridge-regional-councillor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "terry-knarr",
@@ -2594,6 +3063,9 @@
       "bike-racks": {
         "comment": "Not at this time without further study"
       }
+    },
+    "ride": {
+      "status": "not-requested"
     }
   },
   {
@@ -2630,6 +3102,9 @@
         "choice": "Maybe",
         "comment": "I would like to look at the amount being spent and the proposed amount"
       }
+    },
+    "ride": {
+      "status": "not-requested"
     }
   },
   {
@@ -2638,7 +3113,10 @@
     "race": "north-dumfries-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "prabhjap-sandhu",
@@ -2646,7 +3124,10 @@
     "race": "north-dumfries-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "derrick-ostner",
@@ -2654,7 +3135,10 @@
     "race": "north-dumfries-ward-1",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "kishan-patel",
@@ -2684,6 +3168,9 @@
       "standalone-budget": {
         "choice": "Yes"
       }
+    },
+    "ride": {
+      "status": "not-requested"
     }
   },
   {
@@ -2723,6 +3210,9 @@
       "bike-racks": {
         "comment": "I would support identifying municipal facilities, parks, recreation areas and other frequently used community destinations where secure bicycle parking would be beneficial. Installing well-designed bike racks can be a practical and cost-effective first step, while enclosed lockers or other secure options could be considered at locations where there is sufficient demand. I would also encourage partnerships with local businesses and community organizations to expand bicycle parking throughout the community."
       }
+    },
+    "ride": {
+      "status": "not-requested"
     }
   },
   {
@@ -2731,7 +3221,10 @@
     "race": "north-dumfries-ward-2",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "denise-vanderhorst",
@@ -2739,7 +3232,10 @@
     "race": "north-dumfries-ward-2",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "alida-wilms",
@@ -2747,7 +3243,10 @@
     "race": "north-dumfries-ward-3",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "barb-elliott",
@@ -2755,7 +3254,10 @@
     "race": "north-dumfries-ward-4",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "jonathan-bos",
@@ -2763,7 +3265,10 @@
     "race": "north-dumfries-ward-4",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "natasha-salonen",
@@ -2805,6 +3310,9 @@
       "bike-racks": {
         "comment": "Honestly, in Wilmot this has yet to be a request that has been asked, I am open to solutions that cyclists have on this matter."
       }
+    },
+    "ride": {
+      "status": "requested"
     }
   },
   {
@@ -2813,7 +3321,10 @@
     "race": "wilmot-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "kristopher-wilkinson",
@@ -2821,7 +3332,10 @@
     "race": "wilmot-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "clive-woolner",
@@ -2829,7 +3343,10 @@
     "race": "wilmot-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "stewart-cressman",
@@ -2837,7 +3354,10 @@
     "race": "wilmot-ward-1",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "kiera-upward",
@@ -2845,7 +3365,10 @@
     "race": "wilmot-ward-1",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "peter-varga",
@@ -2853,7 +3376,10 @@
     "race": "wilmot-ward-1",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "alan-dicknoether",
@@ -2892,6 +3418,10 @@
       "bike-racks": {
         "comment": "Not currently but am open to suggestions."
       }
+    },
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/alan-dicknoether/"
     }
   },
   {
@@ -2900,7 +3430,10 @@
     "race": "wilmot-ward-2",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "requested"
+    }
   },
   {
     "id": "lucy-lantz",
@@ -2908,7 +3441,10 @@
     "race": "wilmot-ward-2",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "harvir-sidhu",
@@ -2916,7 +3452,10 @@
     "race": "wilmot-ward-3",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "kevin-sundberg",
@@ -2924,7 +3463,10 @@
     "race": "wilmot-ward-3",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "requested"
+    }
   },
   {
     "id": "tammy-gaudun-gies",
@@ -2932,7 +3474,10 @@
     "race": "wilmot-ward-3",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "steven-martin",
@@ -2940,7 +3485,11 @@
     "race": "wilmot-ward-4",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/steven-martin/"
+    }
   },
   {
     "id": "krista-straus",
@@ -2948,7 +3497,10 @@
     "race": "wilmot-ward-4",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "sam-hiemstra",
@@ -2956,7 +3508,10 @@
     "race": "wilmot-ward-4",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "jeff-bell",
@@ -2964,7 +3519,10 @@
     "race": "wilmot-ward-4",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "scott-dunstall",
@@ -2972,7 +3530,10 @@
     "race": "wilmot-ward-4",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "chane-ballantyne",
@@ -2980,7 +3541,10 @@
     "race": "woolwich-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "evan-burgess",
@@ -2988,7 +3552,10 @@
     "race": "woolwich-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "glenn-fern",
@@ -2996,7 +3563,10 @@
     "race": "woolwich-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "eric-schwindt",
@@ -3004,7 +3574,10 @@
     "race": "woolwich-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "nathan-cadeau",
@@ -3037,6 +3610,9 @@
       "cambridge-wayfinding-more": {
         "choice": "Yes"
       }
+    },
+    "ride": {
+      "status": "not-requested"
     }
   },
   {
@@ -3045,7 +3621,10 @@
     "race": "woolwich-ward-1",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "jason-godglick",
@@ -3053,7 +3632,10 @@
     "race": "woolwich-ward-1",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "tony-stevens",
@@ -3061,7 +3643,10 @@
     "race": "woolwich-ward-1",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "tina-weltz",
@@ -3069,7 +3654,11 @@
     "race": "woolwich-ward-1",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "requested",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/tina-weltz/"
+    }
   },
   {
     "id": "sheryl-tilley",
@@ -3108,6 +3697,9 @@
       "bike-racks": {
         "comment": "Maybe bike clubs could buy bike racks and install them where they are needed. You are the users, you know where they need to go - get permission from the land owner and do it."
       }
+    },
+    "ride": {
+      "status": "not-requested"
     }
   },
   {
@@ -3147,6 +3739,9 @@
       "bike-racks": {
         "comment": "I'd start simple, with good racks where people actually go: the St. Jacobs village core, the Market, parks, the library and the Woolwich Memorial Centre. We could invite local businesses to sponsor racks outside their doors, which keeps the cost down and helps their customers."
       }
+    },
+    "ride": {
+      "status": "not-requested"
     }
   },
   {
@@ -3155,7 +3750,10 @@
     "race": "woolwich-ward-3",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "jeff-carruthers",
@@ -3163,7 +3761,10 @@
     "race": "woolwich-ward-3",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "janet-cox",
@@ -3200,6 +3801,10 @@
       "bike-racks": {
         "comment": "I wonder if AI surveillance technology could help monitor, and alert when bikes are being cut off of racks, instead of properly unlocked by their rightful owners.  It's a tough problem.  Employers and stores could be encouraged or even incentivized to provide supervised internal space."
       }
+    },
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/janet-cox/"
     }
   },
   {
@@ -3239,6 +3844,9 @@
       "bike-racks": {
         "comment": "I would support adding secure bicycle parking at municipal facilities, parks, community centres and other high-use destinations where there is demonstrated demand. Where possible, bike racks should be incorporated into new developments and facility upgrades rather than added later at greater cost. For locations with higher usage or longer-term parking needs, enclosed lockers or cages could be considered based on demand, available space and cost."
       }
+    },
+    "ride": {
+      "status": "not-requested"
     }
   },
   {
@@ -3247,7 +3855,10 @@
     "race": "wellesley-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "chris-martin",
@@ -3255,7 +3866,11 @@
     "race": "wellesley-mayor",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "complete",
+      "url": "https://cyclewr.ca/ride-with-candidates/2026-election/chris-martin/"
+    }
   },
   {
     "id": "shelley-wagner",
@@ -3263,7 +3878,10 @@
     "race": "wellesley-ward-1",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "chris-van-bargen",
@@ -3271,7 +3889,10 @@
     "race": "wellesley-ward-2",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "derek-brick",
@@ -3279,7 +3900,10 @@
     "race": "wellesley-ward-3",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   },
   {
     "id": "claude-hergott",
@@ -3287,6 +3911,9 @@
     "race": "wellesley-ward-4",
     "website": "",
     "responded": false,
-    "answers": {}
+    "answers": {},
+    "ride": {
+      "status": "not-requested"
+    }
   }
 ]

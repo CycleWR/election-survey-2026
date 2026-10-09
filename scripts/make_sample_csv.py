@@ -29,6 +29,11 @@ for q in questions:
     if q.get("commentColumn"):
         header.append(first(q["commentColumn"]))
 
+rides = cfg.get("rides", {})
+for key in ("statusColumn", "linkColumn", "summaryColumn"):
+    if rides.get(key):
+        header.append(first(rides[key]))
+
 rows, k = [], 0
 for city, position in races:
     for _ in range(random.randint(2, 4)):
@@ -44,6 +49,12 @@ for city, position in races:
                         row[first(q["commentColumn"])] = ANSWER if random.random() > .5 else ""
                 elif random.random() > .1:
                     row[first(q["column"])] = ANSWER
+        if rides:  # Rides with Candidates: mostly blank, plus every status
+            status = random.choice(["", "", "Not requested", "Requested", "Complete"])
+            row[first(rides["statusColumn"])] = status
+            if status == "Complete":
+                row[first(rides["linkColumn"])] = f"https://cyclewr.ca/ride-with-candidates-sample-candidate-{k}/"
+                row[first(rides["summaryColumn"])] = "Sample ride summary. We rode the Iron Horse Trail together and talked about connecting it to downtown."
         rows.append(row)
 
 out = ROOT / "sample-data/responses.csv"
