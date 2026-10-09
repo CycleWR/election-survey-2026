@@ -2614,7 +2614,7 @@
     "responded": false,
     "answers": {},
     "ride": {
-      "status": "not-requested"
+      "status": "requested"
     }
   },
   {
