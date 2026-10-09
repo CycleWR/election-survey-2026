@@ -794,7 +794,7 @@
     "responded": false,
     "answers": {},
     "ride": {
-      "status": "not-requested"
+      "status": "complete"
     }
   },
   {
@@ -1829,7 +1829,7 @@
       }
     },
     "ride": {
-      "status": "requested",
+      "status": "complete",
       "url": "https://cyclewr.ca/ride-with-candidates/2026-election/venkat-kondam/"
     }
   },
