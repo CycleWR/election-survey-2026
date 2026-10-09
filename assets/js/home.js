@@ -41,9 +41,10 @@ const colours = { kitchener: '#2f6f1a', waterloo: '#1f5fa8', wellesley: '#b5531c
 const colour = (f) => colours[f.properties.municipality] || '#6b5ca5';
 
 const map = L.map('map', { scrollWheelZoom: false });
+map.attributionControl.setPrefix('<a href="https://leafletjs.com" rel="noopener" target="_blank">Leaflet</a>');
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   maxZoom: 18,
-  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" rel="noopener" target="_blank">OpenStreetMap</a> contributors',
 }).addTo(map);
 
 // Wards with no candidates in the survey data yet are greyed out and not clickable.
