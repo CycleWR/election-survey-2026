@@ -66,11 +66,11 @@ if (!race) {
 
   function renderRides() {
     return `<h2>Rides with Candidates</h2>
-      <p class="topic-desc">Each candidate's ride status, with a link to the blog post once the ride is complete. <a href="https://cyclewr.ca/ride-with-candidates/" rel="noopener" target="_blank">About Rides with Candidates</a></p>
+      <p class="topic-desc">Each candidate's ride status, with a link to the blog post about their ride when there is one. <a href="https://cyclewr.ca/ride-with-candidates/" rel="noopener" target="_blank">About Rides with Candidates</a></p>
       <ul class="answers">${candidates.map((c) => `<li class="answer">
         ${selectable(c) ? `<a class="cand-name" href="#candidate=${encodeURIComponent(c.id)}">${esc(c.name)}</a>`
           : `<span class="cand-name">${esc(c.name)}</span>`}
-        <div>${rideChip(c.ride)} ${rideLink(c.ride)}</div>
+        <div class="ride-row">${rideChip(c.ride)}${rideLink(c.ride)}</div>
       </li>`).join('')}</ul>`;
   }
 
