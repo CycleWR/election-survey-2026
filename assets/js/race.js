@@ -146,7 +146,7 @@ if (!race) {
       || responders[0] || candidates.find(selectable);
     const picker = `<div class="cand-picker" role="list">${candidates.map((c) => (selectable(c)
       ? `<a role="listitem" class="cand-pick ${c === selected ? 'is-selected' : ''}"
-           href="#candidate=${encodeURIComponent(c.id)}" ${c === selected ? 'aria-current="true"' : ''}>${esc(c.name)}${c.responded ? '' : ' <small>(no survey response)</small>'}</a>`
+           href="#candidate=${encodeURIComponent(c.id)}" ${c === selected ? 'aria-current="true"' : ''}>${esc(c.name)}</a>`
       : `<span role="listitem" class="cand-pick no-response" title="Did not respond to the survey">
            ${esc(c.name)} <small>(no response)</small></span>`)).join('')}</div>`;
     if (!selected) return `${picker}<p>No candidates in this race have responded yet.</p>`;
