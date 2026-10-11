@@ -3664,7 +3664,7 @@
     "responded": false,
     "answers": {},
     "ride": {
-      "status": "requested",
+      "status": "complete",
       "url": "https://cyclewr.ca/ride-with-candidates/2026-election/tina-weltz/"
     }
   },
