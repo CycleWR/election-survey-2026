@@ -1095,7 +1095,7 @@
       }
     },
     "ride": {
-      "status": "requested",
+      "status": "complete",
       "url": "https://cyclewr.ca/ride-with-candidates/2026-election/aalaa-rehman/"
     }
   },
@@ -2234,7 +2234,7 @@
       }
     },
     "ride": {
-      "status": "requested",
+      "status": "complete",
       "url": "https://cyclewr.ca/ride-with-candidates/2026-election/julie-wright/"
     }
   },
