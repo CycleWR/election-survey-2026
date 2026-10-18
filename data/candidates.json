@@ -3518,8 +3518,34 @@
     "name": "Steven Martin",
     "race": "wilmot-ward-4",
     "website": "",
-    "responded": false,
-    "answers": {},
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "I think we need to add more bike lanes to roads in Wilmot Township.  I also think that we need to make walking and riding bikes as safe as possible"
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Yes"
+      },
+      "e-bikes": {
+        "choice": "Yes",
+        "comment": "I think people riding e-bikes should follow the rules of the road.  We have people in New Hamburg riding e-bikes and e-scooters that are putting others at risk by not following the rules of the road."
+      },
+      "bike-racks": {
+        "comment": "I have not heard of a problem for people securely locking their bikes in Wilmot Township, and I have not had a problem.  But if there are people in the Township who are experiencing difficulties, I am happy to work on making improvements where needed."
+      }
+    },
     "ride": {
       "status": "complete",
       "url": "https://cyclewr.ca/ride-with-candidates/2026-election/steven-martin/"
