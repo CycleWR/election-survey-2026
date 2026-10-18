@@ -118,7 +118,7 @@
       }
     },
     "ride": {
-      "status": "requested",
+      "status": "complete",
       "url": "https://cyclewr.ca/ride-with-candidates/2026-election/manikantan-nair/"
     }
   },
@@ -1665,7 +1665,7 @@
       }
     },
     "ride": {
-      "status": "requested",
+      "status": "complete",
       "url": "https://cyclewr.ca/ride-with-candidates/2026-election/dorothy-mccabe/"
     }
   },
@@ -1686,8 +1686,34 @@
     "name": "Sandra Hanmer",
     "race": "waterloo-ward-1",
     "website": "",
-    "responded": false,
-    "answers": {},
+    "responded": true,
+    "answers": {
+      "master-plan": {
+        "choice": "Yes"
+      },
+      "spend-more": {
+        "choice": "Yes"
+      },
+      "propose-initiatives": {
+        "choice": "Yes"
+      },
+      "priorities": {
+        "comment": "We have accomplished a great deal over the past year in better connecting our City of Waterloo. I'm excited about the Active Transportation Master Plan and look forward to participating in its implementation."
+      },
+      "bike-share": {
+        "choice": "Yes"
+      },
+      "snow-clearing": {
+        "choice": "Maybe",
+        "comment": "The ability for residents to get around our City, whether they are walking, cycling or rolling is important all year round. Clearing snow is a key part of making this possible. Before committing to bike lane/multi-use trail clearing to the same standard as we have for roads I'd want to better understand the impact that this would have on financial resources, human resources and our tax payers."
+      },
+      "e-bikes": {
+        "choice": "Maybe"
+      },
+      "bike-racks": {
+        "comment": "People need places to store bikes both at home and at final destinations. \n\nA number of ideas come to mind when thinking about bike storage at final destinations - providing incentives for businesses who have the indoor parking space to create fully enclosed bike lockers or cages; in City parking spaces, consider adding full enclosed bike lockers and even though its not necessarily enclosed consider permitting \"bike corrals\" in a parking space in front of a business. Bike corrals would also work in other public spaces such as parks, community centres, and arenas. \n\nWith respect to home - new builds -the City of Waterloo already encourages developers to include secure bike storage in parking areas both underground and above ground."
+      }
+    },
     "ride": {
       "status": "not-requested"
     }
