@@ -49,7 +49,7 @@
       }
     },
     "ride": {
-      "status": "requested",
+      "status": "complete",
       "url": "https://cyclewr.ca/ride-with-candidates/2026-election/david-alton/"
     }
   },
@@ -458,7 +458,7 @@
       }
     },
     "ride": {
-      "status": "requested",
+      "status": "complete",
       "url": "https://cyclewr.ca/ride-with-candidates/2026-election/vikki-poirier/"
     }
   },
@@ -514,7 +514,7 @@
     "responded": false,
     "answers": {},
     "ride": {
-      "status": "requested",
+      "status": "complete",
       "url": "https://cyclewr.ca/ride-with-candidates/2026-election/jon-massimi/"
     }
   },
@@ -666,7 +666,7 @@
       }
     },
     "ride": {
-      "status": "requested",
+      "status": "complete",
       "url": "https://cyclewr.ca/ride-with-candidates/2026-election/in-progress-ride-with-candidates-brooklin-wallis-kitchener-ward-6/"
     }
   },
@@ -805,7 +805,7 @@
     "responded": false,
     "answers": {},
     "ride": {
-      "status": "requested",
+      "status": "complete",
       "url": "https://cyclewr.ca/ride-with-candidates/2026-election/carly-pettinger/"
     }
   },
@@ -1358,7 +1358,7 @@
       }
     },
     "ride": {
-      "status": "requested",
+      "status": "complete",
       "url": "https://cyclewr.ca/ride-with-candidates/2026-election/colleen-james/"
     }
   },
@@ -1867,7 +1867,7 @@
     "responded": false,
     "answers": {},
     "ride": {
-      "status": "requested",
+      "status": "complete",
       "url": "https://cyclewr.ca/ride-with-candidates/2026-election/mochama-waterloo/"
     }
   },
@@ -2306,7 +2306,7 @@
       }
     },
     "ride": {
-      "status": "requested",
+      "status": "complete",
       "url": "https://cyclewr.ca/ride-with-candidates/2026-election/jim-erb/"
     }
   },
@@ -2640,7 +2640,7 @@
     "responded": false,
     "answers": {},
     "ride": {
-      "status": "requested"
+      "status": "complete"
     }
   },
   {
@@ -3464,7 +3464,7 @@
     "responded": false,
     "answers": {},
     "ride": {
-      "status": "requested",
+      "status": "complete",
       "url": "https://cyclewr.ca/ride-with-candidates/2026-election/michael-roth/"
     }
   },
@@ -3498,7 +3498,7 @@
     "responded": false,
     "answers": {},
     "ride": {
-      "status": "requested",
+      "status": "complete",
       "url": "https://cyclewr.ca/ride-with-candidates/2026-election/kevin-sundberg/"
     }
   },
